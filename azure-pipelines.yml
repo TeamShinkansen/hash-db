@@ -33,7 +33,7 @@ steps:
     Contents: '**'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
     CleanTargetFolder: true
-    preserveTimestamp: true'
+    preserveTimestamp: true
 
 - task: PublishBuildArtifacts@1
   inputs:
@@ -42,6 +42,7 @@ steps:
     publishLocation: 'Container'
 
 - task: GitHubRelease@1
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
   inputs:
     gitHubConnection: 'github.com_DanTheMan827'
     repositoryName: '$(Build.Repository.Name)'
