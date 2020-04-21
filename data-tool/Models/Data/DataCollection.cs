@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace TGDBHashTool.Models.Data
+namespace DataTool.Models.Data
 {
     [XmlRoot(ElementName = "collection")]
     public class DataCollection

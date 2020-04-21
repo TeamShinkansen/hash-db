@@ -1,4 +1,4 @@
-﻿namespace TGDBHashTool
+﻿namespace DataTool
 {
     partial class NumberEntry
     {

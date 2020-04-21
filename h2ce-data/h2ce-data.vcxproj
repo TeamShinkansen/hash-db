@@ -65,9 +65,9 @@
   <PropertyGroup>
     <NMakeOutput>h2ce-data.exe</NMakeOutput>
     <NMakePreprocessorDefinitions>NDEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
-    <NMakeBuildCommandLine>cd /D "$(SolutionDir)TGDBHashTool/bin/Debug"
+    <NMakeBuildCommandLine>cd /D "$(SolutionDir)data-tool/bin/Debug"
 mkdir "$(ProjectDir)Output"
-TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup" --out-xml "$(ProjectDir)Output/simple.xml" --out-xml-gz "$(ProjectDir)Output/simple.xml.gz"</NMakeBuildCommandLine>
+data-tool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup" --out-xml "$(ProjectDir)Output/simple.xml" --out-xml-gz "$(ProjectDir)Output/simple.xml.gz"</NMakeBuildCommandLine>
     <NMakeCleanCommandLine>rmdir "$(ProjectDir)Output" /s /q
 mkdir "$(ProjectDir)Output"</NMakeCleanCommandLine>
     <OutDir>$(ProjectDir)Output</OutDir>

@@ -1,4 +1,4 @@
-﻿namespace TGDBHashTool.Models
+﻿namespace DataTool.Models
 {
     public class HashCsv
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace TGDBHashTool.Models.Dat
+namespace DataTool.Models.Dat
 {
     [XmlRoot(ElementName = "datafile")]
     public class DatFile

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace TGDBHashTool
+namespace DataTool
 {
     public partial class NumberEntry : Form
     {

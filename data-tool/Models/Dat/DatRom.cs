@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace TGDBHashTool.Models.Dat
+namespace DataTool.Models.Dat
 {
     [XmlRoot(ElementName = "rom")]
     public class DatRom

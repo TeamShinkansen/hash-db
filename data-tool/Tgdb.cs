@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using TGDBHashTool.Models.Dat;
-using TGDBHashTool.Models.Data;
+using DataTool.Models.Dat;
+using DataTool.Models.Data;
 
-namespace TGDBHashTool
+namespace DataTool
 {
     public class Tgdb
     {
