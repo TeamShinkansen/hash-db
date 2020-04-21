@@ -11,15 +11,18 @@ namespace TGDBHashTool
         {
             
             XmlSerializer mySerializer = new XmlSerializer(typeof(T));
-            XmlTextWriter myWriter = new XmlTextWriter(output, new UTF8Encoding(false))
-            {
-                Indentation = 1,
-                IndentChar = '\t',
-                Namespaces = false
-            };
 
-            mySerializer.Serialize(output, data);
-            myWriter.Close();
+            using (var myWriter = XmlWriter.Create(output, new XmlWriterSettings()
+            {
+                CloseOutput = false,
+                Indent = true,
+                IndentChars = "\t",
+                Encoding = new UTF8Encoding(false)
+            }))
+            {
+                mySerializer.Serialize(myWriter, data);
+                myWriter.Close();
+            }
         }
         public static T Deserialize<T>(Stream input)
         {

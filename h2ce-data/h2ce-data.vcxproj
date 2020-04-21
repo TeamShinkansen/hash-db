@@ -62,46 +62,12 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <NMakeOutput>h2ce-data.exe</NMakeOutput>
-    <NMakePreprocessorDefinitions>WIN32;_DEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
-    <NMakeBuildCommandLine>cd /D "$(SolutionDir)TGDBHashTool/bin/Debug"
-mkdir "$(ProjectDir)Output"
-TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup"
-TGDBHashTool.exe --ce-xml "$(ProjectDir)Output/simple.xml"</NMakeBuildCommandLine>
-    <NMakeCleanCommandLine>rmdir "$(ProjectDir)Output" /s /q
-mkdir "$(ProjectDir)Output"</NMakeCleanCommandLine>
-    <OutDir>$(ProjectDir)Output</OutDir>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <NMakeOutput>h2ce-data.exe</NMakeOutput>
-    <NMakePreprocessorDefinitions>_DEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
-    <NMakeBuildCommandLine>cd /D "$(SolutionDir)TGDBHashTool/bin/Debug"
-mkdir "$(ProjectDir)Output"
-TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup"
-TGDBHashTool.exe --ce-xml "$(ProjectDir)Output/simple.xml"</NMakeBuildCommandLine>
-    <NMakeCleanCommandLine>rmdir "$(ProjectDir)Output" /s /q
-mkdir "$(ProjectDir)Output"</NMakeCleanCommandLine>
-    <OutDir>$(ProjectDir)Output</OutDir>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <NMakeOutput>h2ce-data.exe</NMakeOutput>
-    <NMakePreprocessorDefinitions>WIN32;NDEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
-    <NMakeBuildCommandLine>cd /D "$(SolutionDir)TGDBHashTool/bin/Debug"
-mkdir "$(ProjectDir)Output"
-TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup"
-TGDBHashTool.exe --ce-xml "$(ProjectDir)Output/simple.xml"</NMakeBuildCommandLine>
-    <NMakeCleanCommandLine>rmdir "$(ProjectDir)Output" /s /q
-mkdir "$(ProjectDir)Output"</NMakeCleanCommandLine>
-    <OutDir>$(ProjectDir)Output</OutDir>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+  <PropertyGroup>
     <NMakeOutput>h2ce-data.exe</NMakeOutput>
     <NMakePreprocessorDefinitions>NDEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
     <NMakeBuildCommandLine>cd /D "$(SolutionDir)TGDBHashTool/bin/Debug"
 mkdir "$(ProjectDir)Output"
-TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup"
-TGDBHashTool.exe --ce-xml "$(ProjectDir)Output/simple.xml"</NMakeBuildCommandLine>
+TGDBHashTool.exe --cs "$(ProjectDir)Output/GamesDB.cs" --cs-opts "com.clusterrr.hakchi_gui.data,GamesDB,HashLookup" --out-xml "$(ProjectDir)Output/simple.xml" --out-xml-gz "$(ProjectDir)Output/simple.xml.gz"</NMakeBuildCommandLine>
     <NMakeCleanCommandLine>rmdir "$(ProjectDir)Output" /s /q
 mkdir "$(ProjectDir)Output"</NMakeCleanCommandLine>
     <OutDir>$(ProjectDir)Output</OutDir>

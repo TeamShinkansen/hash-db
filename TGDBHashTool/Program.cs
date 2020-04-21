@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Windows.Forms;
 using TGDBHashTool.Models.Data;
@@ -21,7 +22,8 @@ namespace TGDBHashTool
         {
             var xmlPathIndex = Array.IndexOf(args, "--xml-path");
             var csIndex = Array.IndexOf(args, "--cs");
-            var ceXmlIndex = Array.IndexOf(args, "--ce-xml");
+            var ceXmlIndex = Array.IndexOf(args, "--out-xml");
+            var ceXmlGzIndex = Array.IndexOf(args, "--out-xml-gz");
             var csOptionsIndex = Array.IndexOf(args, "--cs-opts");
             bool showUi = true;
             
@@ -53,7 +55,7 @@ namespace TGDBHashTool
                 showUi = false;
             }
 
-            if (ceXmlIndex != -1)
+            if (ceXmlIndex != -1 || ceXmlGzIndex != -1)
             {
                 var simple = new SimpleHashes();
                 foreach (var entry in Data.GetHashDictionary(Collection).OrderBy(e => e.Key).Where(e => e.Value.Count > 0))
@@ -65,9 +67,28 @@ namespace TGDBHashTool
                     });
                 }
 
-                using (var file = File.Create(args[ceXmlIndex + 1]))
+                using (var xmlStream = new MemoryStream())
                 {
-                    Xml.Serialize<SimpleHashes>(file, simple);
+                    Xml.Serialize<SimpleHashes>(xmlStream, simple);
+                    xmlStream.Seek(0, SeekOrigin.Begin);
+
+                    if (ceXmlIndex != -1)
+                    {
+                        using (var file = File.Create(args[ceXmlIndex + 1]))
+                        {
+                            xmlStream.CopyTo(file);
+                            xmlStream.Seek(0, SeekOrigin.Begin);
+                        }
+                    }
+
+                    if (ceXmlGzIndex != -1)
+                    {
+                        using (var file = File.Create(args[ceXmlGzIndex + 1]))
+                        using (var gzipStream = new GZipStream(file, CompressionLevel.Optimal))
+                        {
+                            xmlStream.CopyTo(gzipStream);
+                        }
+                    }   
                 }
 
                 showUi = false;
