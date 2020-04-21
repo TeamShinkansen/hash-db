@@ -1,0 +1,3907 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <header>
+    <name>Sega - Game Gear</name>
+    <version>20200202-211618</version>
+  </header>
+  <game name="[BIOS] Sega Game Gear (USA) (Majesco)">
+    <description>[BIOS] Sega Game Gear (USA) (Majesco)</description>
+    <rom name="[BIOS] Sega Game Gear (USA) (Majesco).gg" crc="0EBEA9D4" />
+  </game>
+  <game name="5 in One FunPak (USA)">
+    <description>5 in One FunPak (USA)</description>
+    <rom name="5 in One FunPak (USA).gg" crc="F85A8CE8" />
+    <tgdb>11827</tgdb>
+  </game>
+  <game name="Aa Harimanada (Japan)">
+    <description>Aa Harimanada (Japan)</description>
+    <rom name="Aa Harimanada (Japan).gg" crc="1D17D2A0" />
+    <tgdb>61382</tgdb>
+  </game>
+  <game name="Addams Family, The (World)">
+    <description>Addams Family, The (World)</description>
+    <rom name="Addams Family, The (World).gg" crc="1D01F999" />
+    <tgdb>11828</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe).gg" crc="BB4F23FF" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-27)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-27)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-27).gg" crc="ACCE0D15" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-29)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-29)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-29).gg" crc="14867057" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-30)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-30)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-04-30).gg" crc="50376471" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-02)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-02)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-02).gg" crc="E57566F3" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-04)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-04)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-04).gg" crc="A9CF66ED" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06).gg" crc="50C2F1AD" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt 1)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt 1)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt 1).gg" crc="C403264A" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-07)">
+    <description>Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-07)</description>
+    <rom name="Adventures of Batman &amp; Robin, The (USA, Europe) (Beta) (1995-05-07).gg" crc="FC916FD7" />
+    <tgdb>20543</tgdb>
+  </game>
+  <game name="Aerial Assault (World)">
+    <description>Aerial Assault (World)</description>
+    <rom name="Aerial Assault (World).gg" crc="3E549B7A" />
+    <tgdb>11829</tgdb>
+  </game>
+  <game name="Aerial Assault (World) (Rev 1)">
+    <description>Aerial Assault (World) (Rev 1)</description>
+    <rom name="Aerial Assault (World) (Rev 1).gg" crc="04FE6DDE" />
+    <tgdb>11829</tgdb>
+  </game>
+  <game name="Aladdin (Japan)">
+    <description>Aladdin (Japan)</description>
+    <rom name="Aladdin (Japan).gg" crc="770E95E1" />
+    <tgdb>20353</tgdb>
+  </game>
+  <game name="Aladdin (USA, Europe, Brazil)">
+    <description>Aladdin (USA, Europe, Brazil)</description>
+    <rom name="Aladdin (USA, Europe, Brazil).gg" crc="7A41C1DC" />
+    <tgdb>20353</tgdb>
+  </game>
+  <game name="Aladdin (USA, Europe, Brazil) (Beta) (1993-12-28)">
+    <description>Aladdin (USA, Europe, Brazil) (Beta) (1993-12-28)</description>
+    <rom name="Aladdin (USA, Europe, Brazil) (Beta) (1993-12-28).gg" crc="5B1F717F" />
+    <tgdb>20353</tgdb>
+  </game>
+  <game name="Aladdin (USA, Europe, Brazil) (Beta) (1994-01-11)">
+    <description>Aladdin (USA, Europe, Brazil) (Beta) (1994-01-11)</description>
+    <rom name="Aladdin (USA, Europe, Brazil) (Beta) (1994-01-11).gg" crc="8A1693AB" />
+    <tgdb>20353</tgdb>
+  </game>
+  <game name="Aladdin (USA, Europe, Brazil) (Beta) (1994-01-13)">
+    <description>Aladdin (USA, Europe, Brazil) (Beta) (1994-01-13)</description>
+    <rom name="Aladdin (USA, Europe, Brazil) (Beta) (1994-01-13).gg" crc="75A7F142" />
+    <tgdb>20353</tgdb>
+  </game>
+  <game name="Alien 3 (Japan)">
+    <description>Alien 3 (Japan)</description>
+    <rom name="Alien 3 (Japan).gg" crc="06F6EEBB" />
+    <tgdb>11830</tgdb>
+  </game>
+  <game name="Alien 3 (USA, Europe)">
+    <description>Alien 3 (USA, Europe)</description>
+    <rom name="Alien 3 (USA, Europe).gg" crc="11A68C08" />
+    <tgdb>11830</tgdb>
+  </game>
+  <game name="Alien Syndrome (Europe)">
+    <description>Alien Syndrome (Europe)</description>
+    <rom name="Alien Syndrome (Europe).gg" crc="BB5E10E0" />
+    <tgdb>11831</tgdb>
+  </game>
+  <game name="Alien Syndrome (Japan)">
+    <description>Alien Syndrome (Japan)</description>
+    <rom name="Alien Syndrome (Japan).gg" crc="FFE4ED47" />
+    <tgdb>11831</tgdb>
+  </game>
+  <game name="Andre Agassi Tennis (USA)">
+    <description>Andre Agassi Tennis (USA)</description>
+    <rom name="Andre Agassi Tennis (USA).gg" crc="46C9FA3E" />
+    <tgdb>11832</tgdb>
+  </game>
+  <game name="Andre Agassi Tennis (USA) (Beta)">
+    <description>Andre Agassi Tennis (USA) (Beta)</description>
+    <rom name="Andre Agassi Tennis (USA) (Beta).gg" crc="F167028E" />
+    <tgdb>11832</tgdb>
+  </game>
+  <game name="Arcade Classics (USA)">
+    <description>Arcade Classics (USA)</description>
+    <rom name="Arcade Classics (USA).gg" crc="3DECA813" />
+    <tgdb>11833</tgdb>
+  </game>
+  <game name="Arch Rivals - The Arcade Game (USA)">
+    <description>Arch Rivals - The Arcade Game (USA)</description>
+    <rom name="Arch Rivals - The Arcade Game (USA).gg" crc="F0204191" />
+    <tgdb>11834</tgdb>
+  </game>
+  <game name="Arena - Maze of Death ~ Arena (USA, Europe)">
+    <description>Arena - Maze of Death ~ Arena (USA, Europe)</description>
+    <rom name="Arena - Maze of Death ~ Arena (USA, Europe).gg" crc="7CB3FACF" />
+    <tgdb>11835</tgdb>
+  </game>
+  <game name="Ariel the Little Mermaid (USA, Europe, Brazil)">
+    <description>Ariel the Little Mermaid (USA, Europe, Brazil)</description>
+    <rom name="Ariel the Little Mermaid (USA, Europe, Brazil).gg" crc="97E3A18C" />
+    <tgdb>11836</tgdb>
+  </game>
+  <game name="Arliel - Crystal Densetsu (Japan)">
+    <description>Arliel - Crystal Densetsu (Japan)</description>
+    <rom name="Arliel - Crystal Densetsu (Japan).gg" crc="35FA3F68" />
+    <tgdb>15969</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)">
+    <description>Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).gg" crc="328C5CC8" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA)">
+    <description>Asterix and the Great Rescue (USA)</description>
+    <rom name="Asterix and the Great Rescue (USA).gg" crc="78208B40" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA) (Beta) (1994-02-22)">
+    <description>Asterix and the Great Rescue (USA) (Beta) (1994-02-22)</description>
+    <rom name="Asterix and the Great Rescue (USA) (Beta) (1994-02-22).gg" crc="31BD3D8A" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA) (Beta) (1994-03-03)">
+    <description>Asterix and the Great Rescue (USA) (Beta) (1994-03-03)</description>
+    <rom name="Asterix and the Great Rescue (USA) (Beta) (1994-03-03).gg" crc="FAF09846" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA) (Beta) (1994-03-15)">
+    <description>Asterix and the Great Rescue (USA) (Beta) (1994-03-15)</description>
+    <rom name="Asterix and the Great Rescue (USA) (Beta) (1994-03-15).gg" crc="66D8EB63" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)">
+    <description>Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)</description>
+    <rom name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25).gg" crc="BA45F00F" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)">
+    <description>Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)</description>
+    <rom name="Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16).gg" crc="1E8D735C" />
+    <tgdb>11837</tgdb>
+  </game>
+  <game name="Asterix and the Secret Mission (Europe) (En,Fr,De)">
+    <description>Asterix and the Secret Mission (Europe) (En,Fr,De)</description>
+    <rom name="Asterix and the Secret Mission (Europe) (En,Fr,De).gg" crc="C01A8051" />
+    <tgdb>5734</tgdb>
+  </game>
+  <game name="Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (Beta) (1991-08-10)">
+    <description>Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (Beta) (1991-08-10)</description>
+    <rom name="Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (Beta) (1991-08-10).gg" crc="3435AB54" />
+    <tgdb>11838</tgdb>
+  </game>
+  <game name="Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil)">
+    <description>Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil)</description>
+    <rom name="Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil).gg" crc="663BCF8A" />
+    <tgdb>11838</tgdb>
+  </game>
+  <game name="Ax Battler - Golden Axe Densetsu (Japan)">
+    <description>Ax Battler - Golden Axe Densetsu (Japan)</description>
+    <rom name="Ax Battler - Golden Axe Densetsu (Japan).gg" crc="DFCF555F" />
+    <tgdb>11838</tgdb>
+  </game>
+  <game name="Ayrton Senna's Super Monaco GP II (Japan)">
+    <description>Ayrton Senna's Super Monaco GP II (Japan)</description>
+    <rom name="Ayrton Senna's Super Monaco GP II (Japan).gg" crc="661FAEFF" />
+    <tgdb>20544</tgdb>
+  </game>
+  <game name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil)">
+    <description>Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil)</description>
+    <rom name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil).gg" crc="1D1B1DD3" />
+    <tgdb>20544</tgdb>
+  </game>
+  <game name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta)">
+    <description>Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta)</description>
+    <rom name="Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta).gg" crc="6AFB8EC6" />
+    <tgdb>20544</tgdb>
+  </game>
+  <game name="Baku Baku (Europe)">
+    <description>Baku Baku (Europe)</description>
+    <rom name="Baku Baku (Europe).gg" crc="10AC9374" />
+    <tgdb>24268</tgdb>
+  </game>
+  <game name="Baku Baku (USA)">
+    <description>Baku Baku (USA)</description>
+    <rom name="Baku Baku (USA).gg" crc="8D8BFDC4" />
+    <tgdb>24268</tgdb>
+  </game>
+  <game name="Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)">
+    <description>Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)</description>
+    <rom name="Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan).gg" crc="7174B802" />
+    <tgdb>24268</tgdb>
+  </game>
+  <game name="Barbie Super Model (USA) (Proto)">
+    <description>Barbie Super Model (USA) (Proto)</description>
+    <rom name="Barbie Super Model (USA) (Proto).gg" crc="03A0CE9E" />
+    <tgdb>36429</tgdb>
+  </game>
+  <game name="Bare Knuckle ~ Streets of Rage (World)">
+    <description>Bare Knuckle ~ Streets of Rage (World)</description>
+    <rom name="Bare Knuckle ~ Streets of Rage (World).gg" crc="3D8BCF1D" />
+    <tgdb>25225</tgdb>
+  </game>
+  <game name="Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)">
+    <description>Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)</description>
+    <rom name="Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).gg" crc="0B618409" />
+    <tgdb>25226</tgdb>
+  </game>
+  <game name="Batman Forever (World)">
+    <description>Batman Forever (World)</description>
+    <rom name="Batman Forever (World).gg" crc="618B19E2" />
+    <tgdb>21765</tgdb>
+  </game>
+  <game name="Batman Returns (World)">
+    <description>Batman Returns (World)</description>
+    <rom name="Batman Returns (World).gg" crc="7AC4A3CA" />
+    <tgdb>5735</tgdb>
+  </game>
+  <game name="Batter Up (USA)">
+    <description>Batter Up (USA)</description>
+    <rom name="Batter Up (USA).gg" crc="16448209" />
+    <tgdb>24270</tgdb>
+  </game>
+  <game name="Battleship - The Classic Naval Combat Game (USA)">
+    <description>Battleship - The Classic Naval Combat Game (USA)</description>
+    <rom name="Battleship - The Classic Naval Combat Game (USA).gg" crc="E9987511" />
+    <tgdb>24271</tgdb>
+  </game>
+  <game name="Battletoads (Japan, Europe)">
+    <description>Battletoads (Japan, Europe)</description>
+    <rom name="Battletoads (Japan, Europe).gg" crc="CB3CD075" />
+    <tgdb>24001</tgdb>
+  </game>
+  <game name="Battletoads (USA)">
+    <description>Battletoads (USA)</description>
+    <rom name="Battletoads (USA).gg" crc="817CC0CA" />
+    <tgdb>24001</tgdb>
+  </game>
+  <game name="Beavis and Butt-Head (USA, Europe)">
+    <description>Beavis and Butt-Head (USA, Europe)</description>
+    <rom name="Beavis and Butt-Head (USA, Europe).gg" crc="A6BF865E" />
+    <tgdb>24272</tgdb>
+  </game>
+  <game name="Beavis and Butt-Head (USA, Europe) (Beta)">
+    <description>Beavis and Butt-Head (USA, Europe) (Beta)</description>
+    <rom name="Beavis and Butt-Head (USA, Europe) (Beta).gg" crc="3858F14F" />
+    <tgdb>24272</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA)">
+    <description>Berenstain Bears' Camping Adventure, The (USA)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA).gg" crc="A4BB9FFB" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28).gg" crc="75A7A8CA" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15).gg" crc="FCF47BC9" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21).gg" crc="A279C6BC" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22).gg" crc="FFBF5ABE" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27).gg" crc="112B123F" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01).gg" crc="882B8F53" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11).gg" crc="81A5E68F" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt 1)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt 1)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt 1).gg" crc="50D400B8" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12).gg" crc="0E676927" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13).gg" crc="F8F11B2A" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14).gg" crc="D0971F78" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19).gg" crc="177D65AC" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20).gg" crc="F61AC1E8" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24).gg" crc="B73486D6" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25).gg" crc="E07B865E" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26).gg" crc="217B1EF0" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt 1)">
+    <description>Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt 1)</description>
+    <rom name="Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt 1).gg" crc="167A4AF6" />
+    <tgdb>21759</tgdb>
+  </game>
+  <game name="Berlin no Kabe (Japan)">
+    <description>Berlin no Kabe (Japan)</description>
+    <rom name="Berlin no Kabe (Japan).gg" crc="325B1797" />
+    <tgdb>27362</tgdb>
+  </game>
+  <game name="Bishoujo Senshi Sailor Moon S (Japan)">
+    <description>Bishoujo Senshi Sailor Moon S (Japan)</description>
+    <rom name="Bishoujo Senshi Sailor Moon S (Japan).gg" crc="FE7374D2" />
+    <tgdb>19051</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe)">
+    <description>Bonkers Wax Up! (USA, Europe)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe).gg" crc="BFCEBA5F" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31).gg" crc="777DFD80" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15).gg" crc="85510A57" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21).gg" crc="DAB43F8F" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23).gg" crc="1B081950" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26).gg" crc="EB3F22C2" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29).gg" crc="AD6A62FA" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03).gg" crc="63429025" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05).gg" crc="C2229B6E" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07).gg" crc="EDAF25E7" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08).gg" crc="91258ADC" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt 1)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt 1)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt 1).gg" crc="9907A738" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11).gg" crc="9A405D0D" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)">
+    <description>Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)</description>
+    <rom name="Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12).gg" crc="6D295894" />
+    <tgdb>5736</tgdb>
+  </game>
+  <game name="Bram Stoker's Dracula (Europe)">
+    <description>Bram Stoker's Dracula (Europe)</description>
+    <rom name="Bram Stoker's Dracula (Europe).gg" crc="69EBE5FA" />
+    <tgdb>14794</tgdb>
+  </game>
+  <game name="Bram Stoker's Dracula (USA)">
+    <description>Bram Stoker's Dracula (USA)</description>
+    <rom name="Bram Stoker's Dracula (USA).gg" crc="D966EC47" />
+    <tgdb>14794</tgdb>
+  </game>
+  <game name="Bubble Bobble (USA)">
+    <description>Bubble Bobble (USA)</description>
+    <rom name="Bubble Bobble (USA).gg" crc="FBA338C5" />
+    <tgdb>21760</tgdb>
+  </game>
+  <game name="Bubble Bobble (USA) (Beta)">
+    <description>Bubble Bobble (USA) (Beta)</description>
+    <rom name="Bubble Bobble (USA) (Beta).gg" crc="BE2DC770" />
+    <tgdb>21760</tgdb>
+  </game>
+  <game name="Bugs Bunny in Double Trouble (USA, Europe)">
+    <description>Bugs Bunny in Double Trouble (USA, Europe)</description>
+    <rom name="Bugs Bunny in Double Trouble (USA, Europe).gg" crc="5C34D9CD" />
+    <tgdb>21766</tgdb>
+  </game>
+  <game name="Bust-A-Move (USA)">
+    <description>Bust-A-Move (USA)</description>
+    <rom name="Bust-A-Move (USA).gg" crc="C90F29EF" />
+    <tgdb>24273</tgdb>
+  </game>
+  <game name="Buster Ball (Japan)">
+    <description>Buster Ball (Japan)</description>
+    <rom name="Buster Ball (Japan).gg" crc="7CB079D0" />
+    <tgdb>27360</tgdb>
+  </game>
+  <game name="Buster Fight (Japan)">
+    <description>Buster Fight (Japan)</description>
+    <rom name="Buster Fight (Japan).gg" crc="A72A1753" />
+    <tgdb>27361</tgdb>
+  </game>
+  <game name="Caesars Palace (USA)">
+    <description>Caesars Palace (USA)</description>
+    <rom name="Caesars Palace (USA).gg" crc="C53B60B8" />
+    <tgdb>24274</tgdb>
+  </game>
+  <game name="Captain America and the Avengers (USA)">
+    <description>Captain America and the Avengers (USA)</description>
+    <rom name="Captain America and the Avengers (USA).gg" crc="5675DFDD" />
+    <tgdb>24275</tgdb>
+  </game>
+  <game name="Car Licence (Japan)">
+    <description>Car Licence (Japan)</description>
+    <rom name="Car Licence (Japan).gg" crc="F6A697F8" />
+    <tgdb>31821</tgdb>
+  </game>
+  <game name="Casino FunPak (USA)">
+    <description>Casino FunPak (USA)</description>
+    <rom name="Casino FunPak (USA).gg" crc="2B732056" />
+    <tgdb>24276</tgdb>
+  </game>
+  <game name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil)">
+    <description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil)</description>
+    <rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).sms" crc="59840FD6" />
+    <tgdb>21344</tgdb>
+  </game>
+  <game name="Cave Dude (USA) (Proto)">
+    <description>Cave Dude (USA) (Proto)</description>
+    <rom name="Cave Dude (USA) (Proto).sms" crc="CC521975" />
+  </game>
+  <game name="Chakan (USA, Europe)">
+    <description>Chakan (USA, Europe)</description>
+    <rom name="Chakan (USA, Europe).gg" crc="DFC7ADC8" />
+    <tgdb>5737</tgdb>
+  </game>
+  <game name="Championship Hockey (Europe)">
+    <description>Championship Hockey (Europe)</description>
+    <rom name="Championship Hockey (Europe).gg" crc="E21D2A88" />
+    <tgdb>36430</tgdb>
+  </game>
+  <game name="Chase H.Q. (USA)">
+    <description>Chase H.Q. (USA)</description>
+    <rom name="Chase H.Q. (USA).gg" crc="C8381DEF" />
+    <tgdb>25245</tgdb>
+  </game>
+  <game name="Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe) (En,Fr,De,Es)">
+    <description>Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe) (En,Fr,De,Es)</description>
+    <rom name="Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe) (En,Fr,De,Es).gg" crc="4E78FD36" />
+    <tgdb>13100</tgdb>
+  </game>
+  <game name="Chessmaster, The (USA, Europe, Brazil)">
+    <description>Chessmaster, The (USA, Europe, Brazil)</description>
+    <rom name="Chessmaster, The (USA, Europe, Brazil).gg" crc="DA811BA6" />
+    <tgdb>24277</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil)">
+    <description>Chicago Syndicate (USA, Brazil)</description>
+    <rom name="Chicago Syndicate (USA, Brazil).gg" crc="6B0FCEC3" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-05-05)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-05-05)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-05-05).gg" crc="A5FA4EAF" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-01)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-01)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-01).gg" crc="448C6890" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-05)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-05)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-05).gg" crc="AF43B940" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-07)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-07)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-07).gg" crc="9B2FD7F3" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-08)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-08)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-08).gg" crc="2036D4B7" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-12)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-12)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-12).gg" crc="F2C24745" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-14)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-14)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-14).gg" crc="463A2197" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-19)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-19)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-19).gg" crc="3CDB35B1" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-20)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-20)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-20).gg" crc="BF82CF83" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-22)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-22)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-22).gg" crc="4AC79CEC" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-26)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-26)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-26).gg" crc="ABE696E5" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-28)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-28)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-28).gg" crc="5CD07AED" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29).gg" crc="D3614E4E" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29) (Alt 1)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29) (Alt 1)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-29) (Alt 1).gg" crc="E1112763" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-30)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-06-30)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-06-30).gg" crc="F68A3581" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-03)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-03)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-03).gg" crc="E3C0EA98" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-05)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-05)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-05).gg" crc="4158E203" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-06)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-06)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-06).gg" crc="E44D1B01" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-10)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-10)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-10).gg" crc="42BECEF6" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-11)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-11)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-11).gg" crc="AFE46AA8" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-19)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-19)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-19).gg" crc="DD5F9327" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-20)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-20)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-20).gg" crc="B0597A54" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21).gg" crc="26CED733" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21) (Alt 1)">
+    <description>Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21) (Alt 1)</description>
+    <rom name="Chicago Syndicate (USA, Brazil) (Beta) (1995-07-21) (Alt 1).gg" crc="8E149BB8" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Choplifter III (USA)">
+    <description>Choplifter III (USA)</description>
+    <rom name="Choplifter III (USA).gg" crc="C2E8A692" />
+    <tgdb>17792</tgdb>
+  </game>
+  <game name="Chuck Rock (World)">
+    <description>Chuck Rock (World)</description>
+    <rom name="Chuck Rock (World).gg" crc="191B1ED8" />
+    <tgdb>24280</tgdb>
+  </game>
+  <game name="Chuck Rock (World) (Beta)">
+    <description>Chuck Rock (World) (Beta)</description>
+    <rom name="Chuck Rock (World) (Beta).gg" crc="CB3A1D23" />
+    <tgdb>24280</tgdb>
+  </game>
+  <game name="Chuck Rock II - Son of Chuck (Europe, Brazil)">
+    <description>Chuck Rock II - Son of Chuck (Europe, Brazil)</description>
+    <rom name="Chuck Rock II - Son of Chuck (Europe, Brazil).gg" crc="656708BF" />
+    <tgdb>24279</tgdb>
+  </game>
+  <game name="Chuck Rock II - Son of Chuck (USA)">
+    <description>Chuck Rock II - Son of Chuck (USA)</description>
+    <rom name="Chuck Rock II - Son of Chuck (USA).gg" crc="3FCC28C9" />
+    <tgdb>24279</tgdb>
+  </game>
+  <game name="CJ Elephant Fugitive (USA, Europe)">
+    <description>CJ Elephant Fugitive (USA, Europe)</description>
+    <rom name="CJ Elephant Fugitive (USA, Europe).gg" crc="72981057" />
+    <tgdb>29969</tgdb>
+  </game>
+  <game name="CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)">
+    <description>CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)</description>
+    <rom name="CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22).gg" crc="3ACE6335" />
+    <tgdb>29969</tgdb>
+  </game>
+  <game name="Cliffhanger (USA)">
+    <description>Cliffhanger (USA)</description>
+    <rom name="Cliffhanger (USA).gg" crc="BF75B153" />
+    <tgdb>24281</tgdb>
+  </game>
+  <game name="Clutch Hitter (USA)">
+    <description>Clutch Hitter (USA)</description>
+    <rom name="Clutch Hitter (USA).gg" crc="D228A467" />
+    <tgdb>24282</tgdb>
+  </game>
+  <game name="Coca-Cola Kid (Japan)">
+    <description>Coca-Cola Kid (Japan)</description>
+    <rom name="Coca-Cola Kid (Japan).gg" crc="C7598B81" />
+    <tgdb>26759</tgdb>
+  </game>
+  <game name="Columns (Japan) (En)">
+    <description>Columns (Japan) (En)</description>
+    <rom name="Columns (Japan) (En).gg" crc="F3CA6676" />
+    <tgdb>5738</tgdb>
+  </game>
+  <game name="Columns (Japan) (En) (Rev 1)">
+    <description>Columns (Japan) (En) (Rev 1)</description>
+    <rom name="Columns (Japan) (En) (Rev 1).gg" crc="AC37E092" />
+    <tgdb>5738</tgdb>
+  </game>
+  <game name="Columns (USA, Europe, Brazil) (Rev 2)">
+    <description>Columns (USA, Europe, Brazil) (Rev 2)</description>
+    <rom name="Columns (USA, Europe, Brazil) (Rev 2).gg" crc="83FA26D9" />
+    <tgdb>5738</tgdb>
+  </game>
+  <game name="Cool Spot (Europe)">
+    <description>Cool Spot (Europe)</description>
+    <rom name="Cool Spot (Europe).gg" crc="BA0714DB" />
+    <tgdb>21260</tgdb>
+  </game>
+  <game name="Cool Spot (USA)">
+    <description>Cool Spot (USA)</description>
+    <rom name="Cool Spot (USA).gg" crc="2C758FC8" />
+    <tgdb>21260</tgdb>
+  </game>
+  <game name="Cosmic Spacehead (USA, Europe)">
+    <description>Cosmic Spacehead (USA, Europe)</description>
+    <rom name="Cosmic Spacehead (USA, Europe).gg" crc="6CAA625B" />
+    <tgdb>24283</tgdb>
+  </game>
+  <game name="Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)">
+    <description>Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)</description>
+    <rom name="Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan).gg" crc="03D28EAB" />
+    <tgdb>27363</tgdb>
+  </game>
+  <game name="Crazy Faces (Europe) (Proto)">
+    <description>Crazy Faces (Europe) (Proto)</description>
+    <rom name="Crazy Faces (Europe) (Proto).gg" crc="46AD6257" />
+    <tgdb>36431</tgdb>
+  </game>
+  <game name="Crystal Warriors (USA, Europe)">
+    <description>Crystal Warriors (USA, Europe)</description>
+    <rom name="Crystal Warriors (USA, Europe).gg" crc="529C864E" />
+    <tgdb>15969</tgdb>
+  </game>
+  <game name="CutThroat Island (USA)">
+    <description>CutThroat Island (USA)</description>
+    <rom name="CutThroat Island (USA).gg" crc="6A24E47E" />
+    <tgdb>24284</tgdb>
+  </game>
+  <game name="CutThroat Island (USA) (Beta)">
+    <description>CutThroat Island (USA) (Beta)</description>
+    <rom name="CutThroat Island (USA) (Beta).gg" crc="6352EF00" />
+    <tgdb>24284</tgdb>
+  </game>
+  <game name="Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)">
+    <description>Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)</description>
+    <rom name="Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).gg" crc="AAE268FC" />
+    <tgdb>21767</tgdb>
+  </game>
+  <game name="David Robinson's Supreme Court (USA) (Auto Demo)">
+    <description>David Robinson's Supreme Court (USA) (Auto Demo)</description>
+    <rom name="David Robinson's Supreme Court (USA) (Auto Demo).gg" crc="696F446D" />
+  </game>
+  <game name="Deep Duck Trouble Starring Donald Duck (USA, Europe)">
+    <description>Deep Duck Trouble Starring Donald Duck (USA, Europe)</description>
+    <rom name="Deep Duck Trouble Starring Donald Duck (USA, Europe).gg" crc="5A136D7E" />
+    <tgdb>21345</tgdb>
+  </game>
+  <game name="Defenders of Oasis (USA, Europe)">
+    <description>Defenders of Oasis (USA, Europe)</description>
+    <rom name="Defenders of Oasis (USA, Europe).gg" crc="E2791CC1" />
+    <tgdb>15970</tgdb>
+  </game>
+  <game name="Defenders of Oasis (USA, Europe) (Beta)">
+    <description>Defenders of Oasis (USA, Europe) (Beta)</description>
+    <rom name="Defenders of Oasis (USA, Europe) (Beta).gg" crc="C674ECCC" />
+    <tgdb>15970</tgdb>
+  </game>
+  <game name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)">
+    <description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).gg" crc="EC808026" />
+    <tgdb>21768</tgdb>
+  </game>
+  <game name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil)">
+    <description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil)</description>
+    <rom name="Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil).gg" crc="C2E111AC" />
+    <tgdb>21768</tgdb>
+  </game>
+  <game name="Desert Strike - Return to the Gulf (USA)">
+    <description>Desert Strike - Return to the Gulf (USA)</description>
+    <rom name="Desert Strike - Return to the Gulf (USA).gg" crc="F6C400DA" />
+    <tgdb>21769</tgdb>
+  </game>
+  <game name="Desert Strike (Europe) (En,Fr,De,Es)">
+    <description>Desert Strike (Europe) (En,Fr,De,Es)</description>
+    <rom name="Desert Strike (Europe) (En,Fr,De,Es).gg" crc="3E44ECA3" />
+    <tgdb>21769</tgdb>
+  </game>
+  <game name="Devilish (Europe, Brazil)">
+    <description>Devilish (Europe, Brazil)</description>
+    <rom name="Devilish (Europe, Brazil).gg" crc="D43AC6C5" />
+    <tgdb>19837</tgdb>
+  </game>
+  <game name="Devilish (Japan)">
+    <description>Devilish (Japan)</description>
+    <rom name="Devilish (Japan).gg" crc="25DB174F" />
+    <tgdb>19837</tgdb>
+  </game>
+  <game name="Devilish (USA)">
+    <description>Devilish (USA)</description>
+    <rom name="Devilish (USA).gg" crc="C01293B0" />
+    <tgdb>19837</tgdb>
+  </game>
+  <game name="Donald Duck no 4-Tsu no Hihou (Japan)">
+    <description>Donald Duck no 4-Tsu no Hihou (Japan)</description>
+    <rom name="Donald Duck no 4-Tsu no Hihou (Japan).gg" crc="4457E7C0" />
+    <tgdb>21345</tgdb>
+  </game>
+  <game name="Donald Duck no Lucky Dime (Japan)">
+    <description>Donald Duck no Lucky Dime (Japan)</description>
+    <rom name="Donald Duck no Lucky Dime (Japan).gg" crc="2D98BD87" />
+    <tgdb>5739</tgdb>
+  </game>
+  <game name="Donald no Magical World (Japan) (En,Ja)">
+    <description>Donald no Magical World (Japan) (En,Ja)</description>
+    <rom name="Donald no Magical World (Japan) (En,Ja).gg" crc="87B8B612" />
+    <tgdb>25198</tgdb>
+  </game>
+  <game name="Doraemon - Noranosuke no Yabou (Japan)">
+    <description>Doraemon - Noranosuke no Yabou (Japan)</description>
+    <rom name="Doraemon - Noranosuke no Yabou (Japan).gg" crc="9A8B2C16" />
+    <tgdb>27373</tgdb>
+  </game>
+  <game name="Doraemon - Waku Waku Pocket Paradise (Japan)">
+    <description>Doraemon - Waku Waku Pocket Paradise (Japan)</description>
+    <rom name="Doraemon - Waku Waku Pocket Paradise (Japan).gg" crc="733292A6" />
+    <tgdb>27364</tgdb>
+  </game>
+  <game name="Double Dragon (USA, Europe)">
+    <description>Double Dragon (USA, Europe)</description>
+    <rom name="Double Dragon (USA, Europe).gg" crc="1307A290" />
+    <tgdb>21770</tgdb>
+  </game>
+  <game name="Double Dragon (USA, Europe) (Beta)">
+    <description>Double Dragon (USA, Europe) (Beta)</description>
+    <rom name="Double Dragon (USA, Europe) (Beta).gg" crc="331904C0" />
+    <tgdb>21770</tgdb>
+  </game>
+  <game name="Dr. Franken (Europe) (Proto)">
+    <description>Dr. Franken (Europe) (Proto)</description>
+    <rom name="Dr. Franken (Europe) (Proto).gg" crc="C9907DCE" />
+    <tgdb>36432</tgdb>
+  </game>
+  <game name="Dr. Robotnik's Mean Bean Machine (USA, Europe)">
+    <description>Dr. Robotnik's Mean Bean Machine (USA, Europe)</description>
+    <rom name="Dr. Robotnik's Mean Bean Machine (USA, Europe).gg" crc="3C2D4F48" />
+    <tgdb>25085</tgdb>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (Europe)">
+    <description>Dragon - The Bruce Lee Story (Europe)</description>
+    <rom name="Dragon - The Bruce Lee Story (Europe).gg" crc="19E1CF2B" />
+    <tgdb>21771</tgdb>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (Europe) (Beta)">
+    <description>Dragon - The Bruce Lee Story (Europe) (Beta)</description>
+    <rom name="Dragon - The Bruce Lee Story (Europe) (Beta).gg" crc="12E0E85B" />
+    <tgdb>21771</tgdb>
+  </game>
+  <game name="Dragon - The Bruce Lee Story (USA)">
+    <description>Dragon - The Bruce Lee Story (USA)</description>
+    <rom name="Dragon - The Bruce Lee Story (USA).gg" crc="17F588E8" />
+    <tgdb>21771</tgdb>
+  </game>
+  <game name="Dragon Crystal - Tsurani no Meikyuu (Japan)">
+    <description>Dragon Crystal - Tsurani no Meikyuu (Japan)</description>
+    <rom name="Dragon Crystal - Tsurani no Meikyuu (Japan).gg" crc="89F12E1E" />
+    <tgdb>21346</tgdb>
+  </game>
+  <game name="Dragon Crystal (USA, Europe)">
+    <description>Dragon Crystal (USA, Europe)</description>
+    <rom name="Dragon Crystal (USA, Europe).gg" crc="0EF2ED93" />
+    <tgdb>21346</tgdb>
+  </game>
+  <game name="Dropzone (Europe)">
+    <description>Dropzone (Europe)</description>
+    <rom name="Dropzone (Europe).gg" crc="152F0DCC" />
+    <tgdb>21772</tgdb>
+  </game>
+  <game name="Dunk Kids (Japan)">
+    <description>Dunk Kids (Japan)</description>
+    <rom name="Dunk Kids (Japan).gg" crc="77ED48F5" />
+    <tgdb>27365</tgdb>
+  </game>
+  <game name="Dynamite Headdy (Japan)">
+    <description>Dynamite Headdy (Japan)</description>
+    <rom name="Dynamite Headdy (Japan).gg" crc="F6AF4B6B" />
+    <tgdb>25101</tgdb>
+  </game>
+  <game name="Dynamite Headdy (USA, Europe)">
+    <description>Dynamite Headdy (USA, Europe)</description>
+    <rom name="Dynamite Headdy (USA, Europe).gg" crc="610FF95C" />
+    <tgdb>25101</tgdb>
+  </game>
+  <game name="Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)">
+    <description>Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)</description>
+    <rom name="Dynamite Headdy (USA, Europe) (Beta) (1994-06-15).gg" crc="7BF339C0" />
+    <tgdb>25101</tgdb>
+  </game>
+  <game name="Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)">
+    <description>Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)</description>
+    <rom name="Dynamite Headdy (USA, Europe) (Beta) (1994-07-01).gg" crc="49389319" />
+    <tgdb>25101</tgdb>
+  </game>
+  <game name="Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)">
+    <description>Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)</description>
+    <rom name="Dynamite Headdy (USA, Europe) (Beta) (1994-07-05).gg" crc="C7BEA89A" />
+    <tgdb>25101</tgdb>
+  </game>
+  <game name="Earthworm Jim (Europe)">
+    <description>Earthworm Jim (Europe)</description>
+    <rom name="Earthworm Jim (Europe).gg" crc="691AE339" />
+    <tgdb>25102</tgdb>
+  </game>
+  <game name="Earthworm Jim (USA)">
+    <description>Earthworm Jim (USA)</description>
+    <rom name="Earthworm Jim (USA).gg" crc="5D3F23A9" />
+    <tgdb>25102</tgdb>
+  </game>
+  <game name="Ecco - The Tides of Time (USA, Europe)">
+    <description>Ecco - The Tides of Time (USA, Europe)</description>
+    <rom name="Ecco - The Tides of Time (USA, Europe).gg" crc="E2F3B203" />
+    <tgdb>25086</tgdb>
+  </game>
+  <game name="Ecco the Dolphin (Japan)">
+    <description>Ecco the Dolphin (Japan)</description>
+    <rom name="Ecco the Dolphin (Japan).gg" crc="A32EB9D5" />
+    <tgdb>27366</tgdb>
+  </game>
+  <game name="Ecco the Dolphin (USA, Europe, Brazil)">
+    <description>Ecco the Dolphin (USA, Europe, Brazil)</description>
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil).gg" crc="866C7113" />
+    <tgdb>27366</tgdb>
+  </game>
+  <game name="Ecco the Dolphin (USA, Europe, Brazil) (Beta 1) (1993-06-14)">
+    <description>Ecco the Dolphin (USA, Europe, Brazil) (Beta 1) (1993-06-14)</description>
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil) (Beta 1) (1993-06-14).gg" crc="55036BC6" />
+    <tgdb>27366</tgdb>
+  </game>
+  <game name="Ecco the Dolphin (USA, Europe, Brazil) (Beta 2)">
+    <description>Ecco the Dolphin (USA, Europe, Brazil) (Beta 2)</description>
+    <rom name="Ecco the Dolphin (USA, Europe, Brazil) (Beta 2).gg" crc="D4C74C02" />
+    <tgdb>27366</tgdb>
+  </game>
+  <game name="Ecco the Dolphin II (Japan)">
+    <description>Ecco the Dolphin II (Japan)</description>
+    <rom name="Ecco the Dolphin II (Japan).gg" crc="BA9CEF4F" />
+    <tgdb>25086</tgdb>
+  </game>
+  <game name="Empire Syndicate (Unknown) (Beta)">
+    <description>Empire Syndicate (Unknown) (Beta)</description>
+    <rom name="Empire Syndicate (Unknown) (Beta).gg" crc="635BC4F5" />
+    <tgdb>24278</tgdb>
+  </game>
+  <game name="Ernie Els Golf (Europe) (En,Fr,De,Es,It)">
+    <description>Ernie Els Golf (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Ernie Els Golf (Europe) (En,Fr,De,Es,It).gg" crc="5E53C7F7" />
+    <tgdb>25084</tgdb>
+  </game>
+  <game name="Eternal Legend - Eien no Densetsu (Japan)">
+    <description>Eternal Legend - Eien no Densetsu (Japan)</description>
+    <rom name="Eternal Legend - Eien no Densetsu (Japan).gg" crc="04302BBD" />
+    <tgdb>15968</tgdb>
+  </game>
+  <game name="Evander Holyfield's 'Real Deal' Boxing (USA, Europe)">
+    <description>Evander Holyfield's 'Real Deal' Boxing (USA, Europe)</description>
+    <rom name="Evander Holyfield's 'Real Deal' Boxing (USA, Europe).gg" crc="36AAF536" />
+    <tgdb>24159</tgdb>
+  </game>
+  <game name="Excellent Dizzy Collection, The (Europe)">
+    <description>Excellent Dizzy Collection, The (Europe)</description>
+    <rom name="Excellent Dizzy Collection, The (Europe).sms" crc="AA140C9C" />
+    <tgdb>25087</tgdb>
+  </game>
+  <game name="F1 - World Championship Edition (Europe)">
+    <description>F1 - World Championship Edition (Europe)</description>
+    <rom name="F1 - World Championship Edition (Europe).gg" crc="107092D0" />
+    <tgdb>37038</tgdb>
+  </game>
+  <game name="F1~ Formula One (USA, Europe)">
+    <description>F1~ Formula One (USA, Europe)</description>
+    <rom name="F1~ Formula One (USA, Europe).gg" crc="D0A93E00" />
+    <tgdb>21317</tgdb>
+  </game>
+  <game name="F-15 Strike Eagle (USA, Europe)">
+    <description>F-15 Strike Eagle (USA, Europe)</description>
+    <rom name="F-15 Strike Eagle (USA, Europe).gg" crc="8BDB0806" />
+    <tgdb>25105</tgdb>
+  </game>
+  <game name="Faceball 2000 (Japan)">
+    <description>Faceball 2000 (Japan)</description>
+    <rom name="Faceball 2000 (Japan).gg" crc="AAF6F87D" />
+    <tgdb>27367</tgdb>
+  </game>
+  <game name="Factory Panic (Europe, Brazil)">
+    <description>Factory Panic (Europe, Brazil)</description>
+    <rom name="Factory Panic (Europe, Brazil).gg" crc="59E3BE92" />
+    <tgdb>25106</tgdb>
+  </game>
+  <game name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It)">
+    <description>Fantastic Dizzy (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Fantastic Dizzy (Europe) (En,Fr,De,Es,It).sms" crc="C888222B" />
+    <tgdb>25107</tgdb>
+  </game>
+  <game name="Fantasy Zone (USA, Brazil)">
+    <description>Fantasy Zone (USA, Brazil)</description>
+    <rom name="Fantasy Zone (USA, Brazil).gg" crc="FAD007DF" />
+    <tgdb>5740</tgdb>
+  </game>
+  <game name="Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)">
+    <description>Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)</description>
+    <rom name="Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).gg" crc="D69097E8" />
+    <tgdb>5740</tgdb>
+  </game>
+  <game name="Fatal Fury Special (Europe)">
+    <description>Fatal Fury Special (Europe)</description>
+    <rom name="Fatal Fury Special (Europe).gg" crc="FBD76387" />
+    <tgdb>21761</tgdb>
+  </game>
+  <game name="Fatal Fury Special (USA)">
+    <description>Fatal Fury Special (USA)</description>
+    <rom name="Fatal Fury Special (USA).gg" crc="449787E2" />
+    <tgdb>21761</tgdb>
+  </game>
+  <game name="FIFA International Soccer (Japan)">
+    <description>FIFA International Soccer (Japan)</description>
+    <rom name="FIFA International Soccer (Japan).gg" crc="78159325" />
+    <tgdb>25088</tgdb>
+  </game>
+  <game name="FIFA International Soccer (USA, Europe)">
+    <description>FIFA International Soccer (USA, Europe)</description>
+    <rom name="FIFA International Soccer (USA, Europe).gg" crc="E632A3A2" />
+    <tgdb>25088</tgdb>
+  </game>
+  <game name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)">
+    <description>FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)</description>
+    <rom name="FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es).gg" crc="C379DE95" />
+    <tgdb>25089</tgdb>
+  </game>
+  <game name="Foreman for Real (Japan, USA)">
+    <description>Foreman for Real (Japan, USA)</description>
+    <rom name="Foreman for Real (Japan, USA).gg" crc="D46D5685" />
+    <tgdb>21762</tgdb>
+  </game>
+  <game name="Frank Thomas Big Hurt Baseball (USA)">
+    <description>Frank Thomas Big Hurt Baseball (USA)</description>
+    <rom name="Frank Thomas Big Hurt Baseball (USA).gg" crc="C443C35C" />
+    <tgdb>21763</tgdb>
+  </game>
+  <game name="Fray - Shugyou Hen (Japan)">
+    <description>Fray - Shugyou Hen (Japan)</description>
+    <rom name="Fray - Shugyou Hen (Japan).gg" crc="E123D9B8" />
+    <tgdb>54908</tgdb>
+  </game>
+  <game name="Fred Couples Golf (Japan)">
+    <description>Fred Couples Golf (Japan)</description>
+    <rom name="Fred Couples Golf (Japan).gg" crc="B1196CD7" />
+    <tgdb>25090</tgdb>
+  </game>
+  <game name="Fred Couples Golf (USA)">
+    <description>Fred Couples Golf (USA)</description>
+    <rom name="Fred Couples Golf (USA).gg" crc="46F40B9F" />
+    <tgdb>25090</tgdb>
+  </game>
+  <game name="Frogger (USA) (Proto)">
+    <description>Frogger (USA) (Proto)</description>
+    <rom name="Frogger (USA) (Proto).gg" crc="DA724710" />
+    <tgdb>25108</tgdb>
+  </game>
+  <game name="From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)">
+    <description>From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)</description>
+    <rom name="From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan).gg" crc="751DAD4C" />
+    <tgdb>27368</tgdb>
+  </game>
+  <game name="Galaga 2 (Europe)">
+    <description>Galaga 2 (Europe)</description>
+    <rom name="Galaga 2 (Europe).gg" crc="95ECECE2" />
+    <tgdb>37039</tgdb>
+  </game>
+  <game name="Galaga '91 (Japan)">
+    <description>Galaga '91 (Japan)</description>
+    <rom name="Galaga '91 (Japan).gg" crc="0593BA24" />
+    <tgdb>26930</tgdb>
+  </game>
+  <game name="Gamble Panic (Japan)">
+    <description>Gamble Panic (Japan)</description>
+    <rom name="Gamble Panic (Japan).gg" crc="09534742" />
+    <tgdb>27369</tgdb>
+  </game>
+  <game name="Gambler Jiko Chuushinha (Japan)">
+    <description>Gambler Jiko Chuushinha (Japan)</description>
+    <rom name="Gambler Jiko Chuushinha (Japan).gg" crc="423803A7" />
+    <tgdb>45089</tgdb>
+  </game>
+  <game name="Ganbare Gorby! (Japan)">
+    <description>Ganbare Gorby! (Japan)</description>
+    <rom name="Ganbare Gorby! (Japan).gg" crc="A1F2F4A1" />
+    <tgdb>25106</tgdb>
+  </game>
+  <game name="Garfield - Caught in the Act (USA, Europe)">
+    <description>Garfield - Caught in the Act (USA, Europe)</description>
+    <rom name="Garfield - Caught in the Act (USA, Europe).gg" crc="CD53F3AF" />
+    <tgdb>25091</tgdb>
+  </game>
+  <game name="Garou Densetsu Special (Japan)">
+    <description>Garou Densetsu Special (Japan)</description>
+    <rom name="Garou Densetsu Special (Japan).gg" crc="9AFB6F33" />
+    <tgdb>21761</tgdb>
+  </game>
+  <game name="Gear Stadium (Japan)">
+    <description>Gear Stadium (Japan)</description>
+    <rom name="Gear Stadium (Japan).gg" crc="0E300223" />
+    <tgdb>24270</tgdb>
+  </game>
+  <game name="Gear Stadium Heiseiban (Japan)">
+    <description>Gear Stadium Heiseiban (Japan)</description>
+    <rom name="Gear Stadium Heiseiban (Japan).gg" crc="A0530664" />
+    <tgdb>27370</tgdb>
+  </game>
+  <game name="Gear Works (USA)">
+    <description>Gear Works (USA)</description>
+    <rom name="Gear Works (USA).gg" crc="E9A2EFB4" />
+    <tgdb>21764</tgdb>
+  </game>
+  <game name="George Foreman's KO Boxing (USA, Europe)">
+    <description>George Foreman's KO Boxing (USA, Europe)</description>
+    <rom name="George Foreman's KO Boxing (USA, Europe).gg" crc="58B44585" />
+    <tgdb>14095</tgdb>
+  </game>
+  <game name="GG Aleste (Japan)">
+    <description>GG Aleste (Japan)</description>
+    <rom name="GG Aleste (Japan).gg" crc="1B80A75B" />
+    <tgdb>27372</tgdb>
+  </game>
+  <game name="GG Aleste II ~ Power Strike II (Japan, Europe)">
+    <description>GG Aleste II ~ Power Strike II (Japan, Europe)</description>
+    <rom name="GG Aleste II ~ Power Strike II (Japan, Europe).gg" crc="09DE1528" />
+    <tgdb>25191</tgdb>
+  </game>
+  <game name="GG Portrait - Pai Chen (Japan)">
+    <description>GG Portrait - Pai Chen (Japan)</description>
+    <rom name="GG Portrait - Pai Chen (Japan).gg" crc="695CC120" />
+    <tgdb>41673</tgdb>
+  </game>
+  <game name="GG Portrait - Yuuki Akira (Japan)">
+    <description>GG Portrait - Yuuki Akira (Japan)</description>
+    <rom name="GG Portrait - Yuuki Akira (Japan).gg" crc="51159F8F" />
+    <tgdb>45090</tgdb>
+  </game>
+  <game name="GG Shinobi II, The ~ Shinobi II - The Silent Fury (World)">
+    <description>GG Shinobi II, The ~ Shinobi II - The Silent Fury (World)</description>
+    <rom name="GG Shinobi II, The ~ Shinobi II - The Silent Fury (World).gg" crc="6201C694" />
+    <tgdb>17797</tgdb>
+  </game>
+  <game name="GG Shinobi, The (Japan)">
+    <description>GG Shinobi, The (Japan)</description>
+    <rom name="GG Shinobi, The (Japan).gg" crc="83926BD1" />
+    <tgdb>5753</tgdb>
+  </game>
+  <game name="GG Shinobi, The ~ Shinobi (World) (Rev 1)">
+    <description>GG Shinobi, The ~ Shinobi (World) (Rev 1)</description>
+    <rom name="GG Shinobi, The ~ Shinobi (World) (Rev 1).gg" crc="30F1C984" />
+    <tgdb>5753</tgdb>
+  </game>
+  <game name="Global Gladiators (Europe)">
+    <description>Global Gladiators (Europe)</description>
+    <rom name="Global Gladiators (Europe).gg" crc="D2B6021E" />
+    <tgdb>25134</tgdb>
+  </game>
+  <game name="G-LOC - Air Battle (Japan)">
+    <description>G-LOC - Air Battle (Japan)</description>
+    <rom name="G-LOC - Air Battle (Japan).gg" crc="2333F615" />
+    <tgdb>5741</tgdb>
+  </game>
+  <game name="G-LOC - Air Battle (Japan) (Rev 1)">
+    <description>G-LOC - Air Battle (Japan) (Rev 1)</description>
+    <rom name="G-LOC - Air Battle (Japan) (Rev 1).gg" crc="33237F50" />
+    <tgdb>5741</tgdb>
+  </game>
+  <game name="G-LOC - Air Battle (USA, Europe, Brazil)">
+    <description>G-LOC - Air Battle (USA, Europe, Brazil)</description>
+    <rom name="G-LOC - Air Battle (USA, Europe, Brazil).gg" crc="18DE59ED" />
+    <tgdb>5741</tgdb>
+  </game>
+  <game name="Gojira - Kaijuu Daishingeki (Japan)">
+    <description>Gojira - Kaijuu Daishingeki (Japan)</description>
+    <rom name="Gojira - Kaijuu Daishingeki (Japan).gg" crc="4CF97801" />
+    <tgdb>27374</tgdb>
+  </game>
+  <game name="GP Rider (Japan)">
+    <description>GP Rider (Japan)</description>
+    <rom name="GP Rider (Japan).gg" crc="7A26EC6A" />
+    <tgdb>25109</tgdb>
+  </game>
+  <game name="GP Rider (World)">
+    <description>GP Rider (World)</description>
+    <rom name="GP Rider (World).gg" crc="876E9B72" />
+    <tgdb>25109</tgdb>
+  </game>
+  <game name="GP Rider (World) (Beta) (1994-01-04)">
+    <description>GP Rider (World) (Beta) (1994-01-04)</description>
+    <rom name="GP Rider (World) (Beta) (1994-01-04).gg" crc="12E4F6DB" />
+    <tgdb>25109</tgdb>
+  </game>
+  <game name="Greendog - The Beached Surfer Dude! (USA, Brazil)">
+    <description>Greendog - The Beached Surfer Dude! (USA, Brazil)</description>
+    <rom name="Greendog - The Beached Surfer Dude! (USA, Brazil).gg" crc="F27925B0" />
+    <tgdb>17762</tgdb>
+  </game>
+  <game name="Griffin (Japan)">
+    <description>Griffin (Japan)</description>
+    <rom name="Griffin (Japan).gg" crc="A93E8B0F" />
+    <tgdb>19237</tgdb>
+  </game>
+  <game name="G-Sonic ~ Sonic Blast (World)">
+    <description>G-Sonic ~ Sonic Blast (World)</description>
+    <rom name="G-Sonic ~ Sonic Blast (World).gg" crc="031B9DA9" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Gunstar Heroes (Japan)">
+    <description>Gunstar Heroes (Japan)</description>
+    <rom name="Gunstar Heroes (Japan).gg" crc="C3C52767" />
+    <tgdb>27371</tgdb>
+  </game>
+  <game name="Halley Wars (Japan)">
+    <description>Halley Wars (Japan)</description>
+    <rom name="Halley Wars (Japan).gg" crc="DEF5A5D0" />
+    <tgdb>5742</tgdb>
+  </game>
+  <game name="Halley Wars (USA, Europe, Brazil)">
+    <description>Halley Wars (USA, Europe, Brazil)</description>
+    <rom name="Halley Wars (USA, Europe, Brazil).gg" crc="7E9DEA46" />
+    <tgdb>5742</tgdb>
+  </game>
+  <game name="Head Buster (Japan)">
+    <description>Head Buster (Japan)</description>
+    <rom name="Head Buster (Japan).gg" crc="7E689995" />
+    <tgdb>27375</tgdb>
+  </game>
+  <game name="Heavy Weight Champ (Japan)">
+    <description>Heavy Weight Champ (Japan)</description>
+    <rom name="Heavy Weight Champ (Japan).gg" crc="BEED9150" />
+    <tgdb>14095</tgdb>
+  </game>
+  <game name="Home Alone (USA, Europe, Brazil)">
+    <description>Home Alone (USA, Europe, Brazil)</description>
+    <rom name="Home Alone (USA, Europe, Brazil).gg" crc="DDE29F74" />
+    <tgdb>25110</tgdb>
+  </game>
+  <game name="Honoo no Toukyuuji - Dodge Danpei (Japan)">
+    <description>Honoo no Toukyuuji - Dodge Danpei (Japan)</description>
+    <rom name="Honoo no Toukyuuji - Dodge Danpei (Japan).gg" crc="DFA805A0" />
+    <tgdb>45091</tgdb>
+  </game>
+  <game name="Hook (Europe)">
+    <description>Hook (Europe)</description>
+    <rom name="Hook (Europe).gg" crc="A5AA5BA1" />
+    <tgdb>25111</tgdb>
+  </game>
+  <game name="Hook (USA)">
+    <description>Hook (USA)</description>
+    <rom name="Hook (USA).gg" crc="F53CED2E" />
+    <tgdb>25111</tgdb>
+  </game>
+  <game name="Hurricanes (Europe)">
+    <description>Hurricanes (Europe)</description>
+    <rom name="Hurricanes (Europe).gg" crc="0A25EEC5" />
+    <tgdb>25112</tgdb>
+  </game>
+  <game name="Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)">
+    <description>Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)</description>
+    <rom name="Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan).gg" crc="42389270" />
+    <tgdb>27377</tgdb>
+  </game>
+  <game name="Hyper Pro Yakyuu '92 (Japan)">
+    <description>Hyper Pro Yakyuu '92 (Japan)</description>
+    <rom name="Hyper Pro Yakyuu '92 (Japan).gg" crc="056CAE74" />
+    <tgdb>68148</tgdb>
+  </game>
+  <game name="In the Wake of Vampire (Japan)">
+    <description>In the Wake of Vampire (Japan)</description>
+    <rom name="In the Wake of Vampire (Japan).gg" crc="DAB0F265" />
+    <tgdb>5747</tgdb>
+  </game>
+  <game name="Incredible Crash Dummies, The ~ Crash Dummy - Slick Bouya no Daichousen (World)">
+    <description>Incredible Crash Dummies, The ~ Crash Dummy - Slick Bouya no Daichousen (World)</description>
+    <rom name="Incredible Crash Dummies, The ~ Crash Dummy - Slick Bouya no Daichousen (World).gg" crc="087FC247" />
+    <tgdb>25113</tgdb>
+  </game>
+  <game name="Incredible Hulk, The (USA, Europe)">
+    <description>Incredible Hulk, The (USA, Europe)</description>
+    <rom name="Incredible Hulk, The (USA, Europe).gg" crc="D7055F88" />
+    <tgdb>25114</tgdb>
+  </game>
+  <game name="Indiana Jones and the Last Crusade (USA, Europe, Brazil)">
+    <description>Indiana Jones and the Last Crusade (USA, Europe, Brazil)</description>
+    <rom name="Indiana Jones and the Last Crusade (USA, Europe, Brazil).gg" crc="B875226B" />
+    <tgdb>25115</tgdb>
+  </game>
+  <game name="Iron Man X-O Manowar in Heavy Metal (USA)">
+    <description>Iron Man X-O Manowar in Heavy Metal (USA)</description>
+    <rom name="Iron Man X-O Manowar in Heavy Metal (USA).gg" crc="847AE5CE" />
+    <tgdb>25116</tgdb>
+  </game>
+  <game name="Itchy &amp; Scratchy Game, The (USA, Europe)">
+    <description>Itchy &amp; Scratchy Game, The (USA, Europe)</description>
+    <rom name="Itchy &amp; Scratchy Game, The (USA, Europe).gg" crc="44E7E2DA" />
+    <tgdb>25117</tgdb>
+  </game>
+  <game name="J.League GG Pro-Striker '94 (Japan)">
+    <description>J.League GG Pro-Striker '94 (Japan)</description>
+    <rom name="J.League GG Pro-Striker '94 (Japan).gg" crc="A12A28A0" />
+    <tgdb>54910</tgdb>
+  </game>
+  <game name="J.League Soccer - Dream Eleven (Japan)">
+    <description>J.League Soccer - Dream Eleven (Japan)</description>
+    <rom name="J.League Soccer - Dream Eleven (Japan).gg" crc="ABDDF0EB" />
+    <tgdb>27379</tgdb>
+  </game>
+  <game name="James Bond 007 - The Duel (Europe)">
+    <description>James Bond 007 - The Duel (Europe)</description>
+    <rom name="James Bond 007 - The Duel (Europe).gg" crc="881A4524" />
+    <tgdb>25118</tgdb>
+  </game>
+  <game name="James Pond 3 - Operation Starfi5h (Europe)">
+    <description>James Pond 3 - Operation Starfi5h (Europe)</description>
+    <rom name="James Pond 3 - Operation Starfi5h (Europe).gg" crc="68BB7F71" />
+    <tgdb>25119</tgdb>
+  </game>
+  <game name="James Pond II - Codename RoboCod (Europe)">
+    <description>James Pond II - Codename RoboCod (Europe)</description>
+    <rom name="James Pond II - Codename RoboCod (Europe).gg" crc="C2F7928B" />
+    <tgdb>5743</tgdb>
+  </game>
+  <game name="James Pond II - Codename RoboCod (USA)">
+    <description>James Pond II - Codename RoboCod (USA)</description>
+    <rom name="James Pond II - Codename RoboCod (USA).gg" crc="9FB5C155" />
+    <tgdb>5743</tgdb>
+  </game>
+  <game name="Jang Pung II (Korea) (Unl)">
+    <description>Jang Pung II (Korea) (Unl)</description>
+    <rom name="Jang Pung II (Korea) (Unl).sms" crc="76C5BDFB" />
+    <tgdb>37489</tgdb>
+  </game>
+  <game name="Jeopardy! - Sports Edition (USA)">
+    <description>Jeopardy! - Sports Edition (USA)</description>
+    <rom name="Jeopardy! - Sports Edition (USA).gg" crc="2DD850B7" />
+    <tgdb>25120</tgdb>
+  </game>
+  <game name="Jeopardy! (USA)">
+    <description>Jeopardy! (USA)</description>
+    <rom name="Jeopardy! (USA).gg" crc="D7820C21" />
+    <tgdb>25121</tgdb>
+  </game>
+  <game name="Joe Montana Football (Japan)">
+    <description>Joe Montana Football (Japan)</description>
+    <rom name="Joe Montana Football (Japan).gg" crc="4A98678B" />
+    <tgdb>15712</tgdb>
+  </game>
+  <game name="Joe Montana Football (USA, Europe)">
+    <description>Joe Montana Football (USA, Europe)</description>
+    <rom name="Joe Montana Football (USA, Europe).gg" crc="2E01BA6C" />
+    <tgdb>15712</tgdb>
+  </game>
+  <game name="Journey from Darkness - Strider Returns (USA, Europe)">
+    <description>Journey from Darkness - Strider Returns (USA, Europe)</description>
+    <rom name="Journey from Darkness - Strider Returns (USA, Europe).gg" crc="1EBFA5CA" />
+    <tgdb>25227</tgdb>
+  </game>
+  <game name="Judge Dredd (USA, Europe)">
+    <description>Judge Dredd (USA, Europe)</description>
+    <rom name="Judge Dredd (USA, Europe).gg" crc="04D23FC4" />
+    <tgdb>25122</tgdb>
+  </game>
+  <game name="Junction (Japan) (En)">
+    <description>Junction (Japan) (En)</description>
+    <rom name="Junction (Japan) (En).gg" crc="A8EF36A7" />
+    <tgdb>25123</tgdb>
+  </game>
+  <game name="Junction (USA)">
+    <description>Junction (USA)</description>
+    <rom name="Junction (USA).gg" crc="32ABAA02" />
+    <tgdb>25123</tgdb>
+  </game>
+  <game name="Jungle Book, The (Europe)">
+    <description>Jungle Book, The (Europe)</description>
+    <rom name="Jungle Book, The (Europe).gg" crc="90100884" />
+    <tgdb>5744</tgdb>
+  </game>
+  <game name="Jungle Book, The (USA)">
+    <description>Jungle Book, The (USA)</description>
+    <rom name="Jungle Book, The (USA).gg" crc="30C09F31" />
+    <tgdb>5744</tgdb>
+  </game>
+  <game name="Jungle Strike (USA)">
+    <description>Jungle Strike (USA)</description>
+    <rom name="Jungle Strike (USA).gg" crc="D51642B0" />
+    <tgdb>34727</tgdb>
+  </game>
+  <game name="Jurassic Park (Japan)">
+    <description>Jurassic Park (Japan)</description>
+    <rom name="Jurassic Park (Japan).gg" crc="2F536AE3" />
+    <tgdb>21318</tgdb>
+  </game>
+  <game name="Jurassic Park (USA, Europe, Brazil)">
+    <description>Jurassic Park (USA, Europe, Brazil)</description>
+    <rom name="Jurassic Park (USA, Europe, Brazil).gg" crc="BD6F2321" />
+    <tgdb>21318</tgdb>
+  </game>
+  <game name="Kaitou Saint Tail (Japan)">
+    <description>Kaitou Saint Tail (Japan)</description>
+    <rom name="Kaitou Saint Tail (Japan).gg" crc="937FD52B" />
+    <tgdb>27380</tgdb>
+  </game>
+  <game name="Kawasaki Superbike Challenge (Europe)">
+    <description>Kawasaki Superbike Challenge (Europe)</description>
+    <rom name="Kawasaki Superbike Challenge (Europe).gg" crc="23F9150A" />
+    <tgdb>21319</tgdb>
+  </game>
+  <game name="Kawasaki Superbike Challenge (USA)">
+    <description>Kawasaki Superbike Challenge (USA)</description>
+    <rom name="Kawasaki Superbike Challenge (USA).gg" crc="FC508318" />
+    <tgdb>21319</tgdb>
+  </game>
+  <game name="Kenyuu Densetsu Yaiba (Japan)">
+    <description>Kenyuu Densetsu Yaiba (Japan)</description>
+    <rom name="Kenyuu Densetsu Yaiba (Japan).gg" crc="D9CE3F4C" />
+    <tgdb>17793</tgdb>
+  </game>
+  <game name="Kick &amp; Rush (Japan)">
+    <description>Kick &amp; Rush (Japan)</description>
+    <rom name="Kick &amp; Rush (Japan).gg" crc="FD14CE00" />
+    <tgdb>25341</tgdb>
+  </game>
+  <game name="Kinetic Connection (Japan)">
+    <description>Kinetic Connection (Japan)</description>
+    <rom name="Kinetic Connection (Japan).gg" crc="4AF7F2AA" />
+    <tgdb>27381</tgdb>
+  </game>
+  <game name="Kishin Douji Zenki (Japan)">
+    <description>Kishin Douji Zenki (Japan)</description>
+    <rom name="Kishin Douji Zenki (Japan).gg" crc="7D622BDD" />
+    <tgdb>19235</tgdb>
+  </game>
+  <game name="KLAX (USA, Europe)">
+    <description>KLAX (USA, Europe)</description>
+    <rom name="KLAX (USA, Europe).gg" crc="9B40FC8E" />
+    <tgdb>25124</tgdb>
+  </game>
+  <game name="Krusty's Fun House (USA, Europe)">
+    <description>Krusty's Fun House (USA, Europe)</description>
+    <rom name="Krusty's Fun House (USA, Europe).gg" crc="D01E784F" />
+    <tgdb>25207</tgdb>
+  </game>
+  <game name="Kuni-chan no Game Tengoku (Japan)">
+    <description>Kuni-chan no Game Tengoku (Japan)</description>
+    <rom name="Kuni-chan no Game Tengoku (Japan).gg" crc="398F2358" />
+    <tgdb>27382</tgdb>
+  </game>
+  <game name="Kuni-chan no Game Tengoku Part 2 (Japan)">
+    <description>Kuni-chan no Game Tengoku Part 2 (Japan)</description>
+    <rom name="Kuni-chan no Game Tengoku Part 2 (Japan).gg" crc="F3774C65" />
+    <tgdb>27383</tgdb>
+  </game>
+  <game name="Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil)">
+    <description>Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil)</description>
+    <rom name="Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil).gg" crc="52DBF3E1" />
+    <tgdb>5745</tgdb>
+  </game>
+  <game name="Last Action Hero (USA)">
+    <description>Last Action Hero (USA)</description>
+    <rom name="Last Action Hero (USA).gg" crc="2D367C43" />
+    <tgdb>25129</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe).gg" crc="CE5AD8B7" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22).gg" crc="1CC16AD9" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30).gg" crc="A0565A5C" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt 1)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt 1)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt 1).gg" crc="63020617" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11).gg" crc="F9D4CEE9" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14).gg" crc="670EDE92" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)">
+    <description>Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)</description>
+    <rom name="Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17).gg" crc="DE8545AF" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Lemmings (World)">
+    <description>Lemmings (World)</description>
+    <rom name="Lemmings (World).gg" crc="0FDE7BAA" />
+    <tgdb>17773</tgdb>
+  </game>
+  <game name="Lemmings (World) (Beta)">
+    <description>Lemmings (World) (Beta)</description>
+    <rom name="Lemmings (World) (Beta).gg" crc="51548F61" />
+    <tgdb>17773</tgdb>
+  </game>
+  <game name="Lemmings 2 - The Tribes (Europe) (Proto)">
+    <description>Lemmings 2 - The Tribes (Europe) (Proto)</description>
+    <rom name="Lemmings 2 - The Tribes (Europe) (Proto).gg" crc="FBC807E1" />
+    <tgdb>37040</tgdb>
+  </game>
+  <game name="Lion King, The (Europe)">
+    <description>Lion King, The (Europe)</description>
+    <rom name="Lion King, The (Europe).gg" crc="0CD9C20B" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (Japan)">
+    <description>Lion King, The (Japan)</description>
+    <rom name="Lion King, The (Japan).gg" crc="C78B8637" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA)">
+    <description>Lion King, The (USA)</description>
+    <rom name="Lion King, The (USA).gg" crc="9808D7B3" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-03)">
+    <description>Lion King, The (USA) (Beta) (1994-08-03)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-03).gg" crc="AACB7387" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-11)">
+    <description>Lion King, The (USA) (Beta) (1994-08-11)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-11).gg" crc="214C13DC" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-12)">
+    <description>Lion King, The (USA) (Beta) (1994-08-12)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-12).gg" crc="0E80EFE0" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-13)">
+    <description>Lion King, The (USA) (Beta) (1994-08-13)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-13).gg" crc="8250C11E" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-14)">
+    <description>Lion King, The (USA) (Beta) (1994-08-14)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-14).gg" crc="EB10A2D4" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-16)">
+    <description>Lion King, The (USA) (Beta) (1994-08-16)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-16).gg" crc="C6AF9643" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-17)">
+    <description>Lion King, The (USA) (Beta) (1994-08-17)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-17).gg" crc="B65030D0" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-17) (Alt 1)">
+    <description>Lion King, The (USA) (Beta) (1994-08-17) (Alt 1)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-17) (Alt 1).gg" crc="4214C474" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lion King, The (USA) (Beta) (1994-08-20)">
+    <description>Lion King, The (USA) (Beta) (1994-08-20)</description>
+    <rom name="Lion King, The (USA) (Beta) (1994-08-20).gg" crc="3D0B31A2" />
+    <tgdb>5746</tgdb>
+  </game>
+  <game name="Lost World, The - Jurassic Park (USA)">
+    <description>Lost World, The - Jurassic Park (USA)</description>
+    <rom name="Lost World, The - Jurassic Park (USA).gg" crc="8D1597F5" />
+    <tgdb>21321</tgdb>
+  </game>
+  <game name="Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil)">
+    <description>Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil)</description>
+    <rom name="Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).gg" crc="07A7815A" />
+    <tgdb>5739</tgdb>
+  </game>
+  <game name="Lunar - Sanposuru Gakuen (Japan)">
+    <description>Lunar - Sanposuru Gakuen (Japan)</description>
+    <rom name="Lunar - Sanposuru Gakuen (Japan).gg" crc="58459EDD" />
+    <tgdb>20260</tgdb>
+  </game>
+  <game name="Madden 96 (USA, Europe)">
+    <description>Madden 96 (USA, Europe)</description>
+    <rom name="Madden 96 (USA, Europe).gg" crc="9F59D302" />
+    <tgdb>25131</tgdb>
+  </game>
+  <game name="Madden NFL 95 (USA)">
+    <description>Madden NFL 95 (USA)</description>
+    <rom name="Madden NFL 95 (USA).gg" crc="75C71EBF" />
+    <tgdb>25130</tgdb>
+  </game>
+  <game name="Madou Monogatari A - Dokidoki Vacation (Japan)">
+    <description>Madou Monogatari A - Dokidoki Vacation (Japan)</description>
+    <rom name="Madou Monogatari A - Dokidoki Vacation (Japan).gg" crc="7EC95282" />
+    <tgdb>27384</tgdb>
+  </game>
+  <game name="Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)">
+    <description>Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)</description>
+    <rom name="Madou Monogatari I - 3-Tsu no Madoukyuu (Japan).gg" crc="00C34D94" />
+    <tgdb>27385</tgdb>
+  </game>
+  <game name="Madou Monogatari II - Arle 16-Sai (Japan)">
+    <description>Madou Monogatari II - Arle 16-Sai (Japan)</description>
+    <rom name="Madou Monogatari II - Arle 16-Sai (Japan).gg" crc="12EB2287" />
+    <tgdb>27386</tgdb>
+  </game>
+  <game name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan)">
+    <description>Madou Monogatari III - Kyuukyoku Joou-sama (Japan)</description>
+    <rom name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan).gg" crc="0A634D79" />
+    <tgdb>27387</tgdb>
+  </game>
+  <game name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev 1)">
+    <description>Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev 1)</description>
+    <rom name="Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev 1).gg" crc="568F4825" />
+    <tgdb>27387</tgdb>
+  </game>
+  <game name="Magic Knight Rayearth (Japan)">
+    <description>Magic Knight Rayearth (Japan)</description>
+    <rom name="Magic Knight Rayearth (Japan).gg" crc="8F82A6B9" />
+    <tgdb>27388</tgdb>
+  </game>
+  <game name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan)">
+    <description>Magic Knight Rayearth 2 - Making of Magic Knight (Japan)</description>
+    <rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan).gg" crc="1C2C2B04" />
+    <tgdb>27389</tgdb>
+  </game>
+  <game name="Magical Puzzle Popils (World) (En,Ja)">
+    <description>Magical Puzzle Popils (World) (En,Ja)</description>
+    <rom name="Magical Puzzle Popils (World) (En,Ja).gg" crc="CF6D7BC5" />
+    <tgdb>27393</tgdb>
+  </game>
+  <game name="Magical Taruruuto-kun (Japan)">
+    <description>Magical Taruruuto-kun (Japan)</description>
+    <rom name="Magical Taruruuto-kun (Japan).gg" crc="6E1CC23C" />
+    <tgdb>27394</tgdb>
+  </game>
+  <game name="Majors, The - Pro Baseball (USA)">
+    <description>Majors, The - Pro Baseball (USA)</description>
+    <rom name="Majors, The - Pro Baseball (USA).gg" crc="36EBCD6D" />
+    <tgdb>14105</tgdb>
+  </game>
+  <game name="Man Overboard! (Europe)">
+    <description>Man Overboard! (Europe)</description>
+    <rom name="Man Overboard! (Europe).gg" crc="D9A7F170" />
+    <tgdb>25199</tgdb>
+  </game>
+  <game name="Mappy (Japan)">
+    <description>Mappy (Japan)</description>
+    <rom name="Mappy (Japan).gg" crc="01D2DD2A" />
+    <tgdb>27390</tgdb>
+  </game>
+  <game name="Marble Madness (USA, Europe)">
+    <description>Marble Madness (USA, Europe)</description>
+    <rom name="Marble Madness (USA, Europe).gg" crc="9559E339" />
+    <tgdb>25132</tgdb>
+  </game>
+  <game name="Marko's Magic Football (Europe) (En,Fr,De,Es)">
+    <description>Marko's Magic Football (Europe) (En,Fr,De,Es)</description>
+    <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).gg" crc="22C418BF" />
+    <tgdb>25133</tgdb>
+  </game>
+  <game name="Master of Darkness (Europe)">
+    <description>Master of Darkness (Europe)</description>
+    <rom name="Master of Darkness (Europe).gg" crc="07D0EB42" />
+    <tgdb>5747</tgdb>
+  </game>
+  <game name="Mega Man (USA)">
+    <description>Mega Man (USA)</description>
+    <rom name="Mega Man (USA).gg" crc="1ACE93AF" />
+    <tgdb>17794</tgdb>
+  </game>
+  <game name="Megami Tensei Gaiden - Last Bible (Japan)">
+    <description>Megami Tensei Gaiden - Last Bible (Japan)</description>
+    <rom name="Megami Tensei Gaiden - Last Bible (Japan).gg" crc="2E4EC17B" />
+    <tgdb>27391</tgdb>
+  </game>
+  <game name="Megami Tensei Gaiden - Last Bible Special (Japan)">
+    <description>Megami Tensei Gaiden - Last Bible Special (Japan)</description>
+    <rom name="Megami Tensei Gaiden - Last Bible Special (Japan).gg" crc="4EC30806" />
+    <tgdb>27392</tgdb>
+  </game>
+  <game name="Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)">
+    <description>Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)</description>
+    <rom name="Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan).gg" crc="FE12A92F" />
+    <tgdb>21320</tgdb>
+  </game>
+  <game name="Mickey Mouse no Castle Illusion (Japan)">
+    <description>Mickey Mouse no Castle Illusion (Japan)</description>
+    <rom name="Mickey Mouse no Castle Illusion (Japan).sms" crc="9942B69B" />
+    <tgdb>21344</tgdb>
+  </game>
+  <game name="Mickey Mouse no Mahou no Crystal (Japan)">
+    <description>Mickey Mouse no Mahou no Crystal (Japan)</description>
+    <rom name="Mickey Mouse no Mahou no Crystal (Japan).gg" crc="0117C3DF" />
+    <tgdb>5745</tgdb>
+  </game>
+  <game name="Mickey's Ultimate Challenge (USA)">
+    <description>Mickey's Ultimate Challenge (USA)</description>
+    <rom name="Mickey's Ultimate Challenge (USA).gg" crc="ECCF7A4F" />
+    <tgdb>25135</tgdb>
+  </game>
+  <game name="Micro Machines (USA, Europe)">
+    <description>Micro Machines (USA, Europe)</description>
+    <rom name="Micro Machines (USA, Europe).gg" crc="F7C524F6" />
+    <tgdb>25137</tgdb>
+  </game>
+  <game name="Micro Machines (USA, Europe) (Beta) (1993-10-22)">
+    <description>Micro Machines (USA, Europe) (Beta) (1993-10-22)</description>
+    <rom name="Micro Machines (USA, Europe) (Beta) (1993-10-22).gg" crc="C21E6CD0" />
+    <tgdb>25137</tgdb>
+  </game>
+  <game name="Micro Machines 2 - Turbo Tournament (Europe)">
+    <description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+    <rom name="Micro Machines 2 - Turbo Tournament (Europe).gg" crc="DBE8895C" />
+    <tgdb>25136</tgdb>
+  </game>
+  <game name="Mighty Morphin Power Rangers - The Movie (USA, Europe)">
+    <description>Mighty Morphin Power Rangers - The Movie (USA, Europe)</description>
+    <rom name="Mighty Morphin Power Rangers - The Movie (USA, Europe).gg" crc="B47C19E5" />
+    <tgdb>25138</tgdb>
+  </game>
+  <game name="Mighty Morphin Power Rangers (USA, Europe)">
+    <description>Mighty Morphin Power Rangers (USA, Europe)</description>
+    <rom name="Mighty Morphin Power Rangers (USA, Europe).gg" crc="9289DFCC" />
+    <tgdb>25139</tgdb>
+  </game>
+  <game name="Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)">
+    <description>Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)</description>
+    <rom name="Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16).gg" crc="2887F04A" />
+    <tgdb>25139</tgdb>
+  </game>
+  <game name="MLBPA Baseball (USA)">
+    <description>MLBPA Baseball (USA)</description>
+    <rom name="MLBPA Baseball (USA).gg" crc="1ECF07B4" />
+    <tgdb>25140</tgdb>
+  </game>
+  <game name="Moldorian - Hikari to Yami no Sister (Japan)">
+    <description>Moldorian - Hikari to Yami no Sister (Japan)</description>
+    <rom name="Moldorian - Hikari to Yami no Sister (Japan).gg" crc="4D5D15FB" />
+    <tgdb>27395</tgdb>
+  </game>
+  <game name="Monster Truck Wars (USA, Europe)">
+    <description>Monster Truck Wars (USA, Europe)</description>
+    <rom name="Monster Truck Wars (USA, Europe).gg" crc="453C5CEC" />
+    <tgdb>17795</tgdb>
+  </game>
+  <game name="Monster World II - Dragon no Wana (Japan)">
+    <description>Monster World II - Dragon no Wana (Japan)</description>
+    <rom name="Monster World II - Dragon no Wana (Japan).gg" crc="EA89E0E7" />
+    <tgdb>25339</tgdb>
+  </game>
+  <game name="Mortal Kombat - Shinken Kourin Densetsu (Japan)">
+    <description>Mortal Kombat - Shinken Kourin Densetsu (Japan)</description>
+    <rom name="Mortal Kombat - Shinken Kourin Densetsu (Japan).gg" crc="DBFF0461" />
+    <tgdb>13768</tgdb>
+  </game>
+  <game name="Mortal Kombat (USA, Europe)">
+    <description>Mortal Kombat (USA, Europe)</description>
+    <rom name="Mortal Kombat (USA, Europe).gg" crc="07494F2A" />
+    <tgdb>13768</tgdb>
+  </game>
+  <game name="Mortal Kombat 3 (Europe)">
+    <description>Mortal Kombat 3 (Europe)</description>
+    <rom name="Mortal Kombat 3 (Europe).gg" crc="C2BE62BB" />
+    <tgdb>21288</tgdb>
+  </game>
+  <game name="Mortal Kombat II (World)">
+    <description>Mortal Kombat II (World)</description>
+    <rom name="Mortal Kombat II (World).gg" crc="4B304E0F" />
+    <tgdb>20252</tgdb>
+  </game>
+  <game name="Ms. Pac-Man (USA)">
+    <description>Ms. Pac-Man (USA)</description>
+    <rom name="Ms. Pac-Man (USA).gg" crc="5EE88BD5" />
+    <tgdb>5749</tgdb>
+  </game>
+  <game name="Nazo Puyo - Arle no Roux (Japan)">
+    <description>Nazo Puyo - Arle no Roux (Japan)</description>
+    <rom name="Nazo Puyo - Arle no Roux (Japan).gg" crc="54AB42A4" />
+    <tgdb>27398</tgdb>
+  </game>
+  <game name="Nazo Puyo - Arle no Roux (Japan) (Beta)">
+    <description>Nazo Puyo - Arle no Roux (Japan) (Beta)</description>
+    <rom name="Nazo Puyo - Arle no Roux (Japan) (Beta).gg" crc="4C874466" />
+    <tgdb>27398</tgdb>
+  </game>
+  <game name="Nazo Puyo (Japan)">
+    <description>Nazo Puyo (Japan)</description>
+    <rom name="Nazo Puyo (Japan).gg" crc="BCCE5FD4" />
+    <tgdb>27396</tgdb>
+  </game>
+  <game name="Nazo Puyo (Japan) (Rev 1)">
+    <description>Nazo Puyo (Japan) (Rev 1)</description>
+    <rom name="Nazo Puyo (Japan) (Rev 1).gg" crc="D8D11F8D" />
+    <tgdb>27396</tgdb>
+  </game>
+  <game name="Nazo Puyo 2 (Japan)">
+    <description>Nazo Puyo 2 (Japan)</description>
+    <rom name="Nazo Puyo 2 (Japan).gg" crc="73939DE4" />
+    <tgdb>27397</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil)">
+    <description>NBA Action Starring David Robinson (USA, Brazil)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil).gg" crc="19030108" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-11-28)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-11-28)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-11-28).gg" crc="31084021" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-12-01)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-12-01)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1993-12-01).gg" crc="8C089DA5" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-04)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-04)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-04).gg" crc="C658B5B3" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-06)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-06)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-06).gg" crc="41DABD84" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-10)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-10)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-10).gg" crc="A34B2B4C" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-24)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-24)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-24).gg" crc="9824F77D" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-29)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-29)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-01-29).gg" crc="0D6BF79D" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-02)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-02)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-02).gg" crc="F9D5500B" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-03)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-03)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-03).gg" crc="E2341DCE" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-06)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-06)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-06).gg" crc="07649147" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-08)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-08)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-08).gg" crc="5E089FBC" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-12)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-12)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-12).gg" crc="0C0F6B4C" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-15)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-15)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-15).gg" crc="E73B02A4" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-17)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-17)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-17).gg" crc="C4B3328C" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-20)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-20)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-20).gg" crc="91E3026C" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-21)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-21)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-21).gg" crc="9265F8C3" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-24)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-24)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-24).gg" crc="21A79F63" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25).gg" crc="188A319E" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25) (Alt 1)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25) (Alt 1)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-25) (Alt 1).gg" crc="AFC8A69E" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-26)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-26)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-26).gg" crc="6896B65D" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-27)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-27)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-27).gg" crc="AB721F11" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28).gg" crc="D15AA940" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28) (Alt 1)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28) (Alt 1)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-02-28) (Alt 1).gg" crc="82E882D6" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-01)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-01)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-01).gg" crc="4415C0BB" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-02)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-02)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-02).gg" crc="5254577A" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-03)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-03)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-03).gg" crc="75A5BC5D" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04).gg" crc="A82049DF" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04) (Alt 1)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04) (Alt 1)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-04) (Alt 1).gg" crc="80C0586C" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-05)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-05)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-05).gg" crc="E197A0BB" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-08)">
+    <description>NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-08)</description>
+    <rom name="NBA Action Starring David Robinson (USA, Brazil) (Beta) (1994-03-08).gg" crc="C9E98A49" />
+    <tgdb>25141</tgdb>
+  </game>
+  <game name="NBA Jam - Tournament Edition (World)">
+    <description>NBA Jam - Tournament Edition (World)</description>
+    <rom name="NBA Jam - Tournament Edition (World).gg" crc="86C32E5B" />
+    <tgdb>11032</tgdb>
+  </game>
+  <game name="NBA Jam (Japan)">
+    <description>NBA Jam (Japan)</description>
+    <rom name="NBA Jam (Japan).gg" crc="A49E9033" />
+    <tgdb>11161</tgdb>
+  </game>
+  <game name="NBA Jam (USA) (Rev 1)">
+    <description>NBA Jam (USA) (Rev 1)</description>
+    <rom name="NBA Jam (USA) (Rev 1).gg" crc="820FA4AB" />
+    <tgdb>11161</tgdb>
+  </game>
+  <game name="NBA Jam (USA, Europe)">
+    <description>NBA Jam (USA, Europe)</description>
+    <rom name="NBA Jam (USA, Europe).gg" crc="8F17597E" />
+    <tgdb>11161</tgdb>
+  </game>
+  <game name="Neko Daisuki! (Japan)">
+    <description>Neko Daisuki! (Japan)</description>
+    <rom name="Neko Daisuki! (Japan).gg" crc="3679BE80" />
+    <tgdb>27399</tgdb>
+  </game>
+  <game name="NFL '95 (USA)">
+    <description>NFL '95 (USA)</description>
+    <rom name="NFL '95 (USA).gg" crc="DC5B0407" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-08-08)">
+    <description>NFL '95 (USA) (Beta) (1994-08-08)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-08-08).gg" crc="8CD96D95" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-08-25)">
+    <description>NFL '95 (USA) (Beta) (1994-08-25)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-08-25).gg" crc="7F769052" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-08-25) (Alt 1)">
+    <description>NFL '95 (USA) (Beta) (1994-08-25) (Alt 1)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-08-25) (Alt 1).gg" crc="FE140EAA" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-08-26)">
+    <description>NFL '95 (USA) (Beta) (1994-08-26)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-08-26).gg" crc="F77138DD" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-08-31)">
+    <description>NFL '95 (USA) (Beta) (1994-08-31)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-08-31).gg" crc="A3B046E7" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-02)">
+    <description>NFL '95 (USA) (Beta) (1994-09-02)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-02).gg" crc="3978387B" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-08)">
+    <description>NFL '95 (USA) (Beta) (1994-09-08)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-08).gg" crc="FF70A26F" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-10)">
+    <description>NFL '95 (USA) (Beta) (1994-09-10)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-10).gg" crc="132DB489" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-11)">
+    <description>NFL '95 (USA) (Beta) (1994-09-11)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-11).gg" crc="088E4B6D" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-11) (Alt 1)">
+    <description>NFL '95 (USA) (Beta) (1994-09-11) (Alt 1)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-11) (Alt 1).gg" crc="C57C6AFD" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-12)">
+    <description>NFL '95 (USA) (Beta) (1994-09-12)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-12).gg" crc="B38F48B6" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-14)">
+    <description>NFL '95 (USA) (Beta) (1994-09-14)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-14).gg" crc="2828CB66" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL '95 (USA) (Beta) (1994-09-14) (Alt 1)">
+    <description>NFL '95 (USA) (Beta) (1994-09-14) (Alt 1)</description>
+    <rom name="NFL '95 (USA) (Beta) (1994-09-14) (Alt 1).gg" crc="474A162B" />
+    <tgdb>25142</tgdb>
+  </game>
+  <game name="NFL Quarterback Club (World)">
+    <description>NFL Quarterback Club (World)</description>
+    <rom name="NFL Quarterback Club (World).gg" crc="61785ED5" />
+    <tgdb>25144</tgdb>
+  </game>
+  <game name="NFL Quarterback Club 96 (USA)">
+    <description>NFL Quarterback Club 96 (USA)</description>
+    <rom name="NFL Quarterback Club 96 (USA).gg" crc="C348E53A" />
+    <tgdb>25143</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA)">
+    <description>NHL All-Star Hockey (USA)</description>
+    <rom name="NHL All-Star Hockey (USA).gg" crc="4680C7AA" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1994-12-15)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1994-12-15)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1994-12-15).gg" crc="E583D999" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1994-12-22)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1994-12-22)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1994-12-22).gg" crc="DFBA792A" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1994-12-29)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1994-12-29)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1994-12-29).gg" crc="E14D071B" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1994-12-31)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1994-12-31)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1994-12-31).gg" crc="8A2B6323" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-02)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-02)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-02).gg" crc="2551F22C" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-03)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-03)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-03).gg" crc="ECE5633B" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-07)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-07)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-07).gg" crc="82504476" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-11)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-11)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-11).gg" crc="49F8B9E4" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-13)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-13)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-13).gg" crc="87D8FE13" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-16)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-16)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-16).gg" crc="50DCF5B6" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-20)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-20)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-20).gg" crc="499B06C2" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-21)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-21)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-21).gg" crc="16AF7995" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-24)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-24)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-24).gg" crc="54F5EFB2" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 1)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 1)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 1).gg" crc="0A4A6830" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2).gg" crc="0B1C38F4" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3).gg" crc="74BE3C4C" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL All-Star Hockey (USA) (Beta) (1995-01-25)">
+    <description>NHL All-Star Hockey (USA) (Beta) (1995-01-25)</description>
+    <rom name="NHL All-Star Hockey (USA) (Beta) (1995-01-25).gg" crc="A587B13E" />
+    <tgdb>25145</tgdb>
+  </game>
+  <game name="NHL Hockey (USA, Europe)">
+    <description>NHL Hockey (USA, Europe)</description>
+    <rom name="NHL Hockey (USA, Europe).gg" crc="658713A5" />
+    <tgdb>25146</tgdb>
+  </game>
+  <game name="Ninja Gaiden (Japan)">
+    <description>Ninja Gaiden (Japan)</description>
+    <rom name="Ninja Gaiden (Japan).gg" crc="20EF017A" />
+    <tgdb>5750</tgdb>
+  </game>
+  <game name="Ninja Gaiden (USA, Europe, Brazil)">
+    <description>Ninja Gaiden (USA, Europe, Brazil)</description>
+    <rom name="Ninja Gaiden (USA, Europe, Brazil).gg" crc="C578756B" />
+    <tgdb>5750</tgdb>
+  </game>
+  <game name="Ninku (Japan)">
+    <description>Ninku (Japan)</description>
+    <rom name="Ninku (Japan).gg" crc="C3056E15" />
+    <tgdb>27400</tgdb>
+  </game>
+  <game name="Ninku 2 - Tenkuuryuu e no Michi (Japan)">
+    <description>Ninku 2 - Tenkuuryuu e no Michi (Japan)</description>
+    <rom name="Ninku 2 - Tenkuuryuu e no Michi (Japan).gg" crc="06247DD2" />
+    <tgdb>27401</tgdb>
+  </game>
+  <game name="Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)">
+    <description>Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)</description>
+    <rom name="Ninku Gaiden - Hiroyuki Daikatsugeki (Japan).gg" crc="9140F239" />
+    <tgdb>27402</tgdb>
+  </game>
+  <game name="Nomo Hideo no World Series Baseball (Japan)">
+    <description>Nomo Hideo no World Series Baseball (Japan)</description>
+    <rom name="Nomo Hideo no World Series Baseball (Japan).gg" crc="4ED45BDA" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="Off the Wall (USA) (Proto) (1992-06-28)">
+    <description>Off the Wall (USA) (Proto) (1992-06-28)</description>
+    <rom name="Off the Wall (USA) (Proto) (1992-06-28).gg" crc="71FE9C80" />
+  </game>
+  <game name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)">
+    <description>Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)</description>
+    <rom name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1).sms" crc="1D93246E" />
+    <tgdb>25147</tgdb>
+  </game>
+  <game name="Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+    <description>Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+    <rom name="Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" crc="A2F9C7AF" />
+    <tgdb>25147</tgdb>
+  </game>
+  <game name="Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl) (Pirate)">
+    <description>Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl) (Pirate)</description>
+    <rom name="Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl) (Pirate).gg" crc="3382D73F" />
+    <tgdb>25147</tgdb>
+  </game>
+  <game name="Ottifants, The (Europe) (En,Fr,De,Es,It)">
+    <description>Ottifants, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Ottifants, The (Europe) (En,Fr,De,Es,It).gg" crc="1E673168" />
+    <tgdb>19993</tgdb>
+  </game>
+  <game name="OutRun (Europe, Brazil)">
+    <description>OutRun (Europe, Brazil)</description>
+    <rom name="OutRun (Europe, Brazil).gg" crc="9014B322" />
+    <tgdb>5751</tgdb>
+  </game>
+  <game name="OutRun (Japan, Korea)">
+    <description>OutRun (Japan, Korea)</description>
+    <rom name="OutRun (Japan, Korea).gg" crc="D58CB27C" />
+    <tgdb>5751</tgdb>
+  </game>
+  <game name="OutRun Europa (Europe)">
+    <description>OutRun Europa (Europe)</description>
+    <rom name="OutRun Europa (Europe).gg" crc="01EAB89D" />
+    <tgdb>25148</tgdb>
+  </game>
+  <game name="OutRun Europa (USA)">
+    <description>OutRun Europa (USA)</description>
+    <rom name="OutRun Europa (USA).sms" crc="F037EC00" />
+    <tgdb>25148</tgdb>
+  </game>
+  <game name="Pac-Attack (USA)">
+    <description>Pac-Attack (USA)</description>
+    <rom name="Pac-Attack (USA).gg" crc="9273EE2C" />
+    <tgdb>25149</tgdb>
+  </game>
+  <game name="Pac-in-Time (USA) (Proto)">
+    <description>Pac-in-Time (USA) (Proto)</description>
+    <rom name="Pac-in-Time (USA) (Proto).gg" crc="64C28E20" />
+    <tgdb>37041</tgdb>
+  </game>
+  <game name="Pac-Man (Japan) (En)">
+    <description>Pac-Man (Japan) (En)</description>
+    <rom name="Pac-Man (Japan) (En).gg" crc="A16C5E58" />
+    <tgdb>25150</tgdb>
+  </game>
+  <game name="Pac-Man (USA)">
+    <description>Pac-Man (USA)</description>
+    <rom name="Pac-Man (USA).gg" crc="B318DD37" />
+    <tgdb>25150</tgdb>
+  </game>
+  <game name="Panzer Dragoon Mini (Japan)">
+    <description>Panzer Dragoon Mini (Japan)</description>
+    <rom name="Panzer Dragoon Mini (Japan).gg" crc="E9783CEA" />
+    <tgdb>27403</tgdb>
+  </game>
+  <game name="Paperboy (USA, Europe)">
+    <description>Paperboy (USA, Europe)</description>
+    <rom name="Paperboy (USA, Europe).gg" crc="F54B6803" />
+    <tgdb>27404</tgdb>
+  </game>
+  <game name="Paperboy 2 (USA)">
+    <description>Paperboy 2 (USA)</description>
+    <rom name="Paperboy 2 (USA).gg" crc="8B2C454B" />
+    <tgdb>25151</tgdb>
+  </game>
+  <game name="Paperboy 2 (USA) (Beta)">
+    <description>Paperboy 2 (USA) (Beta)</description>
+    <rom name="Paperboy 2 (USA) (Beta).gg" crc="0B271DB6" />
+    <tgdb>25151</tgdb>
+  </game>
+  <game name="Pengo (Europe)">
+    <description>Pengo (Europe)</description>
+    <rom name="Pengo (Europe).gg" crc="0DA23CC1" />
+    <tgdb>5752</tgdb>
+  </game>
+  <game name="Pengo (Japan)">
+    <description>Pengo (Japan)</description>
+    <rom name="Pengo (Japan).gg" crc="CE863DBA" />
+    <tgdb>5752</tgdb>
+  </game>
+  <game name="Pet Club - Inu Daisuki! (Japan)">
+    <description>Pet Club - Inu Daisuki! (Japan)</description>
+    <rom name="Pet Club - Inu Daisuki! (Japan).gg" crc="B42D8430" />
+    <tgdb>41669</tgdb>
+  </game>
+  <game name="Pete Sampras Tennis (USA, Europe)">
+    <description>Pete Sampras Tennis (USA, Europe)</description>
+    <rom name="Pete Sampras Tennis (USA, Europe).gg" crc="C1756BEE" />
+    <tgdb>25166</tgdb>
+  </game>
+  <game name="PGA Tour 96 (USA, Europe)">
+    <description>PGA Tour 96 (USA, Europe)</description>
+    <rom name="PGA Tour 96 (USA, Europe).gg" crc="542B6D8E" />
+    <tgdb>25167</tgdb>
+  </game>
+  <game name="PGA Tour Golf (USA) (Rev 1)">
+    <description>PGA Tour Golf (USA) (Rev 1)</description>
+    <rom name="PGA Tour Golf (USA) (Rev 1).gg" crc="1C77D996" />
+    <tgdb>25168</tgdb>
+  </game>
+  <game name="PGA Tour Golf (USA, Europe)">
+    <description>PGA Tour Golf (USA, Europe)</description>
+    <rom name="PGA Tour Golf (USA, Europe).gg" crc="9700BB65" />
+    <tgdb>25168</tgdb>
+  </game>
+  <game name="PGA Tour Golf II (USA, Europe)">
+    <description>PGA Tour Golf II (USA, Europe)</description>
+    <rom name="PGA Tour Golf II (USA, Europe).gg" crc="4A8AC851" />
+    <tgdb>25169</tgdb>
+  </game>
+  <game name="Phantasy Star Adventure (Japan)">
+    <description>Phantasy Star Adventure (Japan)</description>
+    <rom name="Phantasy Star Adventure (Japan).gg" crc="1A51579D" />
+    <tgdb>27405</tgdb>
+  </game>
+  <game name="Phantasy Star Gaiden (Japan)">
+    <description>Phantasy Star Gaiden (Japan)</description>
+    <rom name="Phantasy Star Gaiden (Japan).gg" crc="A942514A" />
+    <tgdb>27406</tgdb>
+  </game>
+  <game name="Phantom 2040 (USA, Europe)">
+    <description>Phantom 2040 (USA, Europe)</description>
+    <rom name="Phantom 2040 (USA, Europe).gg" crc="281B1C3A" />
+    <tgdb>25170</tgdb>
+  </game>
+  <game name="Pinball Dreams (USA)">
+    <description>Pinball Dreams (USA)</description>
+    <rom name="Pinball Dreams (USA).gg" crc="635C483A" />
+    <tgdb>25171</tgdb>
+  </game>
+  <game name="Pocket Jansou (Japan)">
+    <description>Pocket Jansou (Japan)</description>
+    <rom name="Pocket Jansou (Japan).gg" crc="CC90C723" />
+    <tgdb>41672</tgdb>
+  </game>
+  <game name="Poker Face Paul's Blackjack (USA)">
+    <description>Poker Face Paul's Blackjack (USA)</description>
+    <rom name="Poker Face Paul's Blackjack (USA).gg" crc="89D34067" />
+    <tgdb>25172</tgdb>
+  </game>
+  <game name="Poker Face Paul's Gin (USA)">
+    <description>Poker Face Paul's Gin (USA)</description>
+    <rom name="Poker Face Paul's Gin (USA).gg" crc="AFD61B89" />
+    <tgdb>25173</tgdb>
+  </game>
+  <game name="Poker Face Paul's Poker (USA)">
+    <description>Poker Face Paul's Poker (USA)</description>
+    <rom name="Poker Face Paul's Poker (USA).gg" crc="E783DAF8" />
+    <tgdb>25175</tgdb>
+  </game>
+  <game name="Poker Face Paul's Solitaire (USA)">
+    <description>Poker Face Paul's Solitaire (USA)</description>
+    <rom name="Poker Face Paul's Solitaire (USA).gg" crc="0E9B0C0A" />
+    <tgdb>25174</tgdb>
+  </game>
+  <game name="Pop Breaker (Japan)">
+    <description>Pop Breaker (Japan)</description>
+    <rom name="Pop Breaker (Japan).gg" crc="71DEBA5A" />
+    <tgdb>27407</tgdb>
+  </game>
+  <game name="Popeye no Beach Volleyball (Japan)">
+    <description>Popeye no Beach Volleyball (Japan)</description>
+    <rom name="Popeye no Beach Volleyball (Japan).gg" crc="3EF66810" />
+    <tgdb>27408</tgdb>
+  </game>
+  <game name="Power Drive (Europe)">
+    <description>Power Drive (Europe)</description>
+    <rom name="Power Drive (Europe).gg" crc="AC369AE3" />
+    <tgdb>25176</tgdb>
+  </game>
+  <game name="Predator 2 (USA, Europe)">
+    <description>Predator 2 (USA, Europe)</description>
+    <rom name="Predator 2 (USA, Europe).sms" crc="E5F789B9" />
+    <tgdb>25177</tgdb>
+  </game>
+  <game name="Primal Rage (USA, Europe)">
+    <description>Primal Rage (USA, Europe)</description>
+    <rom name="Primal Rage (USA, Europe).gg" crc="2A34B5C7" />
+    <tgdb>25178</tgdb>
+  </game>
+  <game name="Prince of Persia (USA, Europe)">
+    <description>Prince of Persia (USA, Europe)</description>
+    <rom name="Prince of Persia (USA, Europe).sms" crc="311D2863" />
+    <tgdb>25179</tgdb>
+  </game>
+  <game name="Prince of Persia (USA, Europe) (Beta)">
+    <description>Prince of Persia (USA, Europe) (Beta)</description>
+    <rom name="Prince of Persia (USA, Europe) (Beta).sms" crc="45F058D6" />
+    <tgdb>25179</tgdb>
+  </game>
+  <game name="Pro Yakyuu '91, The (Japan)">
+    <description>Pro Yakyuu '91, The (Japan)</description>
+    <rom name="Pro Yakyuu '91, The (Japan).gg" crc="6D3A10D3" />
+    <tgdb>45092</tgdb>
+  </game>
+  <game name="Pro Yakyuu GG League (Japan)">
+    <description>Pro Yakyuu GG League (Japan)</description>
+    <rom name="Pro Yakyuu GG League (Japan).gg" crc="2DA8E943" />
+    <tgdb>68209</tgdb>
+  </game>
+  <game name="Pro Yakyuu GG League '94 (Japan)">
+    <description>Pro Yakyuu GG League '94 (Japan)</description>
+    <rom name="Pro Yakyuu GG League '94 (Japan).gg" crc="A1A19135" />
+    <tgdb>45093</tgdb>
+  </game>
+  <game name="Psychic World (Japan) (En)">
+    <description>Psychic World (Japan) (En)</description>
+    <rom name="Psychic World (Japan) (En).gg" crc="AFCC7828" />
+    <tgdb>25180</tgdb>
+  </game>
+  <game name="Psychic World (USA, Europe, Brazil)">
+    <description>Psychic World (USA, Europe, Brazil)</description>
+    <rom name="Psychic World (USA, Europe, Brazil).gg" crc="73779B22" />
+    <tgdb>25180</tgdb>
+  </game>
+  <game name="Putt &amp; Putter - Miniature Golf ~ Putt &amp; Putter ~ Minigolf (USA, Europe, Brazil)">
+    <description>Putt &amp; Putter - Miniature Golf ~ Putt &amp; Putter ~ Minigolf (USA, Europe, Brazil)</description>
+    <rom name="Putt &amp; Putter - Miniature Golf ~ Putt &amp; Putter ~ Minigolf (USA, Europe, Brazil).gg" crc="ECC301DD" />
+    <tgdb>25181</tgdb>
+  </game>
+  <game name="Putt &amp; Putter (Japan, Korea)">
+    <description>Putt &amp; Putter (Japan, Korea)</description>
+    <rom name="Putt &amp; Putter (Japan, Korea).gg" crc="407AC070" />
+    <tgdb>25181</tgdb>
+  </game>
+  <game name="Puyo Puyo (Japan) (En,Ja)">
+    <description>Puyo Puyo (Japan) (En,Ja)</description>
+    <rom name="Puyo Puyo (Japan) (En,Ja).gg" crc="D173A06F" />
+    <tgdb>27409</tgdb>
+  </game>
+  <game name="Puyo Puyo Tsuu (Japan)">
+    <description>Puyo Puyo Tsuu (Japan)</description>
+    <rom name="Puyo Puyo Tsuu (Japan).gg" crc="3AB2393B" />
+    <tgdb>27410</tgdb>
+  </game>
+  <game name="Puzzle &amp; Action - Ichidanto-R (Japan)">
+    <description>Puzzle &amp; Action - Ichidanto-R (Japan)</description>
+    <rom name="Puzzle &amp; Action - Ichidanto-R (Japan).gg" crc="9F64C2BB" />
+    <tgdb>27378</tgdb>
+  </game>
+  <game name="Puzzle &amp; Action - Tanto-R (Japan)">
+    <description>Puzzle &amp; Action - Tanto-R (Japan)</description>
+    <rom name="Puzzle &amp; Action - Tanto-R (Japan).gg" crc="09151743" />
+    <tgdb>45098</tgdb>
+  </game>
+  <game name="Puzzle Bobble (Japan)">
+    <description>Puzzle Bobble (Japan)</description>
+    <rom name="Puzzle Bobble (Japan).gg" crc="8E54EE04" />
+    <tgdb>24273</tgdb>
+  </game>
+  <game name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)">
+    <description>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe)</description>
+    <rom name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).gg" crc="6C451EE1" />
+    <tgdb>25193</tgdb>
+  </game>
+  <game name="Quiz Gear Fight!!, The (Japan)">
+    <description>Quiz Gear Fight!!, The (Japan)</description>
+    <rom name="Quiz Gear Fight!!, The (Japan).gg" crc="736CDB76" />
+    <tgdb>41674</tgdb>
+  </game>
+  <game name="R.B.I. Baseball '94 (USA)">
+    <description>R.B.I. Baseball '94 (USA)</description>
+    <rom name="R.B.I. Baseball '94 (USA).gg" crc="6DC3295E" />
+    <tgdb>17796</tgdb>
+  </game>
+  <game name="R.C. Grand Prix (USA)">
+    <description>R.C. Grand Prix (USA)</description>
+    <rom name="R.C. Grand Prix (USA).sms" crc="56201996" />
+    <tgdb>25192</tgdb>
+  </game>
+  <game name="Rastan Saga (Japan)">
+    <description>Rastan Saga (Japan)</description>
+    <rom name="Rastan Saga (Japan).sms" crc="9C76FB3A" />
+    <tgdb>27411</tgdb>
+  </game>
+  <game name="Revenge of Drancon (USA, Brazil)">
+    <description>Revenge of Drancon (USA, Brazil)</description>
+    <rom name="Revenge of Drancon (USA, Brazil).gg" crc="03E9C607" />
+    <tgdb>5762</tgdb>
+  </game>
+  <game name="Riddick Bowe Boxing (Japan)">
+    <description>Riddick Bowe Boxing (Japan)</description>
+    <rom name="Riddick Bowe Boxing (Japan).gg" crc="A45FFFB7" />
+    <tgdb>25194</tgdb>
+  </game>
+  <game name="Riddick Bowe Boxing (USA)">
+    <description>Riddick Bowe Boxing (USA)</description>
+    <rom name="Riddick Bowe Boxing (USA).gg" crc="38D8EC56" />
+    <tgdb>25194</tgdb>
+  </game>
+  <game name="Rise of the Robots (USA, Europe)">
+    <description>Rise of the Robots (USA, Europe)</description>
+    <rom name="Rise of the Robots (USA, Europe).gg" crc="100B77B2" />
+    <tgdb>25195</tgdb>
+  </game>
+  <game name="Ristar (World) (Beta) (1994-09-09)">
+    <description>Ristar (World) (Beta) (1994-09-09)</description>
+    <rom name="Ristar (World) (Beta) (1994-09-09).gg" crc="A1C214BD" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Ristar (World) (Beta) (1994-10-19)">
+    <description>Ristar (World) (Beta) (1994-10-19)</description>
+    <rom name="Ristar (World) (Beta) (1994-10-19).gg" crc="672D38D5" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Ristar (World) (Beta) (1994-10-24)">
+    <description>Ristar (World) (Beta) (1994-10-24)</description>
+    <rom name="Ristar (World) (Beta) (1994-10-24).gg" crc="A302413C" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Ristar (World) (Beta) (1994-11-01)">
+    <description>Ristar (World) (Beta) (1994-11-01)</description>
+    <rom name="Ristar (World) (Beta) (1994-11-01).gg" crc="44FA6AE6" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Ristar (World) (Beta) (1994-11-02)">
+    <description>Ristar (World) (Beta) (1994-11-02)</description>
+    <rom name="Ristar (World) (Beta) (1994-11-02).gg" crc="302D2B4B" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Ristar ~ Ristar - The Shooting Star (World)">
+    <description>Ristar ~ Ristar - The Shooting Star (World)</description>
+    <rom name="Ristar ~ Ristar - The Shooting Star (World).gg" crc="EFE65B3B" />
+    <tgdb>24374</tgdb>
+  </game>
+  <game name="Road Rash (Europe)">
+    <description>Road Rash (Europe)</description>
+    <rom name="Road Rash (Europe).gg" crc="176505D4" />
+    <tgdb>19992</tgdb>
+  </game>
+  <game name="Road Rash (USA)">
+    <description>Road Rash (USA)</description>
+    <rom name="Road Rash (USA).gg" crc="96045F76" />
+    <tgdb>19992</tgdb>
+  </game>
+  <game name="RoboCop 3 (World)">
+    <description>RoboCop 3 (World)</description>
+    <rom name="RoboCop 3 (World).gg" crc="069A0704" />
+    <tgdb>25196</tgdb>
+  </game>
+  <game name="RoboCop versus The Terminator (USA, Europe)">
+    <description>RoboCop versus The Terminator (USA, Europe)</description>
+    <rom name="RoboCop versus The Terminator (USA, Europe).gg" crc="4AB7FA4E" />
+    <tgdb>25197</tgdb>
+  </game>
+  <game name="Royal Stone - Hirakareshi Toki no Tobira (Japan)">
+    <description>Royal Stone - Hirakareshi Toki no Tobira (Japan)</description>
+    <rom name="Royal Stone - Hirakareshi Toki no Tobira (Japan).gg" crc="445D7CD2" />
+    <tgdb>27412</tgdb>
+  </game>
+  <game name="Ryuukyuu (Japan)">
+    <description>Ryuukyuu (Japan)</description>
+    <rom name="Ryuukyuu (Japan).gg" crc="95EFD52B" />
+    <tgdb>25212</tgdb>
+  </game>
+  <game name="Samurai Shodown (USA)">
+    <description>Samurai Shodown (USA)</description>
+    <rom name="Samurai Shodown (USA).gg" crc="98171DEB" />
+    <tgdb>25200</tgdb>
+  </game>
+  <game name="Samurai Spirits (Japan)">
+    <description>Samurai Spirits (Japan)</description>
+    <rom name="Samurai Spirits (Japan).gg" crc="93FD73DC" />
+    <tgdb>25200</tgdb>
+  </game>
+  <game name="Scratch Golf (Japan)">
+    <description>Scratch Golf (Japan)</description>
+    <rom name="Scratch Golf (Japan).gg" crc="EC0F2C72" />
+    <tgdb>25201</tgdb>
+  </game>
+  <game name="Scratch Golf (USA)">
+    <description>Scratch Golf (USA)</description>
+    <rom name="Scratch Golf (USA).gg" crc="C10DF4CE" />
+    <tgdb>25201</tgdb>
+  </game>
+  <game name="SD Gundam - Winner's History (Japan)">
+    <description>SD Gundam - Winner's History (Japan)</description>
+    <rom name="SD Gundam - Winner's History (Japan).gg" crc="5E2B39B8" />
+    <tgdb>27413</tgdb>
+  </game>
+  <game name="Sega Game Pack 4 in 1 (Europe)">
+    <description>Sega Game Pack 4 in 1 (Europe)</description>
+    <rom name="Sega Game Pack 4 in 1 (Europe).gg" crc="0924D2EC" />
+    <tgdb>25202</tgdb>
+  </game>
+  <game name="Sega Game Pack 4 in 1 (Europe) (Beta)">
+    <description>Sega Game Pack 4 in 1 (Europe) (Beta)</description>
+    <rom name="Sega Game Pack 4 in 1 (Europe) (Beta).gg" crc="758A7123" />
+    <tgdb>25202</tgdb>
+  </game>
+  <game name="Sensible Soccer - European Champions (Europe)">
+    <description>Sensible Soccer - European Champions (Europe)</description>
+    <rom name="Sensible Soccer - European Champions (Europe).gg" crc="5B68DA75" />
+    <tgdb>25204</tgdb>
+  </game>
+  <game name="Shadam Crusader - Harukanaru Oukoku (Japan)">
+    <description>Shadam Crusader - Harukanaru Oukoku (Japan)</description>
+    <rom name="Shadam Crusader - Harukanaru Oukoku (Japan).gg" crc="09F9ED60" />
+    <tgdb>15970</tgdb>
+  </game>
+  <game name="Shanghai II (Japan)">
+    <description>Shanghai II (Japan)</description>
+    <rom name="Shanghai II (Japan).gg" crc="2AE8C75F" />
+    <tgdb>29402</tgdb>
+  </game>
+  <game name="Shanghai II (Japan) (Rev 1)">
+    <description>Shanghai II (Japan) (Rev 1)</description>
+    <rom name="Shanghai II (Japan) (Rev 1).gg" crc="81314249" />
+    <tgdb>29402</tgdb>
+  </game>
+  <game name="Shaq Fu (USA)">
+    <description>Shaq Fu (USA)</description>
+    <rom name="Shaq Fu (USA).gg" crc="6FCB8AB0" />
+    <tgdb>25205</tgdb>
+  </game>
+  <game name="Shikinjou (Japan)">
+    <description>Shikinjou (Japan)</description>
+    <rom name="Shikinjou (Japan).gg" crc="9C5C7F53" />
+    <tgdb>45094</tgdb>
+  </game>
+  <game name="Shining Force - The Sword of Hajya (USA)">
+    <description>Shining Force - The Sword of Hajya (USA)</description>
+    <rom name="Shining Force - The Sword of Hajya (USA).gg" crc="A6CA6FA9" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)">
+    <description>Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)</description>
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27).gg" crc="65E5345C" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)">
+    <description>Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)</description>
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30).gg" crc="E97EC011" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)">
+    <description>Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)</description>
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27).gg" crc="8BFC56C3" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)">
+    <description>Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)</description>
+    <rom name="Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08).gg" crc="80DCA91D" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)">
+    <description>Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)</description>
+    <rom name="Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan).gg" crc="4D1F4699" />
+    <tgdb>27415</tgdb>
+  </game>
+  <game name="Shining Force Gaiden - Final Conflict (Japan)">
+    <description>Shining Force Gaiden - Final Conflict (Japan)</description>
+    <rom name="Shining Force Gaiden - Final Conflict (Japan).gg" crc="6019FE5E" />
+    <tgdb>19050</tgdb>
+  </game>
+  <game name="Shining Force Gaiden II - Jashin no Kakusei (Japan)">
+    <description>Shining Force Gaiden II - Jashin no Kakusei (Japan)</description>
+    <rom name="Shining Force Gaiden II - Jashin no Kakusei (Japan).gg" crc="30374681" />
+    <tgdb>19049</tgdb>
+  </game>
+  <game name="Side Pocket (USA)">
+    <description>Side Pocket (USA)</description>
+    <rom name="Side Pocket (USA).gg" crc="6A603EED" />
+    <tgdb>25206</tgdb>
+  </game>
+  <game name="Simpsons, The - Bart vs. the Space Mutants (USA, Europe)">
+    <description>Simpsons, The - Bart vs. the Space Mutants (USA, Europe)</description>
+    <rom name="Simpsons, The - Bart vs. the Space Mutants (USA, Europe).gg" crc="C0009274" />
+    <tgdb>14106</tgdb>
+  </game>
+  <game name="Simpsons, The - Bart vs. the World ~ Bart World (World)">
+    <description>Simpsons, The - Bart vs. the World ~ Bart World (World)</description>
+    <rom name="Simpsons, The - Bart vs. the World ~ Bart World (World).gg" crc="DA7BD5C7" />
+    <tgdb>19836</tgdb>
+  </game>
+  <game name="Simpsons, The - Bartman Meets Radioactive Man (USA)">
+    <description>Simpsons, The - Bartman Meets Radioactive Man (USA)</description>
+    <rom name="Simpsons, The - Bartman Meets Radioactive Man (USA).gg" crc="FFA447A9" />
+    <tgdb>24269</tgdb>
+  </game>
+  <game name="Skweek (Japan)">
+    <description>Skweek (Japan)</description>
+    <rom name="Skweek (Japan).gg" crc="3D9C92C7" />
+    <tgdb>25208</tgdb>
+  </game>
+  <game name="Slider (USA, Europe)">
+    <description>Slider (USA, Europe)</description>
+    <rom name="Slider (USA, Europe).gg" crc="4DC6F555" />
+    <tgdb>25208</tgdb>
+  </game>
+  <game name="Smurfs Travel the World, The (Europe) (En,Fr,De,Es)">
+    <description>Smurfs Travel the World, The (Europe) (En,Fr,De,Es)</description>
+    <rom name="Smurfs Travel the World, The (Europe) (En,Fr,De,Es).gg" crc="3EB337DF" />
+    <tgdb>37043</tgdb>
+  </game>
+  <game name="Smurfs, The (Europe) (En,Fr,De,Es)">
+    <description>Smurfs, The (Europe) (En,Fr,De,Es)</description>
+    <rom name="Smurfs, The (Europe) (En,Fr,De,Es).gg" crc="354E1CBD" />
+    <tgdb>25210</tgdb>
+  </game>
+  <game name="Solitaire FunPak (USA)">
+    <description>Solitaire FunPak (USA)</description>
+    <rom name="Solitaire FunPak (USA).gg" crc="F6F24B75" />
+    <tgdb>25211</tgdb>
+  </game>
+  <game name="Solitaire Poker (USA, Europe)">
+    <description>Solitaire Poker (USA, Europe)</description>
+    <rom name="Solitaire Poker (USA, Europe).gg" crc="06F2FC46" />
+    <tgdb>25212</tgdb>
+  </game>
+  <game name="Sonic &amp; Tails (Japan) (En)">
+    <description>Sonic &amp; Tails (Japan) (En)</description>
+    <rom name="Sonic &amp; Tails (Japan) (En).gg" crc="8AC0DADE" />
+    <tgdb>25263</tgdb>
+  </game>
+  <game name="Sonic &amp; Tails (Japan) (En) (Sample)">
+    <description>Sonic &amp; Tails (Japan) (En) (Sample)</description>
+    <rom name="Sonic &amp; Tails (Japan) (En) (Sample).gg" crc="E0E3FB6A" />
+    <tgdb>25263</tgdb>
+  </game>
+  <game name="Sonic &amp; Tails 2 (Japan)">
+    <description>Sonic &amp; Tails 2 (Japan)</description>
+    <rom name="Sonic &amp; Tails 2 (Japan).gg" crc="496BCE64" />
+    <tgdb>52388</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-05-31)">
+    <description>Sonic Blast (World) (Beta) (1996-05-31)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-05-31).gg" crc="C09EF45B" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-07-04)">
+    <description>Sonic Blast (World) (Beta) (1996-07-04)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-07-04).gg" crc="362B186D" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-08-06)">
+    <description>Sonic Blast (World) (Beta) (1996-08-06)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-08-06).gg" crc="19DAD067" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-08-21)">
+    <description>Sonic Blast (World) (Beta) (1996-08-21)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-08-21).gg" crc="5EECB549" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-08-27)">
+    <description>Sonic Blast (World) (Beta) (1996-08-27)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-08-27).gg" crc="E6847AC0" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Blast (World) (Beta) (1996-09-02)">
+    <description>Sonic Blast (World) (Beta) (1996-09-02)</description>
+    <rom name="Sonic Blast (World) (Beta) (1996-09-02).gg" crc="2F22A352" />
+    <tgdb>25213</tgdb>
+  </game>
+  <game name="Sonic Chaos (USA, Europe, Brazil)">
+    <description>Sonic Chaos (USA, Europe, Brazil)</description>
+    <rom name="Sonic Chaos (USA, Europe, Brazil).gg" crc="663F2ABB" />
+    <tgdb>19419</tgdb>
+  </game>
+  <game name="Sonic Chaos (USA, Europe, Brazil) (Beta) (1993-05-17)">
+    <description>Sonic Chaos (USA, Europe, Brazil) (Beta) (1993-05-17)</description>
+    <rom name="Sonic Chaos (USA, Europe, Brazil) (Beta) (1993-05-17).gg" crc="F95BBD91" />
+    <tgdb>19419</tgdb>
+  </game>
+  <game name="Sonic Drift (Japan) (En)">
+    <description>Sonic Drift (Japan) (En)</description>
+    <rom name="Sonic Drift (Japan) (En).gg" crc="68F0A776" />
+    <tgdb>26760</tgdb>
+  </game>
+  <game name="Sonic Drift (Japan) (En) (Demo)">
+    <description>Sonic Drift (Japan) (En) (Demo)</description>
+    <rom name="Sonic Drift (Japan) (En) (Demo).gg" crc="BAAC1FC0" />
+    <tgdb>26760</tgdb>
+  </game>
+  <game name="Sonic Drift Racing ~ Sonic Drift 2 (World)">
+    <description>Sonic Drift Racing ~ Sonic Drift 2 (World)</description>
+    <rom name="Sonic Drift Racing ~ Sonic Drift 2 (World).gg" crc="D6E8A305" />
+    <tgdb>19062</tgdb>
+  </game>
+  <game name="Sonic Labyrinth (World)">
+    <description>Sonic Labyrinth (World)</description>
+    <rom name="Sonic Labyrinth (World).gg" crc="5550173B" />
+    <tgdb>11145</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe)">
+    <description>Sonic Spinball (USA, Europe)</description>
+    <rom name="Sonic Spinball (USA, Europe).gg" crc="A9210434" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-07)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-07)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-07).gg" crc="3283580D" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-10)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-10)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-10).gg" crc="1A736612" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-11)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-11)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-11).gg" crc="1AED8F62" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-21)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-21)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-21).gg" crc="46657B4E" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-28)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-28)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-28).gg" crc="1233C3E3" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-29)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-29)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-29).gg" crc="AA7AEDB0" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-03-30)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-03-30)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-03-30).gg" crc="2CA34AB2" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-05)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-05)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-05).gg" crc="09B913D5" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-12)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-12)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-12).gg" crc="F8A432F6" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-13)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-13)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-13).gg" crc="1F1ABF2C" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-15)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-15)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-15).gg" crc="E3B5CD1E" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-21)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-21)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-21).gg" crc="BBAECF7C" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-27)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-27)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-27).gg" crc="07D32244" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-29)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-29)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-29).gg" crc="221C4BA4" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-04-29) (Alt 1)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-04-29) (Alt 1)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-04-29) (Alt 1).gg" crc="30A7D062" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-05-03)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-05-03)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-05-03).gg" crc="E2FE976A" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-05-05)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-05-05)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-05-05).gg" crc="BE76BF30" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-05-06)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-05-06)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-05-06).gg" crc="A4833D27" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-05-25)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-05-25)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-05-25).gg" crc="A035FD5C" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic Spinball (USA, Europe) (Beta) (1994-05-30)">
+    <description>Sonic Spinball (USA, Europe) (Beta) (1994-05-30)</description>
+    <rom name="Sonic Spinball (USA, Europe) (Beta) (1994-05-30).gg" crc="6107819D" />
+    <tgdb>22366</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog - Triple Trouble (USA, Europe)">
+    <description>Sonic The Hedgehog - Triple Trouble (USA, Europe)</description>
+    <rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe).gg" crc="D23A2A93" />
+    <tgdb>17800</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog - Triple Trouble (USA, Europe) (Beta) (1994-08-08)">
+    <description>Sonic The Hedgehog - Triple Trouble (USA, Europe) (Beta) (1994-08-08)</description>
+    <rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe) (Beta) (1994-08-08).gg" crc="80EB7CFB" />
+    <tgdb>17800</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1)">
+    <description>Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1)</description>
+    <rom name="Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1).gg" crc="D163356E" />
+    <tgdb>5754</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog (Japan, USA)">
+    <description>Sonic The Hedgehog (Japan, USA)</description>
+    <rom name="Sonic The Hedgehog (Japan, USA).gg" crc="3E31CB8C" />
+    <tgdb>5754</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog (Japan, USA) (Beta)">
+    <description>Sonic The Hedgehog (Japan, USA) (Beta)</description>
+    <rom name="Sonic The Hedgehog (Japan, USA) (Beta).gg" crc="816C0A1E" />
+    <tgdb>5754</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog 2 (World)">
+    <description>Sonic The Hedgehog 2 (World)</description>
+    <rom name="Sonic The Hedgehog 2 (World).gg" crc="95A18EC7" />
+    <tgdb>5755</tgdb>
+  </game>
+  <game name="Sonic The Hedgehog 2 (World) (Auto Demo)">
+    <description>Sonic The Hedgehog 2 (World) (Auto Demo)</description>
+    <rom name="Sonic The Hedgehog 2 (World) (Auto Demo).gg" crc="15AD37A5" />
+    <tgdb>5755</tgdb>
+  </game>
+  <game name="Soukoban (Japan)">
+    <description>Soukoban (Japan)</description>
+    <rom name="Soukoban (Japan).gg" crc="0F3E3840" />
+    <tgdb>27416</tgdb>
+  </game>
+  <game name="Space Harrier (World)">
+    <description>Space Harrier (World)</description>
+    <rom name="Space Harrier (World).gg" crc="600C15B3" />
+    <tgdb>5756</tgdb>
+  </game>
+  <game name="Spider-Man - Return of the Sinister Six (USA, Europe)">
+    <description>Spider-Man - Return of the Sinister Six (USA, Europe)</description>
+    <rom name="Spider-Man - Return of the Sinister Six (USA, Europe).gg" crc="BC240779" />
+    <tgdb>25219</tgdb>
+  </game>
+  <game name="Spider-Man - X-Men - Arcade's Revenge (USA)">
+    <description>Spider-Man - X-Men - Arcade's Revenge (USA)</description>
+    <rom name="Spider-Man - X-Men - Arcade's Revenge (USA).gg" crc="742A372B" />
+    <tgdb>25218</tgdb>
+  </game>
+  <game name="Spider-Man (USA, Europe)">
+    <description>Spider-Man (USA, Europe)</description>
+    <rom name="Spider-Man (USA, Europe).gg" crc="2651024E" />
+    <tgdb>25217</tgdb>
+  </game>
+  <game name="Spirou (Europe) (Proto)">
+    <description>Spirou (Europe) (Proto)</description>
+    <rom name="Spirou (Europe) (Proto).gg" crc="AB622ADC" />
+    <tgdb>37044</tgdb>
+  </game>
+  <game name="Sports Illustrated - Championship Football &amp; Baseball (USA)">
+    <description>Sports Illustrated - Championship Football &amp; Baseball (USA)</description>
+    <rom name="Sports Illustrated - Championship Football &amp; Baseball (USA).gg" crc="920EA193" />
+    <tgdb>25220</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA)">
+    <description>Sports Trivia - Championship Edition (USA)</description>
+    <rom name="Sports Trivia - Championship Edition (USA).gg" crc="15E7E261" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13).gg" crc="A8D1AC51" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16).gg" crc="CAF87D8B" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17).gg" crc="43BB6B10" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20).gg" crc="E7AFF566" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt 1).gg" crc="A3E57816" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21).gg" crc="18CF6145" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23).gg" crc="27816C09" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 1).gg" crc="ACB7E580" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2).gg" crc="9A8AD5CA" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27).gg" crc="517BD817" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt 1).gg" crc="511B1D24" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29).gg" crc="E906FBD8" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 1).gg" crc="05047357" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2).gg" crc="E80459B3" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30).gg" crc="302B9B36" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt 1).gg" crc="F3F9A87B" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03).gg" crc="3E3D6728" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04).gg" crc="D61A366F" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt 1).gg" crc="C68762E6" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05).gg" crc="F88A55F4" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 1).gg" crc="818EC54C" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2).gg" crc="93B98F19" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06).gg" crc="CAB74070" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07).gg" crc="352E8B8C" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt 1)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt 1)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt 1).gg" crc="961AE378" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11).gg" crc="8BDB184D" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12).gg" crc="1E360A20" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13).gg" crc="5B5DE94D" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)">
+    <description>Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)</description>
+    <rom name="Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28).gg" crc="26470D2B" />
+    <tgdb>25221</tgdb>
+  </game>
+  <game name="Sports Trivia (USA)">
+    <description>Sports Trivia (USA)</description>
+    <rom name="Sports Trivia (USA).gg" crc="A7AF7CA9" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-03-08)">
+    <description>Sports Trivia (USA) (Beta) (1995-03-08)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-03-08).gg" crc="C38D41C3" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-03-09)">
+    <description>Sports Trivia (USA) (Beta) (1995-03-09)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-03-09).gg" crc="34407FE9" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-03-16)">
+    <description>Sports Trivia (USA) (Beta) (1995-03-16)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-03-16).gg" crc="464F1B51" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-04-25)">
+    <description>Sports Trivia (USA) (Beta) (1995-04-25)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-04-25).gg" crc="895AF58A" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-04-25) (Alt 1)">
+    <description>Sports Trivia (USA) (Beta) (1995-04-25) (Alt 1)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-04-25) (Alt 1).gg" crc="7524957C" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-04-27)">
+    <description>Sports Trivia (USA) (Beta) (1995-04-27)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-04-27).gg" crc="7898919F" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Sports Trivia (USA) (Beta) (1995-05-04)">
+    <description>Sports Trivia (USA) (Beta) (1995-05-04)</description>
+    <rom name="Sports Trivia (USA) (Beta) (1995-05-04).gg" crc="BBA4CF7B" />
+    <tgdb>54911</tgdb>
+  </game>
+  <game name="Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)">
+    <description>Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)</description>
+    <rom name="Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).gg" crc="80156323" />
+    <tgdb>25223</tgdb>
+  </game>
+  <game name="Star Trek Generations - Beyond the Nexus (USA)">
+    <description>Star Trek Generations - Beyond the Nexus (USA)</description>
+    <rom name="Star Trek Generations - Beyond the Nexus (USA).gg" crc="087FC5F0" />
+    <tgdb>25222</tgdb>
+  </game>
+  <game name="Star Wars (Europe)">
+    <description>Star Wars (Europe)</description>
+    <rom name="Star Wars (Europe).gg" crc="0228769C" />
+    <tgdb>5757</tgdb>
+  </game>
+  <game name="Star Wars (USA, Europe)">
+    <description>Star Wars (USA, Europe)</description>
+    <rom name="Star Wars (USA, Europe).gg" crc="DB9BC599" />
+    <tgdb>5757</tgdb>
+  </game>
+  <game name="Stargate (World)">
+    <description>Stargate (World)</description>
+    <rom name="Stargate (World).gg" crc="FC7C64E4" />
+    <tgdb>25224</tgdb>
+  </game>
+  <game name="Street Battle (USA) (Proto) (Unl)">
+    <description>Street Battle (USA) (Proto) (Unl)</description>
+    <rom name="Street Battle (USA) (Proto) (Unl).sms" crc="01A2D595" />
+  </game>
+  <game name="Street Hero (USA) (Proto 1)">
+    <description>Street Hero (USA) (Proto 1)</description>
+    <rom name="Street Hero (USA) (Proto 1).gg" crc="9FA727A0" />
+    <tgdb>37045</tgdb>
+  </game>
+  <game name="Street Hero (USA) (Proto 2)">
+    <description>Street Hero (USA) (Proto 2)</description>
+    <rom name="Street Hero (USA) (Proto 2).gg" crc="FB481971" />
+    <tgdb>37045</tgdb>
+  </game>
+  <game name="Striker (Europe) (En,Fr,De,Es,It)">
+    <description>Striker (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Striker (Europe) (En,Fr,De,Es,It).gg" crc="B421C057" />
+    <tgdb>25228</tgdb>
+  </game>
+  <game name="Super Battletank (USA)">
+    <description>Super Battletank (USA)</description>
+    <rom name="Super Battletank (USA).gg" crc="73D6745A" />
+    <tgdb>25229</tgdb>
+  </game>
+  <game name="Super Columns (Japan)">
+    <description>Super Columns (Japan)</description>
+    <rom name="Super Columns (Japan).gg" crc="2A100717" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe)">
+    <description>Super Columns (USA, Europe)</description>
+    <rom name="Super Columns (USA, Europe).gg" crc="8BA43AF3" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-11-11)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-11-11)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-11-11).gg" crc="F28F89D1" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-12-01)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-12-01)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-12-01).gg" crc="56CF1D4F" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-12-15)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-12-15)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-12-15).gg" crc="ABE92434" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-12-21)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-12-21)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-12-21).gg" crc="81451FC0" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-12-26)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-12-26)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-12-26).gg" crc="5C4C633D" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1994-12-28)">
+    <description>Super Columns (USA, Europe) (Beta) (1994-12-28)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1994-12-28).gg" crc="3D931952" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Columns (USA, Europe) (Beta) (1995-01-06)">
+    <description>Super Columns (USA, Europe) (Beta) (1995-01-06)</description>
+    <rom name="Super Columns (USA, Europe) (Beta) (1995-01-06).gg" crc="096F4FF5" />
+    <tgdb>25230</tgdb>
+  </game>
+  <game name="Super Golf (Japan)">
+    <description>Super Golf (Japan)</description>
+    <rom name="Super Golf (Japan).gg" crc="528CBBCE" />
+    <tgdb>25231</tgdb>
+  </game>
+  <game name="Super Golf (USA)">
+    <description>Super Golf (USA)</description>
+    <rom name="Super Golf (USA).gg" crc="E9570F36" />
+    <tgdb>25231</tgdb>
+  </game>
+  <game name="Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+    <description>Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+    <rom name="Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" crc="10DBBEF4" />
+    <tgdb>5758</tgdb>
+  </game>
+  <game name="Super Momotarou Dentetsu III (Japan)">
+    <description>Super Momotarou Dentetsu III (Japan)</description>
+    <rom name="Super Momotarou Dentetsu III (Japan).gg" crc="B731BB80" />
+    <tgdb>54901</tgdb>
+  </game>
+  <game name="Super Monaco GP (Japan, Korea)">
+    <description>Super Monaco GP (Japan, Korea)</description>
+    <rom name="Super Monaco GP (Japan, Korea).gg" crc="4F686C4A" />
+    <tgdb>5759</tgdb>
+  </game>
+  <game name="Super Monaco GP (USA, Europe, Brazil)">
+    <description>Super Monaco GP (USA, Europe, Brazil)</description>
+    <rom name="Super Monaco GP (USA, Europe, Brazil).gg" crc="FCF12547" />
+    <tgdb>5759</tgdb>
+  </game>
+  <game name="Super Off Road (USA, Europe)">
+    <description>Super Off Road (USA, Europe)</description>
+    <rom name="Super Off Road (USA, Europe).gg" crc="E8B42B1F" />
+    <tgdb>25232</tgdb>
+  </game>
+  <game name="Super Off Road (USA, Europe) (Beta)">
+    <description>Super Off Road (USA, Europe) (Beta)</description>
+    <rom name="Super Off Road (USA, Europe) (Beta).gg" crc="A1160814" />
+    <tgdb>25232</tgdb>
+  </game>
+  <game name="Super Smash T.V. (World)">
+    <description>Super Smash T.V. (World)</description>
+    <rom name="Super Smash T.V. (World).gg" crc="1006E4E3" />
+    <tgdb>25215</tgdb>
+  </game>
+  <game name="Super Space Invaders (USA, Europe)">
+    <description>Super Space Invaders (USA, Europe)</description>
+    <rom name="Super Space Invaders (USA, Europe).gg" crc="DFE38E24" />
+    <tgdb>25320</tgdb>
+  </game>
+  <game name="Super Star Wars - Return of the Jedi (USA, Europe)">
+    <description>Super Star Wars - Return of the Jedi (USA, Europe)</description>
+    <rom name="Super Star Wars - Return of the Jedi (USA, Europe).gg" crc="4A38B6B6" />
+    <tgdb>5760</tgdb>
+  </game>
+  <game name="Superman - The Man of Steel (Europe)">
+    <description>Superman - The Man of Steel (Europe)</description>
+    <rom name="Superman - The Man of Steel (Europe).gg" crc="73DF5A15" />
+    <tgdb>25321</tgdb>
+  </game>
+  <game name="Superman - The Man of Steel (Europe) (Beta)">
+    <description>Superman - The Man of Steel (Europe) (Beta)</description>
+    <rom name="Superman - The Man of Steel (Europe) (Beta).gg" crc="AA3F2172" />
+    <tgdb>25321</tgdb>
+  </game>
+  <game name="Surf Ninjas (USA, Europe, Brazil)">
+    <description>Surf Ninjas (USA, Europe, Brazil)</description>
+    <rom name="Surf Ninjas (USA, Europe, Brazil).gg" crc="284482A8" />
+    <tgdb>25322</tgdb>
+  </game>
+  <game name="Sylvan Tale (Japan)">
+    <description>Sylvan Tale (Japan)</description>
+    <rom name="Sylvan Tale (Japan).gg" crc="45EF2062" />
+    <tgdb>23379</tgdb>
+  </game>
+  <game name="T2 - The Arcade Game (Japan) (En)">
+    <description>T2 - The Arcade Game (Japan) (En)</description>
+    <rom name="T2 - The Arcade Game (Japan) (En).gg" crc="0B1BA87F" />
+    <tgdb>25244</tgdb>
+  </game>
+  <game name="T2 - The Arcade Game (USA, Europe)">
+    <description>T2 - The Arcade Game (USA, Europe)</description>
+    <rom name="T2 - The Arcade Game (USA, Europe).gg" crc="9479C83A" />
+    <tgdb>25244</tgdb>
+  </game>
+  <game name="Tails Adventure ~ Tails Adventures (World) (En,Ja)">
+    <description>Tails Adventure ~ Tails Adventures (World) (En,Ja)</description>
+    <rom name="Tails Adventure ~ Tails Adventures (World) (En,Ja).gg" crc="5BB6E5D6" />
+    <tgdb>11147</tgdb>
+  </game>
+  <game name="Tails no Skypatrol (Japan)">
+    <description>Tails no Skypatrol (Japan)</description>
+    <rom name="Tails no Skypatrol (Japan).gg" crc="88618AFA" />
+    <tgdb>11146</tgdb>
+  </game>
+  <game name="Taisen Mahjong HaoPai (Japan)">
+    <description>Taisen Mahjong HaoPai (Japan)</description>
+    <rom name="Taisen Mahjong HaoPai (Japan).gg" crc="CF9C607C" />
+    <tgdb>45095</tgdb>
+  </game>
+  <game name="Taisen Mahjong HaoPai 2 (Japan)">
+    <description>Taisen Mahjong HaoPai 2 (Japan)</description>
+    <rom name="Taisen Mahjong HaoPai 2 (Japan).gg" crc="20527530" />
+    <tgdb>45096</tgdb>
+  </game>
+  <game name="Taisen-gata Daisenryaku G (Japan)">
+    <description>Taisen-gata Daisenryaku G (Japan)</description>
+    <rom name="Taisen-gata Daisenryaku G (Japan).gg" crc="7B7717B8" />
+    <tgdb>55224</tgdb>
+  </game>
+  <game name="Taito Chase H.Q. (Japan)">
+    <description>Taito Chase H.Q. (Japan)</description>
+    <rom name="Taito Chase H.Q. (Japan).sms" crc="7BB81E3D" />
+    <tgdb>25245</tgdb>
+  </game>
+  <game name="TaleSpin (USA, Europe, Brazil)">
+    <description>TaleSpin (USA, Europe, Brazil)</description>
+    <rom name="TaleSpin (USA, Europe, Brazil).gg" crc="F1732FFE" />
+    <tgdb>25323</tgdb>
+  </game>
+  <game name="Tama &amp; Friends - 3 Choume Kouen Tamalympic (Japan)">
+    <description>Tama &amp; Friends - 3 Choume Kouen Tamalympic (Japan)</description>
+    <rom name="Tama &amp; Friends - 3 Choume Kouen Tamalympic (Japan).gg" crc="DD1D2EBF" />
+    <tgdb>27417</tgdb>
+  </game>
+  <game name="Tarot no Yakata (Japan)">
+    <description>Tarot no Yakata (Japan)</description>
+    <rom name="Tarot no Yakata (Japan).gg" crc="57834C03" />
+    <tgdb>27376</tgdb>
+  </game>
+  <game name="Tarzan - Lord of the Jungle (Europe)">
+    <description>Tarzan - Lord of the Jungle (Europe)</description>
+    <rom name="Tarzan - Lord of the Jungle (Europe).gg" crc="EF3AFE8B" />
+    <tgdb>25246</tgdb>
+  </game>
+  <game name="Tatakae! Pro Yakyuu Twin League (Japan)">
+    <description>Tatakae! Pro Yakyuu Twin League (Japan)</description>
+    <rom name="Tatakae! Pro Yakyuu Twin League (Japan).gg" crc="BEC57602" />
+    <tgdb>54909</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe)">
+    <description>Taz in Escape from Mars (USA, Europe)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe).gg" crc="EEBAD66B" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11).gg" crc="030F396A" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10).gg" crc="92388016" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-12)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-12)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-12).gg" crc="A43FDFAD" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14).gg" crc="9267D968" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19).gg" crc="57747640" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23).gg" crc="6CD0FD78" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29).gg" crc="3C03919D" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30).gg" crc="09679B89" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02).gg" crc="18913D93" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05).gg" crc="61330A58" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt 1)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt 1)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt 1).gg" crc="D84A631C" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06).gg" crc="1F040BCA" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09).gg" crc="C867DA05" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10)">
+    <description>Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10)</description>
+    <rom name="Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10).gg" crc="FAF4BEC0" />
+    <tgdb>16976</tgdb>
+  </game>
+  <game name="Taz-Mania (USA, Europe, Brazil)">
+    <description>Taz-Mania (USA, Europe, Brazil)</description>
+    <rom name="Taz-Mania (USA, Europe, Brazil).gg" crc="36040C24" />
+    <tgdb>5761</tgdb>
+  </game>
+  <game name="Tempo Jr. (World)">
+    <description>Tempo Jr. (World)</description>
+    <rom name="Tempo Jr. (World).gg" crc="DE466796" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1994-11-28)">
+    <description>Tempo Jr. (World) (Beta) (1994-11-28)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1994-11-28).gg" crc="A33B5B92" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1994-12-05)">
+    <description>Tempo Jr. (World) (Beta) (1994-12-05)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1994-12-05).gg" crc="3475D48E" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1994-12-12)">
+    <description>Tempo Jr. (World) (Beta) (1994-12-12)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1994-12-12).gg" crc="FB9A5885" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1994-12-26)">
+    <description>Tempo Jr. (World) (Beta) (1994-12-26)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1994-12-26).gg" crc="E484E41C" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1995-01-17)">
+    <description>Tempo Jr. (World) (Beta) (1995-01-17)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1995-01-17).gg" crc="AB6DC88C" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1995-01-20)">
+    <description>Tempo Jr. (World) (Beta) (1995-01-20)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1995-01-20).gg" crc="96D64B16" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1995-01-31)">
+    <description>Tempo Jr. (World) (Beta) (1995-01-31)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1995-01-31).gg" crc="7AFEDF36" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1995-02-06)">
+    <description>Tempo Jr. (World) (Beta) (1995-02-06)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1995-02-06).gg" crc="3EF6551C" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tempo Jr. (World) (Beta) (1995-02-15)">
+    <description>Tempo Jr. (World) (Beta) (1995-02-15)</description>
+    <rom name="Tempo Jr. (World) (Beta) (1995-02-15).gg" crc="79E83D67" />
+    <tgdb>17799</tgdb>
+  </game>
+  <game name="Tengen World Cup Soccer (USA, Europe)">
+    <description>Tengen World Cup Soccer (USA, Europe)</description>
+    <rom name="Tengen World Cup Soccer (USA, Europe).gg" crc="DD6D2E34" />
+    <tgdb>25341</tgdb>
+  </game>
+  <game name="Terminator 2 - Judgment Day (World)">
+    <description>Terminator 2 - Judgment Day (World)</description>
+    <rom name="Terminator 2 - Judgment Day (World).gg" crc="1BD15773" />
+    <tgdb>25247</tgdb>
+  </game>
+  <game name="Terminator, The (USA, Europe)">
+    <description>Terminator, The (USA, Europe)</description>
+    <rom name="Terminator, The (USA, Europe).gg" crc="C029A5FD" />
+    <tgdb>25248</tgdb>
+  </game>
+  <game name="Tesserae (USA)">
+    <description>Tesserae (USA)</description>
+    <rom name="Tesserae (USA).gg" crc="BF696F94" />
+    <tgdb>25324</tgdb>
+  </game>
+  <game name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)">
+    <description>Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)</description>
+    <rom name="Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).gg" crc="969CF389" />
+    <tgdb>27418</tgdb>
+  </game>
+  <game name="Tom and Jerry - The Movie (Japan, Brazil)">
+    <description>Tom and Jerry - The Movie (Japan, Brazil)</description>
+    <rom name="Tom and Jerry - The Movie (Japan, Brazil).gg" crc="A1453EFA" />
+    <tgdb>25249</tgdb>
+  </game>
+  <game name="Tom and Jerry - The Movie (USA, Europe)">
+    <description>Tom and Jerry - The Movie (USA, Europe)</description>
+    <rom name="Tom and Jerry - The Movie (USA, Europe).gg" crc="5CD33FF2" />
+    <tgdb>25249</tgdb>
+  </game>
+  <game name="Torarete Tamaruka (Japan)">
+    <description>Torarete Tamaruka (Japan)</description>
+    <rom name="Torarete Tamaruka (Japan).gg" crc="5BCF9B97" />
+    <tgdb>45099</tgdb>
+  </game>
+  <game name="True Lies (World)">
+    <description>True Lies (World)</description>
+    <rom name="True Lies (World).gg" crc="5173B02A" />
+    <tgdb>25250</tgdb>
+  </game>
+  <game name="Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)">
+    <description>Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)</description>
+    <rom name="Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It).gg" crc="820965A3" />
+    <tgdb>25325</tgdb>
+  </game>
+  <game name="Urban Strike (USA)">
+    <description>Urban Strike (USA)</description>
+    <rom name="Urban Strike (USA).gg" crc="185E9FC1" />
+    <tgdb>25326</tgdb>
+  </game>
+  <game name="Vampire - Master of Darkness (USA)">
+    <description>Vampire - Master of Darkness (USA)</description>
+    <rom name="Vampire - Master of Darkness (USA).gg" crc="7EC64025" />
+    <tgdb>5747</tgdb>
+  </game>
+  <game name="Virtua Fighter Animation (USA, Europe)">
+    <description>Virtua Fighter Animation (USA, Europe)</description>
+    <rom name="Virtua Fighter Animation (USA, Europe).gg" crc="D431C452" />
+    <tgdb>25328</tgdb>
+  </game>
+  <game name="Virtua Fighter Mini (Japan)">
+    <description>Virtua Fighter Mini (Japan)</description>
+    <rom name="Virtua Fighter Mini (Japan).gg" crc="C05657F8" />
+    <tgdb>25328</tgdb>
+  </game>
+  <game name="VR Troopers (USA, Europe, Brazil)">
+    <description>VR Troopers (USA, Europe, Brazil)</description>
+    <rom name="VR Troopers (USA, Europe, Brazil).gg" crc="B0F22745" />
+    <tgdb>25327</tgdb>
+  </game>
+  <game name="Wagyan Land (Japan)">
+    <description>Wagyan Land (Japan)</description>
+    <rom name="Wagyan Land (Japan).gg" crc="29E697B2" />
+    <tgdb>27789</tgdb>
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <description>Wheel of Fortune (USA)</description>
+    <rom name="Wheel of Fortune (USA).gg" crc="E91CDB2A" />
+    <tgdb>25335</tgdb>
+  </game>
+  <game name="WildSnake (USA) (Proto)">
+    <description>WildSnake (USA) (Proto)</description>
+    <rom name="WildSnake (USA) (Proto).gg" crc="D460CC7F" />
+    <tgdb>37046</tgdb>
+  </game>
+  <game name="Wimbledon (World)">
+    <description>Wimbledon (World)</description>
+    <rom name="Wimbledon (World).gg" crc="CE1108FD" />
+    <tgdb>25336</tgdb>
+  </game>
+  <game name="Winter Olympic Games ~ Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)">
+    <description>Winter Olympic Games ~ Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+    <rom name="Winter Olympic Games ~ Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No).gg" crc="D15D335B" />
+    <tgdb>25337</tgdb>
+  </game>
+  <game name="Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)">
+    <description>Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+    <rom name="Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No).gg" crc="D5195A39" />
+    <tgdb>25337</tgdb>
+  </game>
+  <game name="Wizard Pinball (Europe)">
+    <description>Wizard Pinball (Europe)</description>
+    <rom name="Wizard Pinball (Europe).gg" crc="9E03F96C" />
+    <tgdb>17798</tgdb>
+  </game>
+  <game name="Wolfchild (Europe)">
+    <description>Wolfchild (Europe)</description>
+    <rom name="Wolfchild (Europe).gg" crc="840A8F8E" />
+    <tgdb>25338</tgdb>
+  </game>
+  <game name="Wonder Boy - The Dragon's Trap (Europe)">
+    <description>Wonder Boy - The Dragon's Trap (Europe)</description>
+    <rom name="Wonder Boy - The Dragon's Trap (Europe).gg" crc="A74C97A7" />
+    <tgdb>25339</tgdb>
+  </game>
+  <game name="Wonder Boy (Europe)">
+    <description>Wonder Boy (Europe)</description>
+    <rom name="Wonder Boy (Europe).gg" crc="EA2DD3A7" />
+    <tgdb>5762</tgdb>
+  </game>
+  <game name="Wonder Boy (Japan)">
+    <description>Wonder Boy (Japan)</description>
+    <rom name="Wonder Boy (Japan).gg" crc="9977FCB3" />
+    <tgdb>5762</tgdb>
+  </game>
+  <game name="Wonder Boy III - The Dragon's Trap (Europe) (Beta)">
+    <description>Wonder Boy III - The Dragon's Trap (Europe) (Beta)</description>
+    <rom name="Wonder Boy III - The Dragon's Trap (Europe) (Beta).gg" crc="DB1B5B44" />
+    <tgdb>25339</tgdb>
+  </game>
+  <game name="Woody Pop (Japan) (En)">
+    <description>Woody Pop (Japan) (En)</description>
+    <rom name="Woody Pop (Japan) (En).gg" crc="9C0E5A04" />
+    <tgdb>25340</tgdb>
+  </game>
+  <game name="Woody Pop (USA, Europe, Brazil)">
+    <description>Woody Pop (USA, Europe, Brazil)</description>
+    <rom name="Woody Pop (USA, Europe, Brazil).gg" crc="B74F3A4F" />
+    <tgdb>25340</tgdb>
+  </game>
+  <game name="World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe)">
+    <description>World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe)</description>
+    <rom name="World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe).gg" crc="868FE528" />
+    <tgdb>25342</tgdb>
+  </game>
+  <game name="World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+    <description>World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+    <rom name="World Cup USA 94 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).gg" crc="D2BB3690" />
+    <tgdb>15244</tgdb>
+  </game>
+  <game name="World Derby (Japan)">
+    <description>World Derby (Japan)</description>
+    <rom name="World Derby (Japan).gg" crc="1E81861F" />
+    <tgdb>27788</tgdb>
+  </game>
+  <game name="World Series Baseball (USA)">
+    <description>World Series Baseball (USA)</description>
+    <rom name="World Series Baseball (USA).gg" crc="3D8D0DD6" />
+    <tgdb>22365</tgdb>
+  </game>
+  <game name="World Series Baseball (USA) (Rev 1)">
+    <description>World Series Baseball (USA) (Rev 1)</description>
+    <rom name="World Series Baseball (USA) (Rev 1).gg" crc="BB38CFD7" />
+    <tgdb>22365</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA)">
+    <description>World Series Baseball '95 (USA)</description>
+    <rom name="World Series Baseball '95 (USA).gg" crc="578A8A38" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-06-29)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-06-29)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-06-29).gg" crc="496515A6" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-07-09)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-07-09)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-07-09).gg" crc="410F1CA0" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-07-19)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-07-19)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-07-19).gg" crc="5F7CCA5F" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-07-22)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-07-22)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-07-22).gg" crc="6073CD59" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-07-28)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-07-28)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-07-28).gg" crc="4190AD97" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="World Series Baseball '95 (USA) (Beta) (1994-07-29)">
+    <description>World Series Baseball '95 (USA) (Beta) (1994-07-29)</description>
+    <rom name="World Series Baseball '95 (USA) (Beta) (1994-07-29).gg" crc="F1987DE6" />
+    <tgdb>25343</tgdb>
+  </game>
+  <game name="WWF Raw (USA, Europe)">
+    <description>WWF Raw (USA, Europe)</description>
+    <rom name="WWF Raw (USA, Europe).gg" crc="8DC68D92" />
+    <tgdb>25329</tgdb>
+  </game>
+  <game name="WWF Wrestlemania - Steel Cage Challenge (USA, Europe)">
+    <description>WWF Wrestlemania - Steel Cage Challenge (USA, Europe)</description>
+    <rom name="WWF Wrestlemania - Steel Cage Challenge (USA, Europe).sms" crc="DA8E95A9" />
+    <tgdb>25334</tgdb>
+  </game>
+  <game name="X-Men - Gamemaster's Legacy (USA, Europe)">
+    <description>X-Men - Gamemaster's Legacy (USA, Europe)</description>
+    <rom name="X-Men - Gamemaster's Legacy (USA, Europe).gg" crc="C169C344" />
+    <tgdb>5763</tgdb>
+  </game>
+  <game name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)">
+    <description>X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)</description>
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10).gg" crc="66CC4034" />
+    <tgdb>5763</tgdb>
+  </game>
+  <game name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)">
+    <description>X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)</description>
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31).gg" crc="271A0A1D" />
+    <tgdb>5763</tgdb>
+  </game>
+  <game name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)">
+    <description>X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)</description>
+    <rom name="X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06).gg" crc="A3CF94BA" />
+    <tgdb>5763</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA)">
+    <description>X-Men - Mojo World (USA)</description>
+    <rom name="X-Men - Mojo World (USA).gg" crc="C2CBA9D7" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-05)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-05)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-05).gg" crc="626F9987" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-13)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-13)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-13).gg" crc="C4F3CED4" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-24)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-24)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-24).gg" crc="78001A5D" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-25)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-25)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-25).gg" crc="D4D2F077" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-27)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-27)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-27).gg" crc="425AC73F" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-28)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-28)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-28).gg" crc="D44925EA" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men - Mojo World (USA) (Beta) (1996-06-29)">
+    <description>X-Men - Mojo World (USA) (Beta) (1996-06-29)</description>
+    <rom name="X-Men - Mojo World (USA) (Beta) (1996-06-29).gg" crc="BA71DA19" />
+    <tgdb>25344</tgdb>
+  </game>
+  <game name="X-Men (USA)">
+    <description>X-Men (USA)</description>
+    <rom name="X-Men (USA).gg" crc="567A5EE6" />
+    <tgdb>14795</tgdb>
+  </game>
+  <game name="Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)">
+    <description>Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)</description>
+    <rom name="Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto).gg" crc="E678F264" />
+    <tgdb>37048</tgdb>
+  </game>
+  <game name="Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)">
+    <description>Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)</description>
+    <rom name="Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan).gg" crc="88EBBF9E" />
+    <tgdb>19236</tgdb>
+  </game>
+  <game name="Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)">
+    <description>Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)</description>
+    <rom name="Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan).gg" crc="46AE9159" />
+    <tgdb>20546</tgdb>
+  </game>
+  <game name="Zan Gear (Japan)">
+    <description>Zan Gear (Japan)</description>
+    <rom name="Zan Gear (Japan).gg" crc="141AAF96" />
+    <tgdb>20545</tgdb>
+  </game>
+  <game name="Zool - Ninja of the 'Nth' Dimension (Europe)">
+    <description>Zool - Ninja of the 'Nth' Dimension (Europe)</description>
+    <rom name="Zool - Ninja of the 'Nth' Dimension (Europe).gg" crc="23904898" />
+    <tgdb>25345</tgdb>
+  </game>
+  <game name="Zool - Ninja of the 'Nth' Dimension (USA)">
+    <description>Zool - Ninja of the 'Nth' Dimension (USA)</description>
+    <rom name="Zool - Ninja of the 'Nth' Dimension (USA).gg" crc="B287C695" />
+    <tgdb>25345</tgdb>
+  </game>
+  <game name="Zool no Yume Bouken (Japan)">
+    <description>Zool no Yume Bouken (Japan)</description>
+    <rom name="Zool no Yume Bouken (Japan).gg" crc="E35EF7ED" />
+    <tgdb>25345</tgdb>
+  </game>
+  <game name="Zoop (USA)">
+    <description>Zoop (USA)</description>
+    <rom name="Zoop (USA).gg" crc="3247FF8B" />
+    <tgdb>14070</tgdb>
+  </game>
+  <game name="Zoop (USA) (Beta)">
+    <description>Zoop (USA) (Beta)</description>
+    <rom name="Zoop (USA) (Beta).gg" crc="F397F041" />
+    <tgdb>14070</tgdb>
+  </game>
+</datafile>

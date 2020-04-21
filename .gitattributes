@@ -1,0 +1,4 @@
+﻿*.cs text eol=crlf
+*.resx text eol=crlf
+*.xml text eol=lf
+*.xml text eol=lf
