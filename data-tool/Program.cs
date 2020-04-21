@@ -57,10 +57,10 @@ namespace DataTool
 
             if (ceXmlIndex != -1 || ceXmlGzIndex != -1)
             {
-                var simple = new SimpleHashes();
+                var simple = new RomFiles();
                 foreach (var entry in Data.GetHashDictionary(Collection).OrderBy(e => e.Key).Where(e => e.Value.Count > 0))
                 {
-                    simple.Hashes.Add(new SimpleHash()
+                    simple.Hashes.Add(new RomData()
                     {
                         Crc32 = entry.Key,
                         TgdbId = entry.Value
@@ -69,7 +69,7 @@ namespace DataTool
 
                 using (var xmlStream = new MemoryStream())
                 {
-                    Xml.Serialize<SimpleHashes>(xmlStream, simple);
+                    Xml.Serialize<RomFiles>(xmlStream, simple);
                     xmlStream.Seek(0, SeekOrigin.Begin);
 
                     if (ceXmlIndex != -1)

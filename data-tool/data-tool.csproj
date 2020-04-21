@@ -61,8 +61,8 @@
     <Compile Include="Models\Dat\DatHeader.cs" />
     <Compile Include="Models\Dat\DatRom.cs" />
     <Compile Include="Models\HashCsv.cs" />
-    <Compile Include="Models\SimpleHashes\SimpleHash.cs" />
-    <Compile Include="Models\SimpleHashes\SimpleHashes.cs" />
+    <Compile Include="Models\Rom\RomData.cs" />
+    <Compile Include="Models\Rom\RomFiles.cs" />
     <Compile Include="NumberEntry.cs">
       <SubType>Form</SubType>
     </Compile>

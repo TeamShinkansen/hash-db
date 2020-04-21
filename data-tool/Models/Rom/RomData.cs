@@ -3,8 +3,8 @@ using System.Xml.Serialization;
 
 namespace DataTool.Models.SimpleHashes
 {
-    [XmlRoot(ElementName = "game")]
-    public class SimpleHash
+    [XmlRoot(ElementName = "file")]
+    public class RomData
     {
         [XmlAttribute(AttributeName = "crc32")]
         public string Crc32;
