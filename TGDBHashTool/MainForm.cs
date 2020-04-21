@@ -1,88 +1,17 @@
-﻿using CsvHelper;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Drawing;
-using System.Globalization;
-using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using TGDBHashTool.Models;
 using TGDBHashTool.Models.Data;
 
 namespace TGDBHashTool
 {
     public partial class MainForm : Form
     {
-        public MainForm()
-        {
-            InitializeComponent();
-        }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-            //new Thread(() => LovePack()).Start();
-            PopulateTreeView();
-        }
-        private void LovePack()
-        {
-            var datFiles = new DataCollection();
-            var allDatFiles = new DataCollection();
-            UInt64 counter = 0;
-
-            using (TextReader reader = new StreamReader("../../hash.csv"))
-            using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
-            {
-                csv.Configuration.HasHeaderRecord = false;
-                csv.Configuration.RegisterClassMap<HashCsv.Map>();
-                var records = csv.GetRecords<HashCsv>().Where(e => e.TgdbId != null).ToArray();
-                var matchedRecords = new List<HashCsv>();
-
-                int filesProcessed = 0;
-                Parallel.ForEach(Directory.GetFiles("../../lovepack"), filename =>
-                {
-                    using (var file = File.OpenRead(filename))
-                    {
-                        var dat = Xml.Deserialize<DataGroup>(file);
-                        var matched = false;
-                        Parallel.ForEach(records, record =>
-                        {
-                            foreach (var game in dat.Games.Where(e => e.Roms.Where(r => r.Sha1 != null && r.Sha1.ToLower() == record.Sha1.ToLower()).Count() > 0))
-                            {
-                                if (!matchedRecords.Contains(record))
-                                {
-                                    matchedRecords.Add(record);
-                                }
-                                matched = true;
-                                game.TgdbId.Add((int)record.TgdbId);
-
-                            }
-                        });
-
-                        allDatFiles.Groups.Add(dat);
-
-                        if (matched)
-                        {
-                            Program.Collection.Add(dat);
-                            datFiles.Groups.Add(dat);
-                        }
-                    }
-                    filesProcessed++;
-
-                    Console.WriteLine($"Processed: {filename}");
-                    Console.WriteLine($"Files Processed: {filesProcessed}");
-                    Console.WriteLine("");
-                });
-
-                var unmatchedRecords = records.Except(matchedRecords).ToList();
-
-                using (var file = File.Create("unmatched.xml")) {
-                    Xml.Serialize<List<HashCsv>>(file, unmatchedRecords);
-                }
-            }
-            Invoke(new Action(() => PopulateTreeView()));
-        }
+        public MainForm() => InitializeComponent();
+        private void MainForm_Load(object sender, EventArgs e) => PopulateTreeView();
 
         private void PopulateTreeView()
         {

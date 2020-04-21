@@ -12,6 +12,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "h2ce-data", "h2ce-data\h2ce
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Data|Any CPU = Data|Any CPU
+		Data|x64 = Data|x64
+		Data|x86 = Data|x86
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
@@ -20,6 +23,12 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|Any CPU.Build.0 = Debug|Any CPU
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|x64.ActiveCfg = Debug|Any CPU
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|x64.Build.0 = Debug|Any CPU
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|x86.ActiveCfg = Debug|Any CPU
+		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Data|x86.Build.0 = Debug|Any CPU
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -32,6 +41,12 @@ Global
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Release|x64.Build.0 = Release|Any CPU
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Release|x86.ActiveCfg = Release|Any CPU
 		{DB2D1123-F0CF-447D-9380-521BB42CD1B6}.Release|x86.Build.0 = Release|Any CPU
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|Any CPU.ActiveCfg = Debug|Win32
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|Any CPU.Build.0 = Debug|Win32
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|x64.ActiveCfg = Debug|x64
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|x64.Build.0 = Debug|x64
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|x86.ActiveCfg = Debug|Win32
+		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Data|x86.Build.0 = Debug|Win32
 		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Debug|x64.ActiveCfg = Debug|x64
 		{79F34EA0-4858-4760-89B9-FCDC930F774C}.Debug|x64.Build.0 = Debug|x64
