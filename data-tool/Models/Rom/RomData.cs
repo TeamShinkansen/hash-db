@@ -6,6 +6,9 @@ namespace DataTool.Models.SimpleHashes
     [XmlRoot(ElementName = "file")]
     public class RomData
     {
+        [XmlAttribute(AttributeName = "name")]
+        public string Name;
+
         [XmlAttribute(AttributeName = "crc32")]
         public string Crc32;
 

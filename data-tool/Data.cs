@@ -1,4 +1,5 @@
 ﻿using DataTool.Models.Data;
+using DataTool.Models.SimpleHashes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,30 +8,32 @@ namespace DataTool
 {
     public class Data
     {
-        public static Dictionary<string, List<int>> GetHashDictionary(List<DataGroup> data)
+        public static Dictionary<string, RomData> GetHashDictionary(List<DataGroup> data)
         {
-            var output = new Dictionary<string, List<int>>();
+            var output = new Dictionary<string, RomData>();
             foreach (var group in data)
             {
                 foreach (var game in group.Games)
                 {
                     foreach (var rom in game.Roms)
                     {
-                        List<int> idList;
+                        RomData romInfo;
                         if (output.ContainsKey(rom.Crc32))
                         {
-                            idList = output[rom.Crc32];
+                            romInfo = output[rom.Crc32];
                         }
                         else
                         {
-                            output[rom.Crc32] = idList = new List<int>();
+                            output[rom.Crc32] = romInfo = new RomData();
+                            romInfo.Name = rom.Name;
+                            romInfo.Crc32 = rom.Crc32;
                         }
 
                         foreach (var id in game.TgdbId)
                         {
-                            if (!idList.Contains(id))
+                            if (!romInfo.TgdbId.Contains(id))
                             {
-                                idList.Add(id);
+                                romInfo.TgdbId.Add(id);
                             }
                         }
                     }
@@ -51,9 +54,9 @@ namespace DataTool
             foreach (var key in keys)
             {
                 var entry = output[key];
-                if (entry.Count > 0)
+                if (entry.TgdbId.Count > 0)
                 {
-                    entries.Add($"[0x{key}] = new int[] {{ {String.Join(", ", entry.ToArray())} }}");
+                    entries.Add($"[0x{key}] = new int[] {{ {String.Join(", ", entry.TgdbId.ToArray())} }}");
                 }
             }
 

@@ -22,8 +22,8 @@ namespace DataTool
         {
             var xmlPathIndex = Array.IndexOf(args, "--xml-path");
             var csIndex = Array.IndexOf(args, "--cs");
-            var ceXmlIndex = Array.IndexOf(args, "--out-xml");
-            var ceXmlGzIndex = Array.IndexOf(args, "--out-xml-gz");
+            var outXmlIndex = Array.IndexOf(args, "--out-xml");
+            var outXmlGzIndex = Array.IndexOf(args, "--out-xml-gz");
             var csOptionsIndex = Array.IndexOf(args, "--cs-opts");
             bool showUi = true;
 
@@ -55,16 +55,12 @@ namespace DataTool
                 showUi = false;
             }
 
-            if (ceXmlIndex != -1 || ceXmlGzIndex != -1)
+            if (outXmlIndex != -1 || outXmlGzIndex != -1)
             {
                 var simple = new RomFiles();
-                foreach (var entry in Data.GetHashDictionary(Collection).OrderBy(e => e.Key).Where(e => e.Value.Count > 0))
+                foreach (var entry in Data.GetHashDictionary(Collection).OrderBy(e => e.Key).Where(e => e.Value.TgdbId.Count > 0))
                 {
-                    simple.Hashes.Add(new RomData()
-                    {
-                        Crc32 = entry.Key,
-                        TgdbId = entry.Value
-                    });
+                    simple.Hashes.Add(entry.Value);
                 }
 
                 using (var xmlStream = new MemoryStream())
@@ -72,18 +68,18 @@ namespace DataTool
                     Xml.Serialize<RomFiles>(xmlStream, simple);
                     xmlStream.Seek(0, SeekOrigin.Begin);
 
-                    if (ceXmlIndex != -1)
+                    if (outXmlIndex != -1)
                     {
-                        using (var file = File.Create(args[ceXmlIndex + 1]))
+                        using (var file = File.Create(args[outXmlIndex + 1]))
                         {
                             xmlStream.CopyTo(file);
                             xmlStream.Seek(0, SeekOrigin.Begin);
                         }
                     }
 
-                    if (ceXmlGzIndex != -1)
+                    if (outXmlGzIndex != -1)
                     {
-                        using (var file = File.Create(args[ceXmlGzIndex + 1]))
+                        using (var file = File.Create(args[outXmlGzIndex + 1]))
                         using (var gzipStream = new GZipStream(file, CompressionLevel.Optimal))
                         {
                             xmlStream.CopyTo(gzipStream);
