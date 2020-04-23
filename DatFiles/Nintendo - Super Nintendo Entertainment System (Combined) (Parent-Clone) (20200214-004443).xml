@@ -2261,12 +2261,12 @@
 	<game name="Contra III - The Alien Wars (USA)">
 		<description>Contra III - The Alien Wars (USA)</description>
 		<rom name="Contra III - The Alien Wars (USA).sfc" crc="84DA7CFE" />
-		<tgdb>300</tgdb>
+		<tgdb>122</tgdb>
 	</game>
 	<game name="Contra III - The Alien Wars (USA) (Beta)">
 		<description>Contra III - The Alien Wars (USA) (Beta)</description>
 		<rom name="Contra III - The Alien Wars (USA) (Beta).sfc" crc="FFDF4355" />
-		<tgdb>300</tgdb>
+		<tgdb>122</tgdb>
 	</game>
 	<game name="Contra IV - The Alien Wars (USA) (Beta)">
 		<description>Contra IV - The Alien Wars (USA) (Beta)</description>

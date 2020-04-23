@@ -2191,6 +2191,7 @@
 	<game name="Contra III - The Alien Wars (USA) (Beta)">
 		<description>Contra III - The Alien Wars (USA) (Beta)</description>
 		<rom name="Contra III - The Alien Wars (USA) (Beta).sfc" size="1048576" crc="FFDF4355" md5="47DE25B842EBE3CAFC44A2545EDF8C03" sha1="1CB7A2C4DEDEF86415536F4EC2B1AE466C4F1632" />
+		<tgdb>122</tgdb>
 	</game>
 	<game name="Contra IV - The Alien Wars (USA) (Beta)">
 		<description>Contra IV - The Alien Wars (USA) (Beta)</description>

@@ -2499,6 +2499,7 @@
 	<game name="Contra (Japan) (Sample)">
 		<description>Contra (Japan) (Sample)</description>
 		<rom name="Contra (Japan) (Sample).nes" size="262144" crc="CB35FA90" md5="08ECEB549F083B6CA96A0DCF092D7823" sha1="68D6BFF6460075A5528E8F197F8D31D9DDCFDC8D" />
+		<tgdb>1258</tgdb>
 	</game>
 	<game name="Contra (USA)">
 		<description>Contra (USA)</description>
