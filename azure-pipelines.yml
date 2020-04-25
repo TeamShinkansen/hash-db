@@ -35,6 +35,24 @@ steps:
     CleanTargetFolder: true
     preserveTimestamp: true
 
+- task: CopyFiles@2
+  inputs:
+    Contents: 'DatFiles/**'
+    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/DatFiles/'
+
+- task: CopyFiles@2
+  inputs:
+    Contents: 'data-tool/bin/**'
+    TargetFolder: 'data-tool/bin/'
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/datatool/'
+    includeRootFolder: true
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/datatool.zip'
+    replaceExistingArchive: true
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
