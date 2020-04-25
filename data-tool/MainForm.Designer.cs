@@ -37,10 +37,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.labelNameData = new System.Windows.Forms.Label();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.listBoxTgdbIds = new System.Windows.Forms.ListBox();
             this.buttonMoveIdUp = new System.Windows.Forms.Button();
             this.buttonMoveIdDown = new System.Windows.Forms.Button();
             this.buttonAddId = new System.Windows.Forms.Button();
+            this.listBoxTgdbIds = new System.Windows.Forms.ListBox();
             this.buttonRemoveId = new System.Windows.Forms.Button();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.buttonDeleteDataSet = new System.Windows.Forms.Button();
@@ -108,13 +108,6 @@
             this.tableLayoutPanel3.Controls.Add(this.buttonRemoveId, 1, 3);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             // 
-            // listBoxTgdbIds
-            // 
-            resources.ApplyResources(this.listBoxTgdbIds, "listBoxTgdbIds");
-            this.listBoxTgdbIds.FormattingEnabled = true;
-            this.listBoxTgdbIds.Name = "listBoxTgdbIds";
-            this.tableLayoutPanel3.SetRowSpan(this.listBoxTgdbIds, 4);
-            // 
             // buttonMoveIdUp
             // 
             resources.ApplyResources(this.buttonMoveIdUp, "buttonMoveIdUp");
@@ -135,6 +128,13 @@
             this.buttonAddId.Name = "buttonAddId";
             this.buttonAddId.UseVisualStyleBackColor = true;
             this.buttonAddId.Click += new System.EventHandler(this.buttonAddId_Click);
+            // 
+            // listBoxTgdbIds
+            // 
+            resources.ApplyResources(this.listBoxTgdbIds, "listBoxTgdbIds");
+            this.listBoxTgdbIds.FormattingEnabled = true;
+            this.listBoxTgdbIds.Name = "listBoxTgdbIds";
+            this.tableLayoutPanel3.SetRowSpan(this.listBoxTgdbIds, 4);
             // 
             // buttonRemoveId
             // 
@@ -163,6 +163,7 @@
             resources.ApplyResources(this.buttonImportDataSet, "buttonImportDataSet");
             this.buttonImportDataSet.Name = "buttonImportDataSet";
             this.buttonImportDataSet.UseVisualStyleBackColor = true;
+            this.buttonImportDataSet.Click += new System.EventHandler(this.buttonImportDataSet_Click);
             // 
             // MainForm
             // 
