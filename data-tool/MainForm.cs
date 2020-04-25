@@ -12,9 +12,13 @@ namespace DataTool
 {
     public partial class MainForm : Form
     {
+        public class MultiList<T, T2> : List<T>
+        {
+            public List<T2> InnerData = new List<T2>();
+        }
         public MainForm() => InitializeComponent();
         private void MainForm_Load(object sender, EventArgs e) => PopulateTreeView();
-
+        private TreeNode[] lastSelectedNodes = new TreeNode[] { };
         private void PopulateTreeView()
         {
 
@@ -47,19 +51,39 @@ namespace DataTool
             treeViewMain.EndUpdate();
         }
 
-        private void SelectGame(DataGame game)
+        private void SelectGame(params DataGame[] game)
         {
             listBoxTgdbIds.BeginUpdate();
             listBoxTgdbIds.DataSource = null;
             listBoxTgdbIds.Items.Clear();
-            listBoxTgdbIds.DataSource = game.TgdbId;
+
+            if (game.Length == 1)
+            {
+                listBoxTgdbIds.DataSource = game[0].TgdbId;
+            }
+            else if (game.Length > 1)
+            {
+                var lists = game.Select(l => l.TgdbId);
+                var intersection = lists
+                    .Skip(1)
+                    .Aggregate(
+                        new HashSet<int>(lists.First()),
+                        (h, e) => { h.IntersectWith(e); return h; }
+                    );
+                var list = new MultiList<int, DataGame>();
+                list.InnerData.AddRange(game);
+                list.AddRange(intersection.ToList());
+                listBoxTgdbIds.DataSource = list;
+            }
+
             listBoxTgdbIds.EndUpdate();
             listBoxTgdbIds.EndUpdate();
         }
 
         private void treeViewMain_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            var selected = treeViewMain.SelectedNode;
+            var selected = treeViewMain.SelectedNodes;
+            var selectedGames = selected.Where(g => g.Tag is DataGame).ToList();
 
             groupBoxGameInformation.Enabled = false;
             buttonDeleteDataSet.Enabled = false;
@@ -71,24 +95,44 @@ namespace DataTool
             listBoxTgdbIds.Items.Clear();
             listBoxTgdbIds.EndUpdate();
 
-            if (selected == null)
+            if (selected.Count == 0)
             {
                 return;
             }
 
-            if (selected.Tag is DataGroup)
+            if (selected.Count == 1 && selected[0].Tag is DataGroup)
             {
-                var group = (DataGroup)selected.Tag;
+                var group = (DataGroup)selected[0].Tag;
                 buttonDeleteDataSet.Enabled = true;
             }
-
-            if (selected.Tag is DataGame)
+            if (selectedGames.Count > 0)
             {
-                var game = (DataGame)selected.Tag;
                 groupBoxGameInformation.Enabled = true;
-                labelNameData.Text = game.Name;
-                SelectGame(game);
+                SelectGame(selectedGames.Select(g => g.Tag as DataGame).ToArray());
             }
+
+            if (selectedGames.Count == 1)
+            {
+                var game = selected[0].Tag as DataGame;
+                labelNameData.Text = game.Name;
+                
+            }
+
+            buttonMoveIdUp.Enabled = selectedGames.Count == 1;
+            buttonMoveIdDown.Enabled = selectedGames.Count == 1;
+
+            treeViewMain.BeginUpdate();
+            foreach (TreeNode node in lastSelectedNodes)
+            {
+                UpdateNodeColor(node);
+            }
+
+            foreach (TreeNode node in treeViewMain.SelectedNodes)
+            {
+                node.ForeColor = SystemColors.HighlightText;
+            }
+
+            treeViewMain.EndUpdate();
         }
 
         private void buttonMoveIdUp_Click(object sender, EventArgs e)
@@ -114,8 +158,6 @@ namespace DataTool
             }
 
             listBoxTgdbIds.EndUpdate();
-
-            UpdateNodeColor(treeViewMain.SelectedNode);
         }
 
         private void buttonMoveIdDown_Click(object sender, EventArgs e)
@@ -141,8 +183,6 @@ namespace DataTool
             }
 
             listBoxTgdbIds.EndUpdate();
-
-            UpdateNodeColor(treeViewMain.SelectedNode);
         }
 
         private void buttonAddId_Click(object sender, EventArgs e)
@@ -158,14 +198,21 @@ namespace DataTool
                     if (!list.Contains(numberEntry.Number))
                     {
                         list.Add(numberEntry.Number);
+
+                        if (listBoxTgdbIds.DataSource is MultiList<int, DataGame>)
+                        {
+                            foreach (var game in (listBoxTgdbIds.DataSource as MultiList<int, DataGame>).InnerData)
+                            {
+                                game.TgdbId.Add(numberEntry.Number);
+                            }
+                        }
+
                         listBoxTgdbIds.DataSource = null;
                         listBoxTgdbIds.DataSource = list;
                         listBoxTgdbIds.SelectedIndex = list.Count - 1;
                     }
 
                     listBoxTgdbIds.EndUpdate();
-
-                    UpdateNodeColor(treeViewMain.SelectedNode);
                 }
             }
         }
@@ -183,20 +230,27 @@ namespace DataTool
 
             listBoxTgdbIds.BeginUpdate();
             list.RemoveAt(listBoxTgdbIds.SelectedIndex);
+
+            if (listBoxTgdbIds.DataSource is MultiList<int, DataGame>)
+            {
+                foreach (var game in (listBoxTgdbIds.DataSource as MultiList<int, DataGame>).InnerData)
+                {
+                    game.TgdbId.RemoveAll(i => i == (int)listBoxTgdbIds.SelectedItem);
+                }
+            }
+
             listBoxTgdbIds.DataSource = null;
             listBoxTgdbIds.DataSource = list;
             listBoxTgdbIds.EndUpdate();
-
-            UpdateNodeColor(treeViewMain.SelectedNode);
         }
 
-        private void UpdateNodeColor(TreeNode node)
+        private void UpdateNodeColor(params TreeNode[] nodes)
         {
-            if (node.Tag is DataGame)
+            foreach (var node in nodes.Where(e => e.Tag is DataGame))
             {
-                var game = (DataGame)node.Tag;
+                var game = node.Tag as DataGame;
 
-                node.ForeColor = (game.TgdbId.Count > 0 ? Color.Green : Color.Red);
+                node.ForeColor = (node.IsSelected ? SystemColors.HighlightText : (game.TgdbId.Count > 0 ? Color.Green : Color.Red));
             }
         }
 
@@ -279,6 +333,11 @@ namespace DataTool
             });
 
             PopulateTreeView();
+        }
+
+        private void treeViewMain_BeforeSelect(object sender, TreeViewCancelEventArgs e)
+        {
+            lastSelectedNodes = treeViewMain.SelectedNodes.ToArray();
         }
     }
 }

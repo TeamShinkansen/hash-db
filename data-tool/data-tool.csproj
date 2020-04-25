@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controls\MultiSelectTreeview.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Data.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>

@@ -129,6 +129,19 @@
   <data name="treeViewMain.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
+  <data name="treeViewMain.SelectedNodes" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAKYBU3lzdGVtLldpbmRvd3MuRm9ybXMsIFZlcnNpb249NC4wLjAu
+        MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0sIG1zY29y
+        bGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVj
+        NTYxOTM0ZTA4OQwDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1
+        cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQUBAAAAQFN5c3RlbS5Db2xs
+        ZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZU5vZGUDAAAABl9p
+        dGVtcwVfc2l6ZQhfdmVyc2lvbgQAAB9TeXN0ZW0uV2luZG93cy5Gb3Jtcy5UcmVlTm9kZVtdAwAAAAgI
+        AgAAAAkEAAAAAAAAAAIAAAAHBAAAAAABAAAAAAAAAAQdU3lzdGVtLldpbmRvd3MuRm9ybXMuVHJlZU5v
+        ZGUDAAAACw==
+</value>
+  </data>
   <data name="treeViewMain.Size" type="System.Drawing.Size, System.Drawing">
     <value>394, 444</value>
   </data>
@@ -139,7 +152,7 @@
     <value>treeViewMain</value>
   </data>
   <data name="&gt;&gt;treeViewMain.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TreeView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>DataTool.Controls.MultiSelectTreeview, data-tool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;treeViewMain.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>

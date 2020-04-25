@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.treeViewMain = new System.Windows.Forms.TreeView();
+            this.treeViewMain = new DataTool.Controls.MultiSelectTreeview();
             this.groupBoxGameInformation = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.labelName = new System.Windows.Forms.Label();
@@ -65,6 +65,8 @@
             resources.ApplyResources(this.treeViewMain, "treeViewMain");
             this.treeViewMain.Name = "treeViewMain";
             this.tableLayoutPanel1.SetRowSpan(this.treeViewMain, 2);
+            this.treeViewMain.SelectedNodes = ((System.Collections.Generic.List<System.Windows.Forms.TreeNode>)(resources.GetObject("treeViewMain.SelectedNodes")));
+            this.treeViewMain.BeforeSelect += new System.Windows.Forms.TreeViewCancelEventHandler(this.treeViewMain_BeforeSelect);
             this.treeViewMain.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeViewMain_AfterSelect);
             // 
             // groupBoxGameInformation
@@ -186,7 +188,7 @@
         #endregion
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.TreeView treeViewMain;
+        private DataTool.Controls.MultiSelectTreeview treeViewMain;
         private System.Windows.Forms.GroupBox groupBoxGameInformation;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Label labelName;
