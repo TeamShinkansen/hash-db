@@ -38,12 +38,12 @@ steps:
 - task: CopyFiles@2
   inputs:
     Contents: 'DatFiles/**'
-    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/DatFiles/'
+    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/'
 
 - task: CopyFiles@2
   inputs:
     Contents: 'data-tool/bin/**'
-    TargetFolder: 'data-tool/bin/'
+    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/'
 
 - task: ArchiveFiles@2
   inputs:
