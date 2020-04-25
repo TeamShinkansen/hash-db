@@ -85,10 +85,14 @@ namespace DataTool
                     result = taskHost(form);
                     form.taskFinished = true;
 
-                    form.Invoke(new Action(() =>
+                    try
                     {
-                        form.Close();
-                    }));
+                        form.Invoke(new Action(() =>
+                        {
+                            form.Close();
+                        }));
+                    } 
+                    catch (Exception) { }
                 });
 
                 taskThread.SetApartmentState(ApartmentState.STA);
