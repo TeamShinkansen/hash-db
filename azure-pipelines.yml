@@ -35,6 +35,22 @@ steps:
     CleanTargetFolder: true
     preserveTimestamp: true
 
+- task: CopyFiles@2
+  inputs:
+    Contents: |
+      DatFiles/**
+      data-tool/bin/**
+    TargetFolder: '$(System.DefaultWorkingDirectory)/hash-db/'
+    preserveTimestamp: true
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/hash-db/'
+    includeRootFolder: true
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/hash-db.zip'
+    replaceExistingArchive: true
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
