@@ -3,7 +3,7 @@
 	<header>
 		<name>Nintendo - Satellaview</name>
 		<description>Nintendo - Satellaview</description>
-		<version>20200315-121005</version>
+		<version>20200424-131853</version>
 		<author>BigFred, Blank, C. V. Reynolds, dead_screem, Hiccup, kazumi213, leekindo, Money_114, omonim2007, relax, Rifu, Tauwasser, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>http://www.no-intro.org</url>
@@ -380,6 +380,10 @@
 	<game name="Dezaemon BSX Version - BS-X Shooting (Japan) (En)">
 		<description>Dezaemon BSX Version - BS-X Shooting (Japan) (En)</description>
 		<rom name="Dezaemon BSX Version - BS-X Shooting (Japan) (En).bs" size="1048576" crc="5A9BE5A8" md5="7328C333CC54AEE986B981F816E30830" sha1="E52D59E800C17C678711A681D3308F0804C238E0" />
+	</game>
+	<game name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En)">
+		<description>Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En)</description>
+		<rom name="Dezaemon BSX Version - Sugoi STG 2 - Crystal Guardian (Japan) (En).bs" size="1048576" crc="C8813EB9" md5="07E471A0EBF67977F63673E4D5377CD2" sha1="3D917791FF4C19D464B00CF03D83761F46FF75E8" />
 	</game>
 	<game name="Digital Magazine Busters BS - 4-12 Gou (Japan) [b]">
 		<description>Digital Magazine Busters BS - 4-12 Gou (Japan) [b]</description>

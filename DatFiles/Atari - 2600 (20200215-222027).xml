@@ -8,11 +8,6 @@
 		<homepage>No-Intro</homepage>
 		<url>http://www.no-intro.org</url>
 	</header>
-	<game name="32 in 1 Game Cartridge (Europe)">
-		<description>32 in 1 Game Cartridge (Europe)</description>
-		<rom name="32 in 1 Game Cartridge (Europe).a26" size="65536" crc="EAEF28EA" md5="291BCDB05F2B37CDF9452D2BF08E0321" sha1="97FFC252438A5C9361096A1151BDBF79BD717CB3" />
-		<tgdb>19891</tgdb>
-	</game>
 	<game name="3-D Genesis (USA) (Proto)">
 		<description>3-D Genesis (USA) (Proto)</description>
 		<rom name="3-D Genesis (USA) (Proto).a26" size="8192" crc="931A0BDC" md5="CAC9928A84E1001817B223F0CECAA3F2" sha1="0E146E5EB1A68CBA4F8FA55EC6F125438EFCFCB4" />
@@ -2333,7 +2328,6 @@
 		<description>Radar (USA)</description>
 		<rom name="Radar (USA).a26" size="4096" crc="5161A246" md5="74F623833429D35341B7A84BC09793C0" sha1="5F1F2B5B407B0624B59409E02060A3A9E8EED8FC" />
 		<tgdb>28713</tgdb>
-		<tgdb>28713</tgdb>
 	</game>
 	<game name="Radar Lock (USA)">
 		<description>Radar Lock (USA)</description>
@@ -2926,7 +2920,6 @@
 	<game name="Stunt Man (USA)">
 		<description>Stunt Man (USA)</description>
 		<rom name="Stunt Man (USA).a26" size="4096" crc="EA30CDD5" md5="ED0AB909CF7B30AFF6FC28C3A4660B8E" sha1="3AEC7EA8AF72BBE105B9D2903A92F5AD2B37BDDB" />
-		<tgdb>38212</tgdb>
 		<tgdb>38212</tgdb>
 	</game>
 	<game name="Submarine Commander (USA)">

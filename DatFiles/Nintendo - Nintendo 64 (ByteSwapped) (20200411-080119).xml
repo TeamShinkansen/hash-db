@@ -21,6 +21,7 @@
 	<game name="007 - The World Is Not Enough (USA) (Beta)">
 		<description>007 - The World Is Not Enough (USA) (Beta)</description>
 		<rom name="007 - The World Is Not Enough (USA) (Beta).v64" size="33554432" crc="EBF883ED" md5="DFC1BC54BDE57E70B74645B9F4C1082C" sha1="5B1FD70969DCE39C215AAB618D9DA718351CE7E5" />
+		<tgdb>238</tgdb>
 	</game>
 	<game name="1080 Snowboarding (Europe) (En,Ja,Fr,De)">
 		<description>1080 Snowboarding (Europe) (En,Ja,Fr,De)</description>
@@ -117,10 +118,12 @@
 	<game name="Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)">
 		<description>Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)</description>
 		<rom name="Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).v64" size="33554432" crc="6BAEE952" md5="7C2912724839E1AB47A90A57A4BD5E40" sha1="FB150A932DC70712FF2AAA10029799A1D7BB1872" />
+		<tgdb>1054</tgdb>
 	</game>
 	<game name="Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)">
 		<description>Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)</description>
 		<rom name="Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).v64" size="33554432" crc="58DCDCCE" md5="D192BE815416927D90FE012E8BD0B49F" sha1="30DC41CDD364BC671BDA757762062248C71A701F" />
+		<tgdb>1054</tgdb>
 	</game>
 	<game name="Aidyn Chronicles - The First Mage (USA) (Rev 1)">
 		<description>Aidyn Chronicles - The First Mage (USA) (Rev 1)</description>
@@ -435,6 +438,7 @@
 	<game name="Bomberman 64 (Japan)">
 		<description>Bomberman 64 (Japan)</description>
 		<rom name="Bomberman 64 (Japan).v64" size="12582912" crc="7C532342" md5="F3B1BDE174B0203857DB24416ED112BE" sha1="161639FD706DD2637FED2A14CCEE73138E82FB2D" />
+		<tgdb>1072</tgdb>
 	</game>
 	<game name="Bomberman 64 (USA)">
 		<description>Bomberman 64 (USA)</description>
@@ -716,10 +720,12 @@
 	<game name="Conker's Bad Fur Day (USA) (Beta) (2000-10-25)">
 		<description>Conker's Bad Fur Day (USA) (Beta) (2000-10-25)</description>
 		<rom name="Conker's Bad Fur Day (USA) (Beta) (2000-10-25).v64" size="67108864" crc="C9822F5C" md5="5C3D63E73C3A30E4B28D5F79045592D6" sha1="6956BD77351A91CDD22AF454A8D410A3B9C829F0" />
+		<tgdb>249</tgdb>
 	</game>
 	<game name="Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)">
 		<description>Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)</description>
 		<rom name="Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).v64" size="67108864" crc="AF9C5972" md5="2B5335B041B161A73C0EBA0D76B26CA0" sha1="92575EED941324B9CD7D29DF61E720B04D8B26CB" />
+		<tgdb>249</tgdb>
 	</game>
 	<game name="Cruis'n Exotica (USA)">
 		<description>Cruis'n Exotica (USA)</description>
@@ -749,6 +755,7 @@
 	<game name="Cruis'n USA (USA) (Wii Virtual Console)">
 		<description>Cruis'n USA (USA) (Wii Virtual Console)</description>
 		<rom name="Cruis'n USA (USA) (Wii Virtual Console).v64" size="8388608" crc="F9692E16" md5="E2F3EE40F103E51FDCF1C23B655F685F" sha1="C5A0782D52B52D1D3600FA251A04D9333BF37FB0" />
+		<tgdb>228</tgdb>
 	</game>
 	<game name="Cruis'n World (Europe)">
 		<description>Cruis'n World (Europe)</description>
@@ -758,6 +765,7 @@
 	<game name="Cruis'n World (Europe) (Rev 1)">
 		<description>Cruis'n World (Europe) (Rev 1)</description>
 		<rom name="Cruis'n World (Europe) (Rev 1).v64" size="12582912" crc="E962672D" md5="66CF8D0144C1E242D855ADB9DF5B685D" sha1="48E4722765644EF98D46195D1ABB1E79F99F7CFB" />
+		<tgdb>229</tgdb>
 	</game>
 	<game name="Cruis'n World (USA)">
 		<description>Cruis'n World (USA)</description>
@@ -959,6 +967,7 @@
 	<game name="Dragon Sword 64 (USA) (Proto) (1999-08-25)">
 		<description>Dragon Sword 64 (USA) (Proto) (1999-08-25)</description>
 		<rom name="Dragon Sword 64 (USA) (Proto) (1999-08-25).v64" size="11891184" crc="EA99809A" md5="EEA6E62AC2CF21270958BFDD6C5A63B5" sha1="668C0D3760CF1AF2DDE2917F2D53B776C8D2AE90" />
+		<tgdb>35757</tgdb>
 	</game>
 	<game name="Dual Heroes (Europe)">
 		<description>Dual Heroes (Europe)</description>

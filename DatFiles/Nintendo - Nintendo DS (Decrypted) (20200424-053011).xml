@@ -3,27 +3,11 @@
 	<header>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20200411-115359</version>
+		<version>20200424-053011</version>
 		<author>aci68, ajshell1, Aringon, asapy, Baronluigi, Bent, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, FakeShemp, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, InternalLoss, Jhon591, jimmsu, kazumi213, leekindo, MaxG, michal99, Money_114, Mr.K, NGEfreak, nhlay, niemand, omonim2007, Powerpuff, PPLToast, rarenight, relax, RetroGamer, Rifu, scorp256, Sir VG, SonGoku, Tauwasser, Tori, u53r123, Vallaine01, Vigi, Whovian9369, Xenirina, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>http://www.no-intro.org</url>
 	</header>
-	<game name="[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)">
-		<description>[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)</description>
-		<rom name="[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China).nds" size="16384" crc="FB444CE8" md5="C0AF2E8528F6E8D99BE1D53763EC9ED3" sha1="7767ED89DF9A36E2829A27FC8DC536B3CF277FB8" />
-	</game>
-	<game name="[BIOS] iQue DS Lite ARM946E-S (China)">
-		<description>[BIOS] iQue DS Lite ARM946E-S (China)</description>
-		<rom name="[BIOS] iQue DS Lite ARM946E-S (China).nds" size="4096" crc="7B43CDED" md5="08F1DC42EBE85F129B06415F5E2CCBC8" sha1="3B2B85A457E1A332221486F3F2BDC8A3C1900E54" />
-	</game>
-	<game name="[BIOS] iQue DS Lite Firmware (China)">
-		<description>[BIOS] iQue DS Lite Firmware (China)</description>
-		<rom name="[BIOS] iQue DS Lite Firmware (China).bin" size="524288" crc="96212A2E" md5="5DE80A392AFE67BEEAA904D096E2E971" sha1="3889384913435B7947E8E401D3FE5B086033F7C3" />
-	</game>
-	<game name="[BIOS] iQue DS Lite Firmware (China) (Alt)">
-		<description>[BIOS] iQue DS Lite Firmware (China) (Alt)</description>
-		<rom name="[BIOS] iQue DS Lite Firmware (China) (Alt).bin" size="524288" crc="489994FE" md5="71B5840D41DFCD52A50D8EC5C37A8C7A" sha1="A9F8A8E9B357A73A4B3FB0EAE9C5B4951E483E4D" />
-	</game>
 	<game name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)">
 		<description>[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World)</description>
 		<rom name="[BIOS] Nintendo DS ARM7TDMI (GBA Mode) (World).nds" size="16384" crc="A6473709" md5="1C0D67DB9E1208B95A1506B1688A0AD6" sha1="C11531D5261006810CDC954BD4BEC0AFE3187B35" />
@@ -35,10 +19,6 @@
 	<game name="[BIOS] Nintendo DS ARM946E-S (World)">
 		<description>[BIOS] Nintendo DS ARM946E-S (World)</description>
 		<rom name="[BIOS] Nintendo DS ARM946E-S (World).nds" size="4096" crc="2AB23573" md5="A392174EB3E572FED6447E956BDE4B25" sha1="BFAAC75F101C135E32E2AAF541DE6B1BE4C8C62D" />
-	</game>
-	<game name="[BIOS] Nintendo DS Lite Firmware (Europe)">
-		<description>[BIOS] Nintendo DS Lite Firmware (Europe)</description>
-		<rom name="[BIOS] Nintendo DS Lite Firmware (Europe).bin" size="262144" crc="9D0E7D5F" md5="37CC17D8004667DF7A360E50C0D4C6E6" sha1="E8CBF864BE9A8D077CECCD2E7059B6D515FCE672" />
 	</game>
 	<game name="007 - Blood Stone (Canada)">
 		<description>007 - Blood Stone (Canada)</description>
@@ -6008,14 +5988,6 @@
 	<game name="Dodge Racing - Charger vs Challenger (USA) (En,Fr,Es)">
 		<description>Dodge Racing - Charger vs Challenger (USA) (En,Fr,Es)</description>
 		<rom name="Dodge Racing - Charger vs Challenger (USA) (En,Fr,Es).nds" size="16777216" crc="906ED8C2" md5="2AAA69BE3E9A73E3A4EA1D8F66AC83D6" sha1="FAA4100879D106E070C22247D5F5770570199AC9" />
-	</game>
-	<game name="Dog Trainer (Europe) (Cheat Cartridge) (Unl)">
-		<description>Dog Trainer (Europe) (Cheat Cartridge) (Unl)</description>
-		<rom name="Dog Trainer (Europe) (Cheat Cartridge) (Unl).gba" size="1048576" crc="6B3961FB" md5="68101B735CDAF42C9EB51118B7F0D339" sha1="6994B43605A14F64B7B1AD2F4BA93F216342B9E1" />
-	</game>
-	<game name="Dog Trainer 2 (Europe) (Cheat Cartridge) (Unl)">
-		<description>Dog Trainer 2 (Europe) (Cheat Cartridge) (Unl)</description>
-		<rom name="Dog Trainer 2 (Europe) (Cheat Cartridge) (Unl).gba" size="1048576" crc="B2100FED" md5="6C03328F60BEBF5B8444558C45A6EEC3" sha1="812475FCB025A7A216F4544605E9110759D8B02E" />
 	</game>
 	<game name="Dogz (Europe)">
 		<description>Dogz (Europe)</description>
@@ -16118,10 +16090,6 @@
 	<game name="Mazes of Fate DS (USA)">
 		<description>Mazes of Fate DS (USA)</description>
 		<rom name="Mazes of Fate DS (USA).nds" size="67108864" crc="7130E1AF" md5="4EB8AAFD592918EDCE686D5F34FE299B" sha1="C6E85AA82F4F72D6FBD1A5AAFACD59E15F12E30D" />
-	</game>
-	<game name="Mazes of Fate DS (USA) (Beta)">
-		<description>Mazes of Fate DS (USA) (Beta)</description>
-		<rom name="Mazes of Fate DS (USA) (Beta).nds" size="67108864" crc="0A053584" md5="7F6FFBC5A143EC637EBFA1074BF282D8" sha1="89B6A2BACE2136F2DC9A167CA0A1D34A43DA12DC" />
 	</game>
 	<game name="Me de Unou o Kitaeru - DS Sokudoku Junior (Japan)">
 		<description>Me de Unou o Kitaeru - DS Sokudoku Junior (Japan)</description>

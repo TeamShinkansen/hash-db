@@ -1752,10 +1752,6 @@
 		<rom name="Phantasy Star (Japan).sms" size="524288" crc="6605D36A" md5="DFEBC48DFE8165202B7F002D8BAC477B" sha1="C9A40DDD217C58DDDCD6B5C0FE66C3A50D3E68E4" />
 		<tgdb>2965</tgdb>
 	</game>
-	<game name="Phantasy Star (Japan) (Virtual Console)">
-		<description>Phantasy Star (Japan) (Virtual Console)</description>
-		<rom name="Phantasy Star (Japan) (Virtual Console).sms" size="524288" crc="07301F83" md5="14C59604768B33175362CC592CB75EAD" sha1="B3AE447DC739256616B44CBD77CB903C9F19E980" />
-	</game>
 	<game name="Phantasy Star (Korea) (Unl)">
 		<description>Phantasy Star (Korea) (Unl)</description>
 		<rom name="Phantasy Star (Korea) (Unl).sms" size="524288" crc="747E83B5" md5="F853B7DDCA63864735C03001C9AC477B" sha1="52B2AA52A1C96E15869498A8E42B074705070007" />
