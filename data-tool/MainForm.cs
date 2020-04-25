@@ -203,7 +203,10 @@ namespace DataTool
                         {
                             foreach (var game in (listBoxTgdbIds.DataSource as MultiList<int, DataGame>).InnerData)
                             {
-                                game.TgdbId.Add(numberEntry.Number);
+                                if (!game.TgdbId.Contains(numberEntry.Number))
+                                {
+                                    game.TgdbId.Add(numberEntry.Number);
+                                }
                             }
                         }
 
