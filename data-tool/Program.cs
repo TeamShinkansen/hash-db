@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
+using System.Reflection;
 using System.Windows.Forms;
 
 namespace DataTool
@@ -22,6 +23,13 @@ namespace DataTool
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            var exePath = Assembly.GetEntryAssembly().Location;
+
+            if (Directory.Exists(Path.Combine(Path.GetDirectoryName(exePath), "DatFiles")))
+            {
+                XmlPath = Path.Combine(Path.GetDirectoryName(exePath), "DatFiles");
+            }
 
             var xmlPathIndex = Array.IndexOf(args, "--xml-path");
             var csIndex = Array.IndexOf(args, "--cs");
