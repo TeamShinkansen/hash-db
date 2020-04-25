@@ -37,20 +37,18 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    Contents: 'DatFiles/**'
-    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/'
-
-- task: CopyFiles@2
-  inputs:
-    Contents: 'data-tool/bin/**'
-    TargetFolder: '$(System.DefaultWorkingDirectory)/datatool/'
+    Contents: |
+      DatFiles/**
+      data-tool/bin/**
+    TargetFolder: '$(System.DefaultWorkingDirectory)/hash-db/'
+    preserveTimestamp: true
 
 - task: ArchiveFiles@2
   inputs:
-    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/datatool/'
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/hash-db/'
     includeRootFolder: true
     archiveType: 'zip'
-    archiveFile: '$(Build.ArtifactStagingDirectory)/datatool.zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/hash-db.zip'
     replaceExistingArchive: true
 
 - task: PublishBuildArtifacts@1
