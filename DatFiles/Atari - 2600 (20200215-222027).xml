@@ -68,6 +68,7 @@
 	<game name="Activision Decathlon, The (France)">
 		<description>Activision Decathlon, The (France)</description>
 		<rom name="Activision Decathlon, The (France).a26" size="8192" crc="716D9D1D" md5="EDE4AB11CA346BD023B2C21D941E0C50" sha1="7DA9CC2383D09835D345EC7D6E76D223591D2A2A" />
+		<tgdb>9245</tgdb>
 	</game>
 	<game name="Activision Decathlon, The (USA)">
 		<description>Activision Decathlon, The (USA)</description>
@@ -107,6 +108,7 @@
 	<game name="Airlock (Europe)">
 		<description>Airlock (Europe)</description>
 		<rom name="Airlock (Europe).a26" size="4096" crc="A2D4390B" md5="62899430338E0538EE93397867D85957" sha1="A94B103806D33546AA8FAC0056CD57B818BFED8C" />
+		<tgdb>10860</tgdb>
 	</game>
 	<game name="Airlock (USA)">
 		<description>Airlock (USA)</description>
@@ -190,6 +192,7 @@
 	<game name="Aquaventure (Brazil) (Proto) (Unl)">
 		<description>Aquaventure (Brazil) (Proto) (Unl)</description>
 		<rom name="Aquaventure (Brazil) (Proto) (Unl).a26" size="8192" crc="7FA61FA0" md5="F69D4FCF76942FCD9BDF3FD8FDE790FB" sha1="CB400DE2653E125E704ABD8B0FE5DDDB43E3438B" />
+		<tgdb>31124</tgdb>
 	</game>
 	<game name="Aquaventure (USA) (Proto) (1983-08-12)">
 		<description>Aquaventure (USA) (Proto) (1983-08-12)</description>
@@ -443,6 +446,7 @@
 	<game name="Big Bird's Egg Catch (Europe)">
 		<description>Big Bird's Egg Catch (Europe)</description>
 		<rom name="Big Bird's Egg Catch (Europe).a26" size="8192" crc="B0555578" md5="F283CC294ECE520C2BADF9DA20CFC025" sha1="FD9822EC54ADD04569B629D631182D9DEAC7184D" />
+		<tgdb>31842</tgdb>
 	</game>
 	<game name="Big Bird's Egg Catch (Japan, USA)">
 		<description>Big Bird's Egg Catch (Japan, USA)</description>
@@ -452,14 +456,17 @@
 	<game name="Big Bird's Egg Catch (Japan, USA) (Beta) (1982-12-08)">
 		<description>Big Bird's Egg Catch (Japan, USA) (Beta) (1982-12-08)</description>
 		<rom name="Big Bird's Egg Catch (Japan, USA) (Beta) (1982-12-08).a26" size="8192" crc="9DE03520" md5="AFD2CF258D51AE4965EE21ABBA3627AB" sha1="A3AB3699D945AC356AEFF637046F197F9D6F7063" />
+		<tgdb>31842</tgdb>
 	</game>
 	<game name="Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-02)">
 		<description>Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-02)</description>
 		<rom name="Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-02).a26" size="8192" crc="EEB65EFA" md5="151FA3218D8D7600114EB5BCD79C85CB" sha1="AAFB88EF8F95B1051CB8B6A153B165215C95C7BD" />
+		<tgdb>31842</tgdb>
 	</game>
 	<game name="Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-17)">
 		<description>Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-17)</description>
 		<rom name="Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-17).a26" size="8192" crc="3A4038AC" md5="0B17ED42984000DA8B727CA46143F87A" sha1="E2B0304DE695CEA7C98344642254B7F181E928D2" />
+		<tgdb>31842</tgdb>
 	</game>
 	<game name="Bionic Breakthrough (USA) (Proto)">
 		<description>Bionic Breakthrough (USA) (Proto)</description>
@@ -538,6 +545,7 @@
 	<game name="Boing! (Europe)">
 		<description>Boing! (Europe)</description>
 		<rom name="Boing! (Europe).a26" size="4096" crc="D2F06299" md5="C471B97446A85304BBAC021C57C2CB49" sha1="D7A079A8874DCF059D10DC49831D6D9E2DB68917" />
+		<tgdb>33473</tgdb>
 	</game>
 	<game name="Boing! (USA)">
 		<description>Boing! (USA)</description>
@@ -561,6 +569,7 @@
 	<game name="Boxen (Germany) (En)">
 		<description>Boxen (Germany) (En)</description>
 		<rom name="Boxen (Germany) (En).a26" size="2048" crc="7931C845" md5="7F07CD2E89DDA5A3A90D3AB064BFD1F6" sha1="DE7137596223F0E8D0F4E6CD675EA5344892C6F4" />
+		<tgdb>7945</tgdb>
 	</game>
 	<game name="Boxing (Brazil) (Unl)">
 		<description>Boxing (Brazil) (Unl)</description>
@@ -570,6 +579,7 @@
 	<game name="Boxing (Europe)">
 		<description>Boxing (Europe)</description>
 		<rom name="Boxing (Europe).a26" size="2048" crc="515036F1" md5="25F2E760CD7F56B88AAC88D63757D41B" sha1="4F75780608148F51EDDB30CE2DA0C1A40BE7D37F" />
+		<tgdb>7945</tgdb>
 	</game>
 	<game name="Boxing (USA)">
 		<description>Boxing (USA)</description>
@@ -599,6 +609,7 @@
 	<game name="Bridge (Europe)">
 		<description>Bridge (Europe)</description>
 		<rom name="Bridge (Europe).a26" size="4096" crc="63CEEB81" md5="F8B2A6A4D73EBFF10D805A9B59041986" sha1="066193A13ACBC1ABFA6FDEC29D41F7AD14869A5B" />
+		<tgdb>22145</tgdb>
 	</game>
 	<game name="Bridge (USA)">
 		<description>Bridge (USA)</description>
@@ -643,14 +654,17 @@
 	<game name="Bump 'n' Jump (Europe)">
 		<description>Bump 'n' Jump (Europe)</description>
 		<rom name="Bump 'n' Jump (Europe).a26" size="8192" crc="194F3576" md5="9295570A141CDEC18074C55DC7229D08" sha1="35BC4048F58BB170313872A0BCE44FB1CA3217CC" />
+		<tgdb>33503</tgdb>
 	</game>
 	<game name="Bump 'n' Jump (USA)">
 		<description>Bump 'n' Jump (USA)</description>
 		<rom name="Bump 'n' Jump (USA).a26" size="8192" crc="0209C0E5" md5="AB2CFCAAD3DAAF673B2B14FDBB8DAC33" sha1="F3A61BE1E29B42C0675DB51C01F80852AD31D915" />
+		<tgdb>33503</tgdb>
 	</game>
 	<game name="Bumper Bash (Europe)">
 		<description>Bumper Bash (Europe)</description>
 		<rom name="Bumper Bash (Europe).a26" size="4096" crc="863248FC" md5="16EE443C990215F61F7DD1E55A0D2256" sha1="79C008568167BEC1426280690C45E7BA5BD71B3E" />
+		<tgdb>31846</tgdb>
 	</game>
 	<game name="Bumper Bash (USA)">
 		<description>Bumper Bash (USA)</description>
@@ -665,6 +679,7 @@
 	<game name="Burning Desire (Europe)">
 		<description>Burning Desire (Europe)</description>
 		<rom name="Burning Desire (Europe).a26" size="4096" crc="F2593D9B" md5="B42DF8D92E3118DC594CECD575F515D7" sha1="FCF8EEAC23E146D20F93812AB5A9872045F95B52" />
+		<tgdb>31847</tgdb>
 	</game>
 	<game name="Burning Desire (USA)">
 		<description>Burning Desire (USA)</description>
@@ -679,6 +694,7 @@
 	<game name="Cakewalk (Europe)">
 		<description>Cakewalk (Europe)</description>
 		<rom name="Cakewalk (Europe).a26" size="4096" crc="26C5B6BD" md5="0060A89B4C956B9C703A59B181CB3018" sha1="392A3216FFBB616B8F123EAAB3CD3938A63E1191" />
+		<tgdb>31848</tgdb>
 	</game>
 	<game name="Cakewalk (USA)">
 		<description>Cakewalk (USA)</description>
@@ -703,10 +719,12 @@
 	<game name="Care Bears (USA) (Proto)">
 		<description>Care Bears (USA) (Proto)</description>
 		<rom name="Care Bears (USA) (Proto).a26" size="4096" crc="A14A81D1" md5="151C33A71B99E6BCFFB34B43C6F0EC23" sha1="48576A24A40482151F6B3C9687BE442DB27115A8" />
+		<tgdb>54651</tgdb>
 	</game>
 	<game name="Carnival (Europe)">
 		<description>Carnival (Europe)</description>
 		<rom name="Carnival (Europe).a26" size="4096" crc="FB7E75A1" md5="DE29E46DBEA003C3C09C892D668B9413" sha1="0C7BA0272AC8684105DAA28843875017644DCDF9" />
+		<tgdb>27359</tgdb>
 	</game>
 	<game name="Carnival (USA)">
 		<description>Carnival (USA)</description>
@@ -756,6 +774,7 @@
 	<game name="Challenge of.... NEXAR, The (Europe)">
 		<description>Challenge of.... NEXAR, The (Europe)</description>
 		<rom name="Challenge of.... NEXAR, The (Europe).a26" size="4096" crc="44EF0404" md5="1DA2DA7974D2CA73A823523F82F517B3" sha1="15ED5F1533256816980E0F315D1D1A5A43B3D5AA" />
+		<tgdb>28589</tgdb>
 	</game>
 	<game name="Challenge of.... NEXAR, The (USA)">
 		<description>Challenge of.... NEXAR, The (USA)</description>
@@ -785,6 +804,7 @@
 	<game name="China Syndrome (Europe)">
 		<description>China Syndrome (Europe)</description>
 		<rom name="China Syndrome (Europe).a26" size="4096" crc="7690B0C3" md5="E150F0D14F013A104B032305C0CE23EF" sha1="FAAC85C0C61269660237978964A4CF57887CCCFC" />
+		<tgdb>28590</tgdb>
 	</game>
 	<game name="China Syndrome (USA)">
 		<description>China Syndrome (USA)</description>
@@ -824,6 +844,7 @@
 	<game name="Codebreaker (Europe)">
 		<description>Codebreaker (Europe)</description>
 		<rom name="Codebreaker (Europe).a26" size="2048" crc="B1CB7CDC" md5="A47E26096DE6F6487BF5DD2D1CCED294" sha1="0252BB61F8CA0462CC57A273D575C4BCDB5A95F2" />
+		<tgdb>31851</tgdb>
 	</game>
 	<game name="Codebreaker (USA)">
 		<description>Codebreaker (USA)</description>
@@ -833,10 +854,12 @@
 	<game name="Col 'N' (Europe) (Unl)">
 		<description>Col 'N' (Europe) (Unl)</description>
 		<rom name="Col 'N' (Europe) (Unl).a26" size="4096" crc="6E493F49" md5="4093382187F8387E6D011883E8EA519B" sha1="F78C478AACF6536522E8D37A3888A975E1A383CD" />
+		<tgdb>60015</tgdb>
 	</game>
 	<game name="Color Bar Generator (USA)">
 		<description>Color Bar Generator (USA)</description>
 		<rom name="Color Bar Generator (USA).a26" size="4096" crc="19B52142" md5="76A9BF05A6DE8418A3EBC7FC254B71B4" sha1="53C324AE736AFA92A83D619B04E4FE72182281A6" />
+		<tgdb>54663</tgdb>
 	</game>
 	<game name="Colors (Europe) (Proto)">
 		<description>Colors (Europe) (Proto)</description>
@@ -875,6 +898,7 @@
 	<game name="Commando Raid (Europe)">
 		<description>Commando Raid (Europe)</description>
 		<rom name="Commando Raid (Europe).a26" size="4096" crc="A3EE754E" md5="CE5524BB18E3BD8E092273EF22D36CB9" sha1="BDAF4A9071109C6ECDB3D381EF92EFA02C184FD8" />
+		<tgdb>19929</tgdb>
 	</game>
 	<game name="Commando Raid (USA)">
 		<description>Commando Raid (USA)</description>
@@ -884,10 +908,12 @@
 	<game name="Communist Mutants from Space (Europe)">
 		<description>Communist Mutants from Space (Europe)</description>
 		<rom name="Communist Mutants from Space (Europe).a26" size="8448" crc="E8C4DC94" md5="E2C89F270F72CD256ED667507FA038A2" sha1="9AB6E90C2A41684F46592B8E2B71FD19E540B055" />
+		<tgdb>23916</tgdb>
 	</game>
 	<game name="Communist Mutants from Space (Europe) (Beta)">
 		<description>Communist Mutants from Space (Europe) (Beta)</description>
 		<rom name="Communist Mutants from Space (Europe) (Beta).a26" size="8448" crc="D1A5B3BB" md5="7BA07D4EA18BF3B3245C374D8720AD30" sha1="B0483E5DE99833D630433281953A670DD72A0DF4" />
+		<tgdb>23916</tgdb>
 	</game>
 	<game name="Communist Mutants from Space (USA)">
 		<description>Communist Mutants from Space (USA)</description>
@@ -897,6 +923,7 @@
 	<game name="Communist Mutants from Space (USA) (Beta)">
 		<description>Communist Mutants from Space (USA) (Beta)</description>
 		<rom name="Communist Mutants from Space (USA) (Beta).a26" size="8448" crc="CA6BB788" md5="D541B20EAE221A8EE321375E5971E766" sha1="AD18885ED38516C3E136293AE565C113F299D223" />
+		<tgdb>23916</tgdb>
 	</game>
 	<game name="Computer Chess (USA) (Proto)">
 		<description>Computer Chess (USA) (Proto)</description>
@@ -1212,6 +1239,7 @@
 	<game name="Extra Terrestrials (USA)">
 		<description>Extra Terrestrials (USA)</description>
 		<rom name="Extra Terrestrials (USA).a26" size="4096" crc="3889D018" md5="EBD2488DCACE40474C1A78FA53EBFADF" sha1="C7BA5912D40EB2992FDA0F99EB7028D99EDAD72C" />
+		<tgdb>45824</tgdb>
 	</game>
 	<game name="Fantastic Voyage (USA)">
 		<description>Fantastic Voyage (USA)</description>
@@ -1319,6 +1347,7 @@
 	<game name="Frog Pond (USA) (Proto)">
 		<description>Frog Pond (USA) (Proto)</description>
 		<rom name="Frog Pond (USA) (Proto).a26" size="8192" crc="5874385A" md5="F67181B3A01B9C9159840B15449B87B0" sha1="0D6A96F857AE0E813B4D493866E2420CC5C4BAD5" />
+		<tgdb>52337</tgdb>
 	</game>
 	<game name="Frogger (USA)">
 		<description>Frogger (USA)</description>
@@ -1348,6 +1377,7 @@
 	<game name="Funky Fish (USA) (Proto)">
 		<description>Funky Fish (USA) (Proto)</description>
 		<rom name="Funky Fish (USA) (Proto).a26" size="8192" crc="B53B33F1" md5="D3BB42228A6CD452C111C1932503CC03" sha1="FBA461D2A2D1395945806C883F4DCA925712885E" />
+		<tgdb>52338</tgdb>
 	</game>
 	<game name="G.I. Joe - Cobra Strike (USA)">
 		<description>G.I. Joe - Cobra Strike (USA)</description>
@@ -1372,6 +1402,7 @@
 	<game name="Garfield (USA) (Proto)">
 		<description>Garfield (USA) (Proto)</description>
 		<rom name="Garfield (USA) (Proto).a26" size="16384" crc="F20CADCF" md5="DC13DF8420EC69841A7C51E41B9FBBA5" sha1="BC0D1EDC251D8D4DB3D5234EC83DEE171642A547" />
+		<tgdb>52339</tgdb>
 	</game>
 	<game name="Gas Hog (USA)">
 		<description>Gas Hog (USA)</description>
@@ -1416,6 +1447,7 @@
 	<game name="Going-Up (USA) (Proto)">
 		<description>Going-Up (USA) (Proto)</description>
 		<rom name="Going-Up (USA) (Proto).a26" size="8448" crc="CB864B21" md5="CFB83A3B0513ACAF8BE4CAE1512281DC" sha1="7AB02D3FC90B036BD13631D60063C51998E9A325" />
+		<tgdb>54664</tgdb>
 	</game>
 	<game name="Golf (USA)">
 		<description>Golf (USA)</description>
@@ -1454,6 +1486,7 @@
 	<game name="Great Escape (USA)">
 		<description>Great Escape (USA)</description>
 		<rom name="Great Escape (USA).a26" size="4096" crc="99C240C1" md5="9245A84E9851565D565CB6C9FAC5802B" sha1="EF0843C0DAA171BD6C7A2A1530BAFB189B59DA86" />
+		<tgdb>45826</tgdb>
 	</game>
 	<game name="Gremlins (USA)">
 		<description>Gremlins (USA)</description>
@@ -1463,6 +1496,7 @@
 	<game name="Grover's Music Maker (USA) (Proto)">
 		<description>Grover's Music Maker (USA) (Proto)</description>
 		<rom name="Grover's Music Maker (USA) (Proto).a26" size="8192" crc="E1372B28" md5="66B89BA44E7AE0B51F9EF000EBBA1EB7" sha1="B9760FFBA05139BCA0FAC3F7D3DC1E5D57600EDA" />
+		<tgdb>52358</tgdb>
 	</game>
 	<game name="Guardian (USA)">
 		<description>Guardian (USA)</description>
@@ -1492,10 +1526,12 @@
 	<game name="Hard-Head (USA) (Proto)">
 		<description>Hard-Head (USA) (Proto)</description>
 		<rom name="Hard-Head (USA) (Proto).a26" size="4096" crc="5C009EA0" md5="700A786471C8A91EC09E2F8E47F14A04" sha1="A25C4B33E1C86895CB63635BD6CA5B8379A206B3" />
+		<tgdb>54665</tgdb>
 	</game>
 	<game name="Harem (USA) (Proto)">
 		<description>Harem (USA) (Proto)</description>
 		<rom name="Harem (USA) (Proto).a26" size="4096" crc="E4466537" md5="A34560841E0878C7B14CC65F79F6967D" sha1="90495BEA80158430FF63BD3DB97724CF3CE22736" />
+		<tgdb>52362</tgdb>
 	</game>
 	<game name="Haunted House (USA)">
 		<description>Haunted House (USA)</description>
@@ -1510,6 +1546,7 @@
 	<game name="Hole Hunter (USA)">
 		<description>Hole Hunter (USA)</description>
 		<rom name="Hole Hunter (USA).a26" size="4096" crc="66D5CE67" md5="3D48B8B586A09BDBF49F1A016BF4D29A" sha1="F275C7CA9A76FB758F52548B8597BC13245263B6" />
+		<tgdb>53442</tgdb>
 	</game>
 	<game name="Holey Moley (USA) (Proto)">
 		<description>Holey Moley (USA) (Proto)</description>
@@ -1544,6 +1581,7 @@
 	<game name="I.Q. Memory Teaser (Europe)">
 		<description>I.Q. Memory Teaser (Europe)</description>
 		<rom name="I.Q. Memory Teaser (Europe).a26" size="4096" crc="75AB6BA8" md5="DC33479D66615A3B09670775DE4C2A38" sha1="FA05A35DE4C401704538CC256F46440F42DE3DDB" />
+		<tgdb>44094</tgdb>
 	</game>
 	<game name="Ice Hockey (USA)">
 		<description>Ice Hockey (USA)</description>
@@ -1623,6 +1661,7 @@
 	<game name="Kabobber (USA) (Proto)">
 		<description>Kabobber (USA) (Proto)</description>
 		<rom name="Kabobber (USA) (Proto).a26" size="4096" crc="9517EE0E" md5="B9D1E3BE30B131324482345959AED5E5" sha1="CE8AC88B799C282567495CE509402A5A4C2C4D82" />
+		<tgdb>38200</tgdb>
 	</game>
 	<game name="Kaboom! (USA)">
 		<description>Kaboom! (USA)</description>
@@ -1687,6 +1726,7 @@
 	<game name="Kyphus (USA) (Proto)">
 		<description>Kyphus (USA) (Proto)</description>
 		<rom name="Kyphus (USA) (Proto).a26" size="4096" crc="79BD22E2" md5="B86552198F52CFCE721BAFB496363099" sha1="B4B55E0B6B5D7490565B00C03361199F05FB70B8" />
+		<tgdb>71461</tgdb>
 	</game>
 	<game name="Laaser Voley (Europe) (Pirate)">
 		<description>Laaser Voley (Europe) (Pirate)</description>
@@ -1711,6 +1751,7 @@
 	<game name="Lasercade (USA) (Proto)">
 		<description>Lasercade (USA) (Proto)</description>
 		<rom name="Lasercade (USA) (Proto).a26" size="4096" crc="EF4FF656" md5="1FAB68FD67FE5A86B2C0A9227A59BB95" sha1="B6D40F1BDB1E2660254D88FF3089F2AFC578CFFE" />
+		<tgdb>48148</tgdb>
 	</game>
 	<game name="Lilly Adventure (Europe)">
 		<description>Lilly Adventure (Europe)</description>
@@ -1720,6 +1761,7 @@
 	<game name="Lilly Adventure (USA)">
 		<description>Lilly Adventure (USA)</description>
 		<rom name="Lilly Adventure (USA).a26" size="4096" crc="C6D30567" md5="3947EB7305B0C904256CDBC5C5956C0F" sha1="8FF6B530C0208DEFAC18C96A51DE95FDA7228BE8" />
+		<tgdb>17517</tgdb>
 	</game>
 	<game name="Lochjaw (USA)">
 		<description>Lochjaw (USA)</description>
@@ -3349,6 +3391,7 @@
 	<game name="Xevious (USA) (01-18-1984) (Proto)">
 		<description>Xevious (USA) (01-18-1984) (Proto) (Unreleased prototype but nearly 100% finished version)</description>
 		<rom name="Xevious (USA) (01-18-1984) (Proto).a26" size="8192" crc="F5802A6C" md5="AF6F3E9718BCCFCD8AFB421F96561A34" sha1="53F941CABF661A9CE763142B070571F6FD4C8820" />
+		<tgdb>44123</tgdb>
 	</game>
 	<game name="Xevious (USA) (08-02-1983) (Proto)">
 		<description>Xevious (USA) (08-02-1983) (Proto)</description>
