@@ -58,4 +58,29 @@
 		<rom name="Goodboy Galaxy Chapter Zero v1.0.1 (Zh).gba" size="13148452" crc="84203678" md5="946ddc5b52daa5729abffe883bb3c0ae" sha1="83da19ccc5365c825e173f11d416564edb04225c" />
 		<tgdb>91639</tgdb>
 	</game>
+	<game name="Goodboy Galaxy Chapter Zero v1.0.2 (En)">
+		<description>Goodboy Galaxy Chapter Zero v1.0.2 (En)</description>
+		<rom name="Goodboy Galaxy Chapter Zero v1.0.2 (En).gba" size="13103028" crc="83a0c5a7" md5="01aca1bcd3828d39d21c6123993261f2" sha1="ee42bef05a58c418767ca2da636725d060e23b2e" />
+		<tgdb>91639</tgdb>
+	</game>
+	<game name="Goodboy Galaxy Chapter Zero v1.0.2 (Es)">
+		<description>Goodboy Galaxy Chapter Zero v1.0.2 (Es)</description>
+		<rom name="Goodboy Galaxy Chapter Zero v1.0.2 (Es).gba" size="13102964" crc="332eab59" md5="f63546325376a5e12993e849db3b837a" sha1="590363ae02d3996f11347a1ecd5c9cb352b19841" />
+		<tgdb>91639</tgdb>
+	</game>
+	<game name="Goodboy Galaxy Chapter Zero v1.0.2 (Fr)">
+		<description>Goodboy Galaxy Chapter Zero v1.0.2 (Fr)</description>
+		<rom name="Goodboy Galaxy Chapter Zero v1.0.2 (Fr).gba" size="13104028" crc="43ff0540" md5="1d35e4868e7ba7831d164edf16431204" sha1="1a7ff006fdd21ba8dfefdd7e40f6b638f3603996" />
+		<tgdb>91639</tgdb>
+	</game>
+	<game name="Goodboy Galaxy Chapter Zero v1.0.2 (Ja)">
+		<description>Goodboy Galaxy Chapter Zero v1.0.2 (Ja)</description>
+		<rom name="Goodboy Galaxy Chapter Zero v1.0.2 (Ja).gba" size="13098640" crc="98d13c7e" md5="e9ec90407873a7ff8ba3898a5ef8ea22" sha1="5f50fbdd3b5d78e1aaf01f643a7bea33fbfc7f15" />
+		<tgdb>91639</tgdb>
+	</game>
+	<game name="Goodboy Galaxy Chapter Zero v1.0.2 (Zh)">
+		<description>Goodboy Galaxy Chapter Zero v1.0.2 (Zh)</description>
+		<rom name="Goodboy Galaxy Chapter Zero v1.0.2 (Zh).gba" size="13148012" crc="a3c23f31" md5="d05f387e6f6ed73e279746c2e15e39ea" sha1="2d291b3e7f726bb1fa6911ef83253d90d9974b9e" />
+		<tgdb>91639</tgdb>
+	</game>
 </datafile>
